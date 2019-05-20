@@ -1,0 +1,500 @@
+15:12:45.643 [main] DEBUG Page.Nyl_ProductPage - Select Self for Mid/Short Term disability Insurance Product
+15:12:48.823 [main] INFO  Page.Nyl_ProductPage - Mid/Short Term disability Insurance Product for self is selected sucessfully|| Pass
+15:12:48.825 [main] DEBUG Page.Nyl_ProductPage - Select Self for Practice OverHead/Business Overhead/Office Overhead Product
+15:12:51.487 [main] INFO  Page.Nyl_ProductPage - Practice OverHead/Business Overhead/Office Overhead Product for Self is selected sucessfully|| Pass
+15:12:51.487 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:12:59.593 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:12:59.593 [main] DEBUG Page.Nyl_ProductPage - Select No Options for additional Questions Group Disability Insurance
+15:12:59.778 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance is selected Sucessfully|| Pass
+15:12:59.780 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:13:03.463 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:13:03.463 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly Expense and Percentage for Disability Coverage
+15:13:03.611 [main] INFO  Page.Nyl_ProductPage -  Average Monthly Expense and Percentage for Disability Coverage is Entered Sucessfully|| Pass
+15:13:03.613 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:13:11.705 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:13:11.705 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+15:13:11.752 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+15:13:11.752 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:13:11.816 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:13:11.831 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:13:12.965 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:13:12.967 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:13:19.398 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:13:19.400 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:13:27.505 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:13:27.505 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:13:35.607 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:13:35.607 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:13:43.731 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:13:43.731 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:13:43.811 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:13:43.811 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:13:44.953 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:13:44.955 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+15:13:46.286 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+15:13:46.288 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:13:46.919 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:13:46.921 [main] DEBUG Page.Nyl_EligibilityPage - Select YES Radio Button for Full time Employee
+15:13:47.575 [main] INFO  Page.Nyl_EligibilityPage - YES Radio button for for Full time Employee is selected successfully...|| Pass
+15:13:47.577 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:13:55.692 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:13:55.692 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:03.797 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:03.797 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:11.907 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:11.907 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:14:11.983 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:14:11.983 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for self for STD Product
+15:14:12.046 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for self forSTD are validated sucessfully || Pass
+15:14:12.046 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:14:13.167 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:14:13.169 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:21.365 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:21.365 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:29.471 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:29.471 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:14:33.190 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:14:33.190 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:41.276 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:41.276 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:14:41.354 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:14:41.354 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:14:42.466 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:14:42.469 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:50.775 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:50.775 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:14:58.880 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:14:58.880 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:15:02.574 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:15:02.574 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:15:10.672 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:15:10.672 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:15:10.747 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:15:10.763 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:15:11.880 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:15:11.882 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:15:19.996 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:15:19.996 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:15:28.196 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:15:28.196 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:16:58.930 [main] ERROR Page.Nyl_ProductPage - Not able to Enter Monthly average Income || FailTimed out after 10 seconds. Unable to locate the element
+15:16:59.008 [main] INFO  StepDef.ServiceHooks - <AOA_SC03> Application submission for Self only with DI & OO products. is Failed
+15:21:22.981 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+15:21:22.987 [main] DEBUG Selenium.SetUp - Navigating to URL
+15:21:26.340 [main] INFO  Selenium.SetUp - Navigate URL successfully
+15:21:56.339 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+15:21:56.343 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+15:21:56.463 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+15:21:56.465 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+15:21:58.054 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+15:21:58.056 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+15:22:00.197 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+15:22:00.199 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+15:22:06.595 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+15:22:06.599 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+15:22:06.734 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+15:22:06.737 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:22:07.383 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:22:07.384 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Practice for More than Six Months
+15:22:08.013 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Practice for More than Six Months is selected successfully...|| Pass
+15:22:08.015 [main] DEBUG Page.Nyl_EligibilityPage - Enter Self Work Hour Details
+15:22:12.180 [main] INFO  Page.Nyl_EligibilityPage - Work Hour for self are Entered successfully || Pass
+15:22:12.183 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:22:20.311 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:22:20.314 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:22:20.371 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:22:20.374 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for FiveYTL
+15:22:20.417 [main] INFO  Page.Nyl_ProductPage - Self is displayed for FiveYTL
+15:22:20.417 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for LTD
+15:22:20.445 [main] INFO  Page.Nyl_ProductPage - Self is displayed for LTD
+15:22:20.445 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for Mid/Short Term
+15:22:20.474 [main] INFO  Page.Nyl_ProductPage - Self is displayed for Mid/Short Term
+15:22:20.474 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for Practice/Office Overhead
+15:22:20.504 [main] INFO  Page.Nyl_ProductPage - Self is displayed for Practice/Office Overhead Term
+15:22:20.506 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+15:22:25.591 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+15:22:25.594 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:22:30.456 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:22:30.460 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:22:38.583 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:22:38.586 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:22:38.631 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:22:38.635 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:22:46.694 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:22:46.698 [main] DEBUG Page.Nyl_ProductPage - Validate Error Message on Product Page
+15:22:46.780 [main] INFO  Page.Nyl_ProductPage - Error Message on Product Page is validated successfully || Pass
+15:22:46.782 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance is not displayed
+15:22:46.810 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life/Group Term Life Insurance Product is displayed
+15:22:46.811 [main] DEBUG Page.Nyl_ProductPage - Validates that PO/OO/BOE product is displayed
+15:22:46.842 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+15:22:51.894 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+15:22:51.898 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:22:56.746 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:22:56.749 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:23:04.858 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:23:04.861 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:23:04.906 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:23:04.908 [main] DEBUG Page.Nyl_ProductPage - Select Self for Long Term disability Insurance Product
+15:23:08.040 [main] INFO  Page.Nyl_ProductPage - Long Term disability  Insurance Product for self is selected sucessfully|| Pass
+15:23:08.043 [main] DEBUG Page.Nyl_ProductPage - Select Self for Mid/Short Term disability Insurance Product
+15:23:11.164 [main] INFO  Page.Nyl_ProductPage - Mid/Short Term disability Insurance Product for self is selected sucessfully|| Pass
+15:23:11.167 [main] DEBUG Page.Nyl_ProductPage - Select Self for Practice OverHead/Business Overhead/Office Overhead Product
+15:23:13.787 [main] INFO  Page.Nyl_ProductPage - Practice OverHead/Business Overhead/Office Overhead Product for Self is selected sucessfully|| Pass
+15:23:13.790 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:23:21.879 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:23:21.882 [main] DEBUG Page.Nyl_ProductPage - Select No Options for additional Questions Group Disability Insurance
+15:23:22.075 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance is selected Sucessfully|| Pass
+15:23:22.077 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:23:25.724 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:23:25.728 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly Expense and Percentage for Disability Coverage
+15:23:25.874 [main] INFO  Page.Nyl_ProductPage -  Average Monthly Expense and Percentage for Disability Coverage is Entered Sucessfully|| Pass
+15:23:25.876 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:23:33.945 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:23:33.947 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+15:23:33.979 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+15:23:33.981 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:23:34.046 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:23:34.048 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:23:35.171 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:23:35.173 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:23:41.133 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:23:41.135 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:23:49.251 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:23:49.254 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:23:57.339 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:23:57.342 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:24:05.439 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:24:05.442 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:24:05.524 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:24:05.525 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:24:06.646 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:24:06.648 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+15:24:07.905 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+15:24:07.907 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:24:08.548 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:24:08.550 [main] DEBUG Page.Nyl_EligibilityPage - Select YES Radio Button for Full time Employee
+15:24:09.155 [main] INFO  Page.Nyl_EligibilityPage - YES Radio button for for Full time Employee is selected successfully...|| Pass
+15:24:09.157 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:24:17.258 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:24:17.261 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:24:25.349 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:24:25.352 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:24:33.435 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:24:33.438 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:24:33.508 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:24:33.509 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for self for STD Product
+15:24:33.565 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for self forSTD are validated sucessfully || Pass
+15:24:33.567 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:24:34.665 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:24:34.667 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:24:42.829 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:24:42.832 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:24:50.916 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:24:50.919 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:24:54.589 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:24:54.592 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:25:02.675 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:25:02.678 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:25:02.752 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:25:02.754 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:25:03.855 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:25:03.857 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:25:12.089 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:25:12.092 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:25:20.173 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:25:20.176 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:25:23.844 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:25:23.847 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:25:31.910 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:25:31.913 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:25:32.001 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:25:32.003 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:25:33.108 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:25:33.109 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:25:41.291 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:25:41.293 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:25:49.382 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:25:49.385 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:25:53.042 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:25:53.044 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:26:01.120 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:26:01.123 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:26:01.200 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:26:01.202 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:26:02.324 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:26:02.326 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+15:26:03.640 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+15:26:03.642 [main] DEBUG Page.Nyl_EligibilityPage - Select Yes Radio button for Student Member
+15:26:04.291 [main] INFO  Page.Nyl_EligibilityPage - Yes Radio button for Student Member is selected successfully...|| Pass
+15:26:04.292 [main] DEBUG Page.Nyl_EligibilityPage - Enter Self Work Hour Details
+15:26:08.465 [main] INFO  Page.Nyl_EligibilityPage - Work Hour for self are Entered successfully || Pass
+15:26:08.467 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:26:16.607 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:26:16.609 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:26:24.673 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:26:24.675 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:26:32.767 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:26:32.769 [main] DEBUG Page.Nyl_CoveragePage - Validates Benefit Duration Dropdown for Self value under GTLDI
+15:26:33.912 [main] INFO  Page.Nyl_CoveragePage -  Benefit Duration Dropdown for Self value under GTLDI are validated sucessfully || Pass
+15:26:33.914 [main] DEBUG Page.Nyl_CoveragePage - Validates Benefit Amount under GTLDI for Self
+15:26:35.933 [main] INFO  Page.Nyl_CoveragePage - Benefit Amount under GTLDI for Self is validated sucessfully || Pass
+15:26:35.935 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:26:36.994 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:26:36.995 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:26:38.965 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:26:38.967 [main] DEBUG Page.Nyl_EligibilityPage - Select YES Radio button for Practice for More than Six Months
+15:26:39.580 [main] INFO  Page.Nyl_EligibilityPage - YES Radio button for Practice for More than Six Months is selected successfully...|| Pass
+15:26:39.581 [main] DEBUG Page.Nyl_EligibilityPage - Enter Self Work Hour Details
+15:26:43.683 [main] INFO  Page.Nyl_EligibilityPage - Work Hour for self are Entered successfully || Pass
+15:26:43.684 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:26:51.774 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:26:51.777 [main] DEBUG Page.Nyl_ProductPage - Select Self for Mid/Short Term disability Insurance Product
+15:26:54.893 [main] INFO  Page.Nyl_ProductPage - Mid/Short Term disability Insurance Product for self is selected sucessfully|| Pass
+15:26:54.895 [main] DEBUG Page.Nyl_ProductPage - Select Self for Practice OverHead/Business Overhead/Office Overhead Product
+15:26:57.524 [main] INFO  Page.Nyl_ProductPage - Practice OverHead/Business Overhead/Office Overhead Product for Self is selected sucessfully|| Pass
+15:26:57.525 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:27:05.581 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:27:05.582 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly Expense and Percentage for Disability Coverage
+15:27:05.721 [main] INFO  Page.Nyl_ProductPage -  Average Monthly Expense and Percentage for Disability Coverage is Entered Sucessfully|| Pass
+15:27:05.723 [main] DEBUG Page.Nyl_ProductPage - Select No Options for other business question of Group Disability Insurance
+15:27:05.827 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance is selected Sucessfully|| Pass
+15:27:05.829 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:27:13.922 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:27:13.923 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+15:27:13.955 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+15:27:13.957 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Group Long term Disability  Products
+15:27:13.982 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+15:27:15.039 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=500
+Benefit Amount is 500
+15:27:15.039 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+15:27:15.039 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+15:27:15.039 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Group Long term Disability Product sucessfully || Pass
+15:27:15.041 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Group Long term Disability  Products
+15:27:17.376 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Group Long term Disability  Product sucessfully || Pass
+15:27:17.377 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Duration for Group Long term Disability  Products
+15:27:19.607 [main] INFO  Page.Nyl_CoveragePage - Benefit Duration is  selected for Self of Group Long term Disability  Product sucessfully || Pass
+15:27:19.608 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Short term Disability Products
+15:27:20.737 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+15:27:21.813 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 1500
+15:27:22.081 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+15:27:22.081 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Short term Disability Product sucessfully || Pass
+15:27:22.083 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Short term Disability Products
+15:27:22.247 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Short term Disability Product sucessfully || Pass
+15:27:22.250 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit duration for Short term Disability Products
+15:27:22.465 [main] INFO  Page.Nyl_CoveragePage - Benefit duration is selected for Self of Short term Disability Product sucessfully || Pass
+15:27:22.467 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Professional/Office Overhead/Business Overhead Disability Products
+15:27:24.570 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+15:27:25.635 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 100
+15:27:25.635 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+15:27:25.635 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+15:27:25.635 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self Professional/Office Overhead/Business Overhead Disability Product sucessfully || Pass
+15:27:25.637 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Practice Overhead/Business Overhead Products
+15:27:25.824 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Practice Overhead/Business Overhead Product sucessfully || Pass
+15:27:25.826 [main] DEBUG Page.Nyl_CoveragePage - Selects Benefit Duration for Self under BOE from dropdown
+15:27:27.016 [main] INFO  Page.Nyl_CoveragePage - Selected Benefit Duration for Self from dropdown sucessfully || Pass
+15:27:27.017 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:27:35.100 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:27:35.101 [main] DEBUG Page.Nyl_ContactPage - Contact page is displayed
+15:27:35.138 [main] INFO  Page.Nyl_ContactPage - Contact page is displayed is sucessful || Pass
+15:27:35.139 [main] DEBUG Page.Nyl_ContactPage - Enter contact details Without SSN and MemberId for Self
+15:27:39.369 [main] INFO  Page.Nyl_ContactPage - Contact details Without SSN and MemberId for Self added successfully || Pass
+15:27:39.371 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+15:27:41.722 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+15:27:41.723 [main] DEBUG Page.Nyl_BeneficiaryPage - Verify that the Beneficiary tab is disabled
+15:27:41.761 [main] DEBUG Page.Nyl_ContactPage - Select Yes radio Button for NON QD Travel Question for Self
+15:27:41.887 [main] INFO  Page.Nyl_ContactPage - NON QD Travel Question for Self Radio Button is selected Sucessfully|| Pass
+15:27:41.889 [main] DEBUG Page.Nyl_ContactPage - Enter Outside U.S Details for Self
+15:27:42.576 [main] INFO  Page.Nyl_ContactPage - Outside U.S Details for Self details enter successfully || Pass
+15:27:42.578 [main] DEBUG Page.Nyl_ContactPage - Select Business Address Radio Button
+15:27:44.699 [main] INFO  Page.Nyl_ContactPage -  Business Address  Radio Button is selected Sucessfully|| Pass
+15:27:44.701 [main] DEBUG Page.Nyl_ContactPage - Select Business Address Radio Button same as Above as NO
+15:27:45.789 [main] INFO  Page.Nyl_ContactPage -  Business Address NO  Radio Button is selected Sucessfully|| Pass
+15:27:45.790 [main] DEBUG Page.Nyl_ContactPage - Enter Business Details
+15:27:46.048 [main] INFO  Page.Nyl_ContactPage -  Business details are entered Sucessfully|| Pass
+15:27:46.050 [main] DEBUG Page.Nyl_ContactPage - Enter Business Address Details
+15:27:46.481 [main] INFO  Page.Nyl_ContactPage -  Business Address details are entered Sucessfully|| Pass
+15:27:46.482 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:27:54.579 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:27:54.581 [main] DEBUG Page.Nyl_ContactPage - Validate Error Message for SSN for Self
+15:27:55.771 [main] INFO  Page.Nyl_ContactPage - Error Messege for SSN for Self validated sucessfully|| Pass
+15:27:55.773 [main] DEBUG Page.Nyl_ContactPage - Enter SSN for Self
+15:27:55.890 [main] INFO  Page.Nyl_ContactPage - SSN for Self is entered successfully || Pass
+15:27:55.899 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:28:03.993 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:28:03.994 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+15:28:30.409 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+15:28:30.411 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:28:38.460 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:28:38.461 [main] DEBUG Page.Nyl_AuthorizePage - Confirm the term and conditions for Self
+15:28:43.565 [main] INFO  Page.Nyl_AuthorizePage - Term and Conditions for Self selected successfully || Pass
+15:28:43.567 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:28:51.641 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:28:51.642 [main] DEBUG Page.Nyl_SignaturePage - Continue and attached the sign
+15:29:40.545 [main] INFO  Page.Nyl_SignaturePage - Signature Added successfully || Pass
+15:29:40.546 [main] DEBUG Page.Nyl_SignaturePage - Click on next button to finish
+15:29:55.662 [main] INFO  Page.Nyl_SignaturePage - Click on next to finish button successfully || Pass
+15:29:55.663 [main] DEBUG Page.Nyl_BasicInfo - Thank You Page is displayed to user with Receipt number
+15:29:56.373 [main] INFO  Page.Nyl_BasicInfo - Thank You Page is displayed to user with Receipt number successfully || Pass
+15:29:56.374 [main] DEBUG Page.Nyl_BasicInfo - Confirmation number is generated
+15:29:59.094 [main] INFO  Page.Nyl_BasicInfo - Confirmation number is generated and written in excel sheet || Pass
+15:30:40.925 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+15:30:40.942 [main] DEBUG Selenium.SetUp - Navigating to URL
+15:30:56.512 [main] INFO  Selenium.SetUp - Navigate URL successfully
+15:31:26.525 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+15:31:26.525 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+15:31:26.647 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+15:31:26.649 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+15:31:28.628 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+15:31:28.630 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+15:31:30.755 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+15:31:30.758 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+15:31:37.281 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+15:31:37.281 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+15:31:37.389 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+15:31:37.391 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:31:38.040 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:31:38.042 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Practice for More than Six Months
+15:31:38.671 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Practice for More than Six Months is selected successfully...|| Pass
+15:31:38.673 [main] DEBUG Page.Nyl_EligibilityPage - Enter Self Work Hour Details
+15:31:42.815 [main] INFO  Page.Nyl_EligibilityPage - Work Hour for self are Entered successfully || Pass
+15:31:42.815 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:31:50.926 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:31:50.926 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:31:50.958 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:31:50.973 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for FiveYTL
+15:31:51.004 [main] INFO  Page.Nyl_ProductPage - Self is displayed for FiveYTL
+15:31:51.004 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for LTD
+15:31:51.036 [main] INFO  Page.Nyl_ProductPage - Self is displayed for LTD
+15:31:51.036 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for Mid/Short Term
+15:31:51.067 [main] INFO  Page.Nyl_ProductPage - Self is displayed for Mid/Short Term
+15:31:51.080 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for Practice/Office Overhead
+15:31:51.096 [main] INFO  Page.Nyl_ProductPage - Self is displayed for Practice/Office Overhead Term
+15:31:51.096 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+15:31:56.174 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+15:31:56.174 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:32:01.061 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:32:01.063 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:32:09.176 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:32:09.176 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:32:09.207 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:32:09.207 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:32:17.293 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:32:17.293 [main] DEBUG Page.Nyl_ProductPage - Validate Error Message on Product Page
+15:32:17.356 [main] INFO  Page.Nyl_ProductPage - Error Message on Product Page is validated successfully || Pass
+15:32:17.356 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance is not displayed
+15:32:17.387 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life/Group Term Life Insurance Product is displayed
+15:32:17.387 [main] DEBUG Page.Nyl_ProductPage - Validates that PO/OO/BOE product is displayed
+15:32:17.416 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+15:32:22.503 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+15:32:22.503 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:32:27.401 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:32:27.403 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:32:35.473 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:32:35.473 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:32:35.513 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:32:35.515 [main] DEBUG Page.Nyl_ProductPage - Select Self for Long Term disability Insurance Product
+15:32:38.655 [main] INFO  Page.Nyl_ProductPage - Long Term disability  Insurance Product for self is selected sucessfully|| Pass
+15:32:38.658 [main] DEBUG Page.Nyl_ProductPage - Select Self for Mid/Short Term disability Insurance Product
+15:32:41.793 [main] INFO  Page.Nyl_ProductPage - Mid/Short Term disability Insurance Product for self is selected sucessfully|| Pass
+15:32:41.795 [main] DEBUG Page.Nyl_ProductPage - Select Self for Practice OverHead/Business Overhead/Office Overhead Product
+15:32:44.441 [main] INFO  Page.Nyl_ProductPage - Practice OverHead/Business Overhead/Office Overhead Product for Self is selected sucessfully|| Pass
+15:32:44.441 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:32:52.507 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:32:52.507 [main] DEBUG Page.Nyl_ProductPage - Select No Options for additional Questions Group Disability Insurance
+15:32:52.682 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance is selected Sucessfully|| Pass
+15:32:52.684 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:32:56.386 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:32:56.386 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly Expense and Percentage for Disability Coverage
+15:32:56.538 [main] INFO  Page.Nyl_ProductPage -  Average Monthly Expense and Percentage for Disability Coverage is Entered Sucessfully|| Pass
+15:32:56.540 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:33:04.593 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:33:04.593 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+15:33:04.624 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+15:33:04.624 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:33:04.728 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:33:04.728 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:33:05.857 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:33:05.859 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+15:33:12.307 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+15:33:12.309 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:33:20.413 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:33:20.413 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:33:28.501 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:33:28.501 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:33:36.588 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:33:36.588 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:33:36.693 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:33:36.693 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:33:37.832 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:33:37.833 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+15:33:39.148 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+15:33:39.150 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:33:39.788 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:33:39.790 [main] DEBUG Page.Nyl_EligibilityPage - Select YES Radio Button for Full time Employee
+15:33:40.425 [main] INFO  Page.Nyl_EligibilityPage - YES Radio button for for Full time Employee is selected successfully...|| Pass
+15:33:40.427 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:33:48.548 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:33:48.548 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:33:56.648 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:33:56.648 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:04.753 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:04.753 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:34:04.836 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:34:04.836 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for self for STD Product
+15:34:04.899 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for self forSTD are validated sucessfully || Pass
+15:34:04.899 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:34:06.011 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:34:06.013 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:14.371 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:14.371 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:22.474 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:22.474 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:34:26.217 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+15:34:26.217 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:34.314 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:34.314 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Group Long term Disability Products
+15:34:34.393 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Group Long term Disability Products are validated sucessfully || Pass
+15:34:34.393 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:34:35.518 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:34:35.520 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:43.619 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:43.619 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:51.748 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:51.748 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+15:36:05.612 [main] ERROR Page.Nyl_ProductPage - Not able to Enter Monthly average Income || Failnull
+15:36:05.816 [main] INFO  StepDef.ServiceHooks - <AOA_SC03> Application submission for Self only with DI & OO products. is Failed
+15:36:07.948 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+15:36:07.958 [main] DEBUG Selenium.SetUp - Navigating to URL
+15:36:21.033 [main] INFO  Selenium.SetUp - Navigate URL successfully
+15:36:51.033 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+15:36:51.033 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+15:36:51.175 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+15:36:51.177 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+15:36:53.050 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+15:36:53.051 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+15:36:55.173 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+15:36:55.175 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+15:37:01.722 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+15:37:01.726 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+15:37:01.828 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+15:37:01.830 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Student Member
+15:37:02.495 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Student Member is selected successfully...|| Pass
+15:37:02.497 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio button for Practice for More than Six Months
+15:37:03.127 [main] INFO  Page.Nyl_EligibilityPage - NO Radio button for Practice for More than Six Months is selected successfully...|| Pass
+15:37:03.128 [main] DEBUG Page.Nyl_EligibilityPage - Enter Self Work Hour Details
+15:37:07.335 [main] INFO  Page.Nyl_EligibilityPage - Work Hour for self are Entered successfully || Pass
+15:37:07.338 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:37:15.435 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:37:15.438 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:37:15.497 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:37:15.499 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for FiveYTL
+15:37:15.542 [main] INFO  Page.Nyl_ProductPage - Self is displayed for FiveYTL
+15:37:15.542 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for LTD
+15:37:15.586 [main] INFO  Page.Nyl_ProductPage - Self is displayed for LTD
+15:37:15.586 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for Mid/Short Term
+15:37:15.620 [main] INFO  Page.Nyl_ProductPage - Self is displayed for Mid/Short Term
+15:37:15.620 [main] DEBUG Page.Nyl_ProductPage - Verify the Self is displayed for Practice/Office Overhead
+15:37:15.648 [main] INFO  Page.Nyl_ProductPage - Self is displayed for Practice/Office Overhead Term
+15:37:15.650 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button

@@ -1,0 +1,5 @@
+Send("^s")
+Sleep(2)
+WinWaitActive("Save As")
+Sleep(3)
+Send("{enter}")

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="496.194899">
+<testcase classname="Abe Rate Test" name="&lt;ABESCR03&gt;Complete work flow of application for Smoker,Montana" time="496.194899">
+<system-out><![CDATA[Given Test set up for "NYL" feature and "NYL_ABE" scenario..................passed
+Given Customer navigate to NYL "abe"........................................passed
+When Clicks on Apply now button.............................................passed
+And Scroll down and click on I Attest To Having Read the Above Information button.passed
+Then Eligibility page details are displayed to user.........................passed
+And Select YES Radio button of Membership...................................passed
+Then Click on Self..........................................................passed
+Then Click on Spouse........................................................passed
+And Enter details for Self as "Mr.", "Sheldon", "Cooper" , "Montana", "SYSDATE - 17Y/0M/0D", "40".passed
+And Enters Eligibility details for Spouse as "Mrs.","Carla","Cooper","SYSDATE - 17Y/0M/0D","45".passed
+And Select radio button NO for Spouse is Member.............................passed
+And Clicks on next button...................................................passed
+Then Product page details are displayed to user.............................passed
+And Selects product TenYTL for Self.........................................passed
+And Selects product TenYTL for Spouse.......................................passed
+And Selects product TwentyYTL for Self......................................passed
+And Selects product TwentyYTL for Spouse....................................passed
+And Clicks on next button...................................................passed
+Then Product: Additional Questions page details are displayed to user and selects Answer as No for all for Self.passed
+Then Product: Additional Questions page details are displayed to user and selects Answer as No for all for Spouse.passed
+And Clicks on next button...................................................passed
+Then Request Coverage page is displayed to user.............................passed
+And Selects Benefit Amount for Self as "$1,000,000" under TenYTL............passed
+And Selects Benefit Amount for Spouse as "$1,000,000" under TenYTL..........passed
+And Selects Benefit Amount for Self as "$1,000,000" under TwentyYTL.........passed
+And Selects Benefit Amount for Spouse as "$1,000,000" under TwentyYTL.......passed
+And Clicks on next button...................................................passed
+Then Beneficiary Page is displayed to user..................................passed
+And Clicks on next button...................................................passed
+Then Contact Details page is displayed to user and enters complete detail of contact page for self as "070000019","Married","5.5","220","Male","147258","309 E Lewis St","Livingston","59047".passed
+And Selects "Home" and enter phonenumber "7412589963" for Self at contact page.passed
+And Selects No for Travel Question Non QD for Self..........................passed
+And Selects Yes Radio button for Tobacco Question...........................passed
+And Enters Last Used Tobacco Date Details for Self as "SYSDATE-00Y/06M/0D"..passed
+And Clicks on Products used textbox for Self and Selects Product as "Cigar".passed
+And Selects Residential Radio Button........................................passed
+And Enters contact Details for Spouse as "990041720","6.0","180","Female","Mobile","4557858745".passed
+And Selects No for Travel Question Non QD for Spouse........................passed
+And Selects Yes Radio button for Tobacco Question for Spouse................passed
+And Enters Last Used Tobacco Date Details for Spouse as "SYSDATE-00Y/06M/0D".passed
+And Clicks on Products used textbox for Spouse and Selects Product as "Cigar".passed
+And Clicks on next button...................................................passed
+Then Application Summary Page is displayed to user..........................passed
+And Clicks on next button...................................................passed
+Then Payment Information Page is displayed to user..........................passed
+And Selects Payment Method for TenYTL.......................................passed
+And Selects Payment option as Bank..........................................passed
+And User enters Details for Bank Account as "BOA","Kendrick","798654985","45889665".passed
+And Clicks on Save button...................................................passed
+And Selects Frequency for Ten Year Product and reviews "Monthly"............passed
+And Validates Estimated Premium for Self as "$130.00" for Benefit Amount "$1,000,000" under TenYTL.passed
+And Validates Estimated Premium for Spouse as "$130.00" for Benefit Amount "$1,000,000" under TenYTL.passed
+And Validates Total Premium as "$260.00" under TenYTL.......................passed
+And Selects Payment Method for TwentyYTL....................................passed
+And Selects Radio Button for existing payment method........................passed
+And Clicks on Save button...................................................passed
+And Selects Frequency for Twenty Year Product "Monthly".....................passed
+And Validates Estimated Premium for Self as "$150.00" for Benefit Amount "$1,000,000" under TwentyYTL.passed
+And Validates Estimated Premium for Spouse as "$150.00" for Benefit Amount "$1,000,000" under TwentyYTL.passed
+And Validates Total Premium as "$300.00" under TwentyYTL....................passed
+And Confirms I have read the Information Check Box on Payment Page..........passed
+And Clicks on button to Save for later......................................passed
+Then Save Information page will be displayed to user and user will enter Login details as "Adam@123","Adam@123".passed
+And Clicks OK Button Save For Later.........................................passed
+And Navigate back to Eligibility page.......................................passed
+And Enters DOB for Self as "SYSDATE-50Y/0M/0D"..............................passed
+And Enters DOB for Spouse as "SYSDATE-50Y/0M/0D"............................passed
+And Clicks on next button...................................................passed
+Then Product page details are displayed to user.............................passed
+And Selects product FiftyYTL for Self.......................................passed
+And Selects product FiftyYTL for Spouse.....................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+Then Request Coverage page is displayed to user.............................passed
+And Selects Benefit Amount for Self as "750000" under TenYTL................passed
+And Selects Benefit Amount for Spouse as "750000" under TenYTL..............passed
+And Selects Benefit Amount for Self as "250000" under TwentyYTL.............passed
+And Selects Benefit Amount for Spouse as "250000" under TwentyYTL...........passed
+And Selects Benefit Amount for Self as "25000" under FiftyYTL...............passed
+And Selects Benefit Amount for Spouse as "25000" under FiftyYTL.............passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+Then Payment Information Page is displayed to user..........................passed
+And Validates Estimated Premium for Self as "$399.37" for Benefit Amount "750000" under TenYTL.passed
+And Validates Estimated Premium for Spouse as "$399.37" for Benefit Amount "750000" under TenYTL.passed
+And Validates Total Premium as "$798.74" under TenYTL.......................passed
+And Validates Estimated Premium for Self as "$192.92" for Benefit Amount "250000" under TwentyYTL.passed
+And Validates Estimated Premium for Spouse as "$192.92" for Benefit Amount "250000" under TwentyYTL.passed
+And Validates Total Premium as "$385.84" under TwentyYTL....................passed
+Then Payment Information Page is displayed to user And Selects Payment Method for FiftyYTL.passed
+And Selects Radio Button for existing payment method........................passed
+And Clicks on Save button...................................................passed
+And Selects Frequency for Fifty Year Product "Monthly"......................passed
+And Validates Estimated Premium for Self as "$30.48" for Benefit Amount "25000" under FiftyYTL.passed
+And Validates Estimated Premium for Spouse as "$30.48" for Benefit Amount "25000" under FiftyYTL.passed
+And Validates Total Premium as "$60.96" under FiftyYTL......................passed
+And Clicks on button to Save for later......................................passed
+And Clicks OK Button Save For Later.........................................passed
+And Navigate back to Eligibility page.......................................passed
+And Enters DOB for Self as "SYSDATE-64Y/0M/0D"..............................passed
+And Enters DOB for Spouse as "SYSDATE-64Y/0M/0D"............................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+Then Request Coverage page is displayed to user.............................passed
+And Selects Benefit Amount for Self as "$510,000" under TenYTL..............passed
+And Selects Benefit Amount for Spouse as "$510,000" under TenYTL............passed
+And Selects Benefit Amount for Self as "$100,000" under FiftyYTL............passed
+And Selects Benefit Amount for Spouse as "$100,000" under FiftyYTL..........passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+Then Payment Information Page is displayed to user..........................passed
+And Validates Estimated Premium for Self as "$850.85" for Benefit Amount "$510,000" under TenYTL.passed
+And Validates Estimated Premium for Spouse as "$850.85" for Benefit Amount "$510,000" under TenYTL.passed
+And Validates Total Premium as "$1,701.70" under TenYTL.....................passed
+And Validates Estimated Premium for Self as "$206.75" for Benefit Amount "$100,000" under FiftyYTL.passed
+And Validates Estimated Premium for Spouse as "$206.75" for Benefit Amount "$100,000" under FiftyYTL.passed
+And Validates Total Premium as "$413.50" under FiftyYTL.....................passed
+And Navigate back to Eligibility page.......................................passed
+And Enters DOB for Self as "SYSDATE-75Y/0M/0D"..............................passed
+And Enters DOB for Spouse as "SYSDATE-75Y/0M/0D"............................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+Then Request Coverage page is displayed to user.............................passed
+And Selects Benefit Amount for Self as "$99,000" under FiftyYTL.............passed
+And Selects Benefit Amount for Spouse as "$99,000" under FiftyYTL...........passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+And Clicks on next button...................................................passed
+Then Payment Information Page is displayed to user..........................passed
+And Validates Estimated Premium for Self as "$888.11" for Benefit Amount "$99,000" under FiftyYTL.passed
+And Validates Estimated Premium for Spouse as "$888.11" for Benefit Amount "$99,000" under FiftyYTL.passed
+And Validates Total Premium as "$1,776.22" under FiftyYTL...................passed
+Then Close the Browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

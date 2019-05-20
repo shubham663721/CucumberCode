@@ -1,0 +1,2504 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 387114404,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.startTest(Scenario)"
+            }
+          }
+        ],
+        "line": 584,
+        "name": "\u003cABESCR03\u003eComplete work flow of application for Smoker,Montana",
+        "description": "",
+        "id": "abe-rate-test;\u003cabescr03\u003ecomplete-work-flow-of-application-for-smoker,montana;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 278069,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.endTest(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3792386041,
+              "status": "passed"
+            },
+            "line": 441,
+            "name": "Test set up for \"NYL\" feature and \"NYL_ABE\" scenario",
+            "match": {
+              "arguments": [
+                {
+                  "val": "NYL",
+                  "offset": 17
+                },
+                {
+                  "val": "NYL_ABE",
+                  "offset": 35
+                }
+              ],
+              "location": "CommonPageStepDef.test_set_up_for_feature_and_scenario(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 48751518235,
+              "status": "passed"
+            },
+            "line": 442,
+            "name": "Customer navigate to NYL \"abe\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abe",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.customer_navigate_to_NYL(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 106811536,
+              "status": "passed"
+            },
+            "line": 443,
+            "name": "Clicks on Apply now button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Apply_now_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3161727441,
+              "status": "passed"
+            },
+            "line": 444,
+            "name": "Scroll down and click on I Attest To Having Read the Above Information button",
+            "match": {
+              "location": "NYL_StepDef.scroll_down_and_click_on_I_Attest_To_Having_Read_the_Above_Information_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2071126975,
+              "status": "passed"
+            },
+            "line": 445,
+            "name": "Eligibility page details are displayed to user",
+            "match": {
+              "location": "NYL_StepDef.eligibility_page_details_are_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 115501915,
+              "status": "passed"
+            },
+            "line": 446,
+            "name": "Select YES Radio button of Membership",
+            "match": {
+              "location": "NYL_StepDef.select_YES_Radio_button_of_Membership()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2123342049,
+              "status": "passed"
+            },
+            "line": 447,
+            "name": "Click on Self",
+            "match": {
+              "location": "NYL_StepDef.click_on_Self()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 97290158,
+              "status": "passed"
+            },
+            "line": 448,
+            "name": "Click on Spouse",
+            "match": {
+              "location": "NYL_StepDef.click_on_Spouse()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 9582910270,
+              "status": "passed"
+            },
+            "line": 449,
+            "name": "Enter details for Self as \"Mr.\", \"Sheldon\", \"Cooper\" , \"Montana\", \"SYSDATE - 17Y/0M/0D\", \"40\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mr.",
+                  "offset": 27
+                },
+                {
+                  "val": "Sheldon",
+                  "offset": 34
+                },
+                {
+                  "val": "Cooper",
+                  "offset": 45
+                },
+                {
+                  "val": "Montana",
+                  "offset": 56
+                },
+                {
+                  "val": "SYSDATE - 17Y/0M/0D",
+                  "offset": 67
+                },
+                {
+                  "val": "40",
+                  "offset": 90
+                }
+              ],
+              "location": "NYL_StepDef.enter_details_for_Self_as(String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7542571340,
+              "status": "passed"
+            },
+            "line": 450,
+            "name": "Enters Eligibility details for Spouse as \"Mrs.\",\"Carla\",\"Cooper\",\"SYSDATE - 17Y/0M/0D\",\"45\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mrs.",
+                  "offset": 42
+                },
+                {
+                  "val": "Carla",
+                  "offset": 49
+                },
+                {
+                  "val": "Cooper",
+                  "offset": 57
+                },
+                {
+                  "val": "SYSDATE - 17Y/0M/0D",
+                  "offset": 66
+                },
+                {
+                  "val": "45",
+                  "offset": 88
+                }
+              ],
+              "location": "NYL_StepDef.enters_Eligibility_details_for_Spouse_as(String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4095994106,
+              "status": "passed"
+            },
+            "line": 451,
+            "name": "Select radio button NO for Spouse is Member",
+            "match": {
+              "location": "NYL_StepDef.select_radio_button_NO_for_Spouse_is_Member()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6170939319,
+              "status": "passed"
+            },
+            "line": 452,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1180770197,
+              "status": "passed"
+            },
+            "line": 453,
+            "name": "Product page details are displayed to user",
+            "match": {
+              "location": "NYL_StepDef.product_page_details_are_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3155082329,
+              "status": "passed"
+            },
+            "line": 454,
+            "name": "Selects product TenYTL for Self",
+            "match": {
+              "location": "NYL_StepDef.selects_product_TenYTL_for_Self()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1137472895,
+              "status": "passed"
+            },
+            "line": 455,
+            "name": "Selects product TenYTL for Spouse",
+            "match": {
+              "location": "NYL_StepDef.selects_product_for_Spouse_as_Ten_YTL()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3161131211,
+              "status": "passed"
+            },
+            "line": 456,
+            "name": "Selects product TwentyYTL for Self",
+            "match": {
+              "location": "NYL_StepDef.selects_product_TwentyYTL_for_Self()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1666126030,
+              "status": "passed"
+            },
+            "line": 457,
+            "name": "Selects product TwentyYTL for Spouse",
+            "match": {
+              "location": "NYL_StepDef.selects_the_product_TwentyYTL_for_Spouse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6079169167,
+              "status": "passed"
+            },
+            "line": 458,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 192233889,
+              "status": "passed"
+            },
+            "line": 459,
+            "name": "Product: Additional Questions page details are displayed to user and selects Answer as No for all for Self",
+            "match": {
+              "location": "NYL_StepDef.product_Additional_Questions_page_details_are_displayed_to_user_and_selects_Answer_as_No_for_all_for_Self()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1232902845,
+              "status": "passed"
+            },
+            "line": 460,
+            "name": "Product: Additional Questions page details are displayed to user and selects Answer as No for all for Spouse",
+            "match": {
+              "location": "NYL_StepDef.product_Additional_Questions_page_details_are_displayed_to_user_and_selects_Answer_as_No_for_all_for_Spouse()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6067412653,
+              "status": "passed"
+            },
+            "line": 461,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 52076521,
+              "status": "passed"
+            },
+            "line": 462,
+            "name": "Request Coverage page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.request_Coverage_page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5141176954,
+              "status": "passed"
+            },
+            "line": 463,
+            "name": "Selects Benefit Amount for Self as \"$1,000,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$1,000,000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_TenYTL(String)"
+            },
+            "matchedColumns": [
+              12
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4794506036,
+              "status": "passed"
+            },
+            "line": 464,
+            "name": "Selects Benefit Amount for Spouse as \"$1,000,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$1,000,000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_benefit_amount_for_Ten_Year_Product_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              13
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6655352861,
+              "status": "passed"
+            },
+            "line": 465,
+            "name": "Selects Benefit Amount for Self as \"$1,000,000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$1,000,000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_TwentyYTL(String)"
+            },
+            "matchedColumns": [
+              14
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4518925852,
+              "status": "passed"
+            },
+            "line": 466,
+            "name": "Selects Benefit Amount for Spouse as \"$1,000,000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$1,000,000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Spouse_as_under_TwentyYTL(String)"
+            },
+            "matchedColumns": [
+              15
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6097102534,
+              "status": "passed"
+            },
+            "line": 467,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1189895800,
+              "status": "passed"
+            },
+            "line": 468,
+            "name": "Beneficiary Page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.beneficiary_Page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6068573358,
+              "status": "passed"
+            },
+            "line": 469,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6681807583,
+              "status": "passed"
+            },
+            "line": 470,
+            "name": "Contact Details page is displayed to user and enters complete detail of contact page for self as \"070000019\",\"Married\",\"5.5\",\"220\",\"Male\",\"147258\",\"309 E Lewis St\",\"Livingston\",\"59047\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "070000019",
+                  "offset": 98
+                },
+                {
+                  "val": "Married",
+                  "offset": 110
+                },
+                {
+                  "val": "5.5",
+                  "offset": 120
+                },
+                {
+                  "val": "220",
+                  "offset": 126
+                },
+                {
+                  "val": "Male",
+                  "offset": 132
+                },
+                {
+                  "val": "147258",
+                  "offset": 139
+                },
+                {
+                  "val": "309 E Lewis St",
+                  "offset": 148
+                },
+                {
+                  "val": "Livingston",
+                  "offset": 165
+                },
+                {
+                  "val": "59047",
+                  "offset": 178
+                }
+              ],
+              "location": "NYL_StepDef.contact_Details_page_is_displayed_to_user_and_enters_complete_details_of_contact_page_for_self_as_(String,String,String,String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2360005722,
+              "status": "passed"
+            },
+            "line": 471,
+            "name": "Selects \"Home\" and enter phonenumber \"7412589963\" for Self at contact page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Home",
+                  "offset": 9
+                },
+                {
+                  "val": "7412589963",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_and_enter_phonenumber_for_Self_at_contact_page(String,String)"
+            },
+            "matchedColumns": [
+              25,
+              26
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 135129674,
+              "status": "passed"
+            },
+            "line": 472,
+            "name": "Selects No for Travel Question Non QD for Self",
+            "match": {
+              "location": "NYL_StepDef.selects_No_for_Travel_Question_Non_QD_for_Self()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3082912675,
+              "status": "passed"
+            },
+            "line": 473,
+            "name": "Selects Yes Radio button for Tobacco Question",
+            "match": {
+              "location": "NYL_StepDef.selects_Yes_Radio_button_for_Tobacco_Question()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4995836662,
+              "status": "passed"
+            },
+            "line": 474,
+            "name": "Enters Last Used Tobacco Date Details for Self as \"SYSDATE-00Y/06M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-00Y/06M/0D",
+                  "offset": 51
+                }
+              ],
+              "location": "NYL_StepDef.enters_Last_Used_Tobacco_Date_Details_for_Self_as(String)"
+            },
+            "matchedColumns": [
+              33
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2315252647,
+              "status": "passed"
+            },
+            "line": 475,
+            "name": "Clicks on Products used textbox for Self and Selects Product as \"Cigar\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cigar",
+                  "offset": 65
+                }
+              ],
+              "location": "NYL_StepDef.clicks_on_Products_used_textbox_for_Self_and_Selects_Product_as(String)"
+            },
+            "matchedColumns": [
+              34
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2199656439,
+              "status": "passed"
+            },
+            "line": 476,
+            "name": "Selects Residential Radio Button",
+            "match": {
+              "location": "NYL_StepDef.selects_Residential_Radio_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5561079447,
+              "status": "passed"
+            },
+            "line": 477,
+            "name": "Enters contact Details for Spouse as \"990041720\",\"6.0\",\"180\",\"Female\",\"Mobile\",\"4557858745\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "990041720",
+                  "offset": 38
+                },
+                {
+                  "val": "6.0",
+                  "offset": 50
+                },
+                {
+                  "val": "180",
+                  "offset": 56
+                },
+                {
+                  "val": "Female",
+                  "offset": 62
+                },
+                {
+                  "val": "Mobile",
+                  "offset": 71
+                },
+                {
+                  "val": "4557858745",
+                  "offset": 80
+                }
+              ],
+              "location": "NYL_StepDef.enters_contact_Details_for_Spouse_as(String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              32,
+              27,
+              28,
+              29,
+              30,
+              31
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 77567464,
+              "status": "passed"
+            },
+            "line": 478,
+            "name": "Selects No for Travel Question Non QD for Spouse",
+            "match": {
+              "location": "NYL_StepDef.selects_No_for_Travel_Question_Non_QD_for_Spouse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3084435159,
+              "status": "passed"
+            },
+            "line": 479,
+            "name": "Selects Yes Radio button for Tobacco Question for Spouse",
+            "match": {
+              "location": "NYL_StepDef.selects_Yes_Radio_button_for_Tobacco_Question_for_Spouse()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4929363735,
+              "status": "passed"
+            },
+            "line": 480,
+            "name": "Enters Last Used Tobacco Date Details for Spouse as \"SYSDATE-00Y/06M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-00Y/06M/0D",
+                  "offset": 53
+                }
+              ],
+              "location": "NYL_StepDef.enters_Last_Used_Tobacco_Date_Details_for_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              35
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1297404914,
+              "status": "passed"
+            },
+            "line": 481,
+            "name": "Clicks on Products used textbox for Spouse and Selects Product as \"Cigar\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Cigar",
+                  "offset": 67
+                }
+              ],
+              "location": "NYL_StepDef.clicks_on_Products_used_textbox_for_Spouse_and_Selects_Product_as(String)"
+            },
+            "matchedColumns": [
+              36
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6114951871,
+              "status": "passed"
+            },
+            "line": 482,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54289206,
+              "status": "passed"
+            },
+            "line": 483,
+            "name": "Application Summary Page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.application_Summary_Page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6084023027,
+              "status": "passed"
+            },
+            "line": 484,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2088655265,
+              "status": "passed"
+            },
+            "line": 485,
+            "name": "Payment Information Page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.payment_Information_Page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2162557798,
+              "status": "passed"
+            },
+            "line": 486,
+            "name": "Selects Payment Method for TenYTL",
+            "match": {
+              "location": "NYL_StepDef.selects_Payment_Method_for_TenYTL()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2600024824,
+              "status": "passed"
+            },
+            "line": 487,
+            "name": "Selects Payment option as Bank",
+            "match": {
+              "location": "NYL_StepDef.selects_Payment_option_as_Bank()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1390859195,
+              "status": "passed"
+            },
+            "line": 488,
+            "name": "User enters Details for Bank Account as \"BOA\",\"Kendrick\",\"798654985\",\"45889665\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "BOA",
+                  "offset": 41
+                },
+                {
+                  "val": "Kendrick",
+                  "offset": 47
+                },
+                {
+                  "val": "798654985",
+                  "offset": 58
+                },
+                {
+                  "val": "45889665",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.user_enters_Details_for_Bank_Account_as(String,String,String,String)"
+            },
+            "matchedColumns": [
+              37,
+              38,
+              39,
+              40
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1150742271,
+              "status": "passed"
+            },
+            "line": 489,
+            "name": "Clicks on Save button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Save_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3255816116,
+              "status": "passed"
+            },
+            "line": 490,
+            "name": "Selects Frequency for Ten Year Product and reviews \"Monthly\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Monthly",
+                  "offset": 52
+                }
+              ],
+              "location": "NYL_StepDef.selects_Frequency_for_Ten_Year_Product_and_reviews(String)"
+            },
+            "matchedColumns": [
+              41
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1087369156,
+              "status": "passed"
+            },
+            "line": 491,
+            "name": "Validates Estimated Premium for Self as \"$130.00\" for Benefit Amount \"$1,000,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$130.00",
+                  "offset": 41
+                },
+                {
+                  "val": "$1,000,000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_TenYTL(String,String)"
+            },
+            "matchedColumns": [
+              42,
+              12
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1080905575,
+              "status": "passed"
+            },
+            "line": 492,
+            "name": "Validates Estimated Premium for Spouse as \"$130.00\" for Benefit Amount \"$1,000,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$130.00",
+                  "offset": 43
+                },
+                {
+                  "val": "$1,000,000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_TenYTL(String,String)"
+            },
+            "matchedColumns": [
+              43,
+              13
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1079153772,
+              "status": "passed"
+            },
+            "line": 493,
+            "name": "Validates Total Premium as \"$260.00\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$260.00",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_TenYTL(String)"
+            },
+            "matchedColumns": [
+              44
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3213944760,
+              "status": "passed"
+            },
+            "line": 494,
+            "name": "Selects Payment Method for TwentyYTL",
+            "match": {
+              "location": "NYL_StepDef.selects_Payment_Method_for_TwentyYTL()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1657672989,
+              "status": "passed"
+            },
+            "line": 495,
+            "name": "Selects Radio Button for existing payment method",
+            "match": {
+              "location": "NYL_StepDef.selects_Radio_Button_for_existing_payment_method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1112699094,
+              "status": "passed"
+            },
+            "line": 496,
+            "name": "Clicks on Save button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Save_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3291684133,
+              "status": "passed"
+            },
+            "line": 497,
+            "name": "Selects Frequency for Twenty Year Product \"Monthly\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Monthly",
+                  "offset": 43
+                }
+              ],
+              "location": "NYL_StepDef.selects_Frequency_for_Twenty_Year_Product(String)"
+            },
+            "matchedColumns": [
+              41
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1103710762,
+              "status": "passed"
+            },
+            "line": 498,
+            "name": "Validates Estimated Premium for Self as \"$150.00\" for Benefit Amount \"$1,000,000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$150.00",
+                  "offset": 41
+                },
+                {
+                  "val": "$1,000,000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_TwentyYTL(String,String)"
+            },
+            "matchedColumns": [
+              45,
+              14
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1072324564,
+              "status": "passed"
+            },
+            "line": 499,
+            "name": "Validates Estimated Premium for Spouse as \"$150.00\" for Benefit Amount \"$1,000,000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$150.00",
+                  "offset": 43
+                },
+                {
+                  "val": "$1,000,000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_TwentyYTL(String,String)"
+            },
+            "matchedColumns": [
+              46,
+              15
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1058503540,
+              "status": "passed"
+            },
+            "line": 500,
+            "name": "Validates Total Premium as \"$300.00\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$300.00",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_TwentyYTL(String)"
+            },
+            "matchedColumns": [
+              47
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3157998686,
+              "status": "passed"
+            },
+            "line": 501,
+            "name": "Confirms I have read the Information Check Box on Payment Page",
+            "match": {
+              "location": "NYL_StepDef.confirms_I_have_read_the_Information_Check_Box_on_Payment_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4126557643,
+              "status": "passed"
+            },
+            "line": 502,
+            "name": "Clicks on button to Save for later",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Save_for_later_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 362485572,
+              "status": "passed"
+            },
+            "line": 503,
+            "name": "Save Information page will be displayed to user and user will enter Login details as \"Adam@123\",\"Adam@123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Adam@123",
+                  "offset": 86
+                },
+                {
+                  "val": "Adam@123",
+                  "offset": 97
+                }
+              ],
+              "location": "NYL_StepDef.save_Information_page_will_be_displayed_to_user_and_user_will_enter_Login_details_as(String,String)"
+            },
+            "matchedColumns": [
+              48,
+              49
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2128487448,
+              "status": "passed"
+            },
+            "line": 504,
+            "name": "Clicks OK Button Save For Later",
+            "match": {
+              "location": "NYL_StepDef.clicks_OK_Button_Save_For_Later()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1132676124,
+              "status": "passed"
+            },
+            "line": 505,
+            "name": "Navigate back to Eligibility page",
+            "match": {
+              "location": "NYL_StepDef.navigate_back_to_Eligibility_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6104978911,
+              "status": "passed"
+            },
+            "line": 506,
+            "name": "Enters DOB for Self as \"SYSDATE-50Y/0M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-50Y/0M/0D",
+                  "offset": 24
+                }
+              ],
+              "location": "NYL_StepDef.enters_DOB_for_Self_as(String)"
+            },
+            "matchedColumns": [
+              50
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8919606624,
+              "status": "passed"
+            },
+            "line": 507,
+            "name": "Enters DOB for Spouse as \"SYSDATE-50Y/0M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-50Y/0M/0D",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.enters_DOB_for_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              51
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6088583743,
+              "status": "passed"
+            },
+            "line": 508,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1149760851,
+              "status": "passed"
+            },
+            "line": 509,
+            "name": "Product page details are displayed to user",
+            "match": {
+              "location": "NYL_StepDef.product_page_details_are_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3160136642,
+              "status": "passed"
+            },
+            "line": 510,
+            "name": "Selects product FiftyYTL for Self",
+            "match": {
+              "location": "NYL_StepDef.selects_the_product_as_FiftyYTL_for_Self()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1118101715,
+              "status": "passed"
+            },
+            "line": 511,
+            "name": "Selects product FiftyYTL for Spouse",
+            "match": {
+              "location": "NYL_StepDef.selects_Product_for_Spouse_as_FiftyYTL()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6079691308,
+              "status": "passed"
+            },
+            "line": 512,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6082938975,
+              "status": "passed"
+            },
+            "line": 513,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 42416269,
+              "status": "passed"
+            },
+            "line": 514,
+            "name": "Request Coverage page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.request_Coverage_page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2156478447,
+              "status": "passed"
+            },
+            "line": 515,
+            "name": "Selects Benefit Amount for Self as \"750000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "750000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_TenYTL(String)"
+            },
+            "matchedColumns": [
+              52
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2209791365,
+              "status": "passed"
+            },
+            "line": 516,
+            "name": "Selects Benefit Amount for Spouse as \"750000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "750000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_benefit_amount_for_Ten_Year_Product_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              53
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6166711194,
+              "status": "passed"
+            },
+            "line": 517,
+            "name": "Selects Benefit Amount for Self as \"250000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "250000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_TwentyYTL(String)"
+            },
+            "matchedColumns": [
+              54
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4174665186,
+              "status": "passed"
+            },
+            "line": 518,
+            "name": "Selects Benefit Amount for Spouse as \"250000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "250000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Spouse_as_under_TwentyYTL(String)"
+            },
+            "matchedColumns": [
+              55
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3183745888,
+              "status": "passed"
+            },
+            "line": 519,
+            "name": "Selects Benefit Amount for Self as \"25000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "25000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              56
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1130547469,
+              "status": "passed"
+            },
+            "line": 520,
+            "name": "Selects Benefit Amount for Spouse as \"25000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "25000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Spouse_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              57
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6082425172,
+              "status": "passed"
+            },
+            "line": 521,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6074540457,
+              "status": "passed"
+            },
+            "line": 522,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6120592790,
+              "status": "passed"
+            },
+            "line": 523,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6110206416,
+              "status": "passed"
+            },
+            "line": 524,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2090593089,
+              "status": "passed"
+            },
+            "line": 525,
+            "name": "Payment Information Page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.payment_Information_Page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1102599769,
+              "status": "passed"
+            },
+            "line": 526,
+            "name": "Validates Estimated Premium for Self as \"$399.37\" for Benefit Amount \"750000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$399.37",
+                  "offset": 41
+                },
+                {
+                  "val": "750000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_TenYTL(String,String)"
+            },
+            "matchedColumns": [
+              52,
+              58
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1076358971,
+              "status": "passed"
+            },
+            "line": 527,
+            "name": "Validates Estimated Premium for Spouse as \"$399.37\" for Benefit Amount \"750000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$399.37",
+                  "offset": 43
+                },
+                {
+                  "val": "750000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_TenYTL(String,String)"
+            },
+            "matchedColumns": [
+              53,
+              59
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1097594526,
+              "status": "passed"
+            },
+            "line": 528,
+            "name": "Validates Total Premium as \"$798.74\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$798.74",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_TenYTL(String)"
+            },
+            "matchedColumns": [
+              60
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1098986155,
+              "status": "passed"
+            },
+            "line": 529,
+            "name": "Validates Estimated Premium for Self as \"$192.92\" for Benefit Amount \"250000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$192.92",
+                  "offset": 41
+                },
+                {
+                  "val": "250000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_TwentyYTL(String,String)"
+            },
+            "matchedColumns": [
+              54,
+              61
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1098997701,
+              "status": "passed"
+            },
+            "line": 530,
+            "name": "Validates Estimated Premium for Spouse as \"$192.92\" for Benefit Amount \"250000\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$192.92",
+                  "offset": 43
+                },
+                {
+                  "val": "250000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_TwentyYTL(String,String)"
+            },
+            "matchedColumns": [
+              55,
+              62
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1099524332,
+              "status": "passed"
+            },
+            "line": 531,
+            "name": "Validates Total Premium as \"$385.84\" under TwentyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$385.84",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_TwentyYTL(String)"
+            },
+            "matchedColumns": [
+              63
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3221816326,
+              "status": "passed"
+            },
+            "line": 532,
+            "name": "Payment Information Page is displayed to user And Selects Payment Method for FiftyYTL",
+            "match": {
+              "location": "NYL_StepDef.payment_Information_Page_is_displayed_to_user_And_Selects_Payment_Method_for_FiftyYTL()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1637323276,
+              "status": "passed"
+            },
+            "line": 533,
+            "name": "Selects Radio Button for existing payment method",
+            "match": {
+              "location": "NYL_StepDef.selects_Radio_Button_for_existing_payment_method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1153564014,
+              "status": "passed"
+            },
+            "line": 534,
+            "name": "Clicks on Save button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Save_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3209326633,
+              "status": "passed"
+            },
+            "line": 535,
+            "name": "Selects Frequency for Fifty Year Product \"Monthly\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Monthly",
+                  "offset": 42
+                }
+              ],
+              "location": "NYL_StepDef.selects_Frequency_for_Fifty_Year_Product(String)"
+            },
+            "matchedColumns": [
+              41
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1096807145,
+              "status": "passed"
+            },
+            "line": 536,
+            "name": "Validates Estimated Premium for Self as \"$30.48\" for Benefit Amount \"25000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$30.48",
+                  "offset": 41
+                },
+                {
+                  "val": "25000",
+                  "offset": 69
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_FiftyYTL(String,String)"
+            },
+            "matchedColumns": [
+              64,
+              56
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1098511481,
+              "status": "passed"
+            },
+            "line": 537,
+            "name": "Validates Estimated Premium for Spouse as \"$30.48\" for Benefit Amount \"25000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$30.48",
+                  "offset": 43
+                },
+                {
+                  "val": "25000",
+                  "offset": 71
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_FiftyYTL(String,String)"
+            },
+            "matchedColumns": [
+              65,
+              57
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1093648320,
+              "status": "passed"
+            },
+            "line": 538,
+            "name": "Validates Total Premium as \"$60.96\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$60.96",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              66
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4090022518,
+              "status": "passed"
+            },
+            "line": 539,
+            "name": "Clicks on button to Save for later",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Save_for_later_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2111576876,
+              "status": "passed"
+            },
+            "line": 540,
+            "name": "Clicks OK Button Save For Later",
+            "match": {
+              "location": "NYL_StepDef.clicks_OK_Button_Save_For_Later()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1122156969,
+              "status": "passed"
+            },
+            "line": 541,
+            "name": "Navigate back to Eligibility page",
+            "match": {
+              "location": "NYL_StepDef.navigate_back_to_Eligibility_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6163509712,
+              "status": "passed"
+            },
+            "line": 542,
+            "name": "Enters DOB for Self as \"SYSDATE-64Y/0M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-64Y/0M/0D",
+                  "offset": 24
+                }
+              ],
+              "location": "NYL_StepDef.enters_DOB_for_Self_as(String)"
+            },
+            "matchedColumns": [
+              67
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8942901238,
+              "status": "passed"
+            },
+            "line": 543,
+            "name": "Enters DOB for Spouse as \"SYSDATE-64Y/0M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-64Y/0M/0D",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.enters_DOB_for_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              68
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6085722872,
+              "status": "passed"
+            },
+            "line": 544,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6098648431,
+              "status": "passed"
+            },
+            "line": 545,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6100465020,
+              "status": "passed"
+            },
+            "line": 546,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 56307211,
+              "status": "passed"
+            },
+            "line": 547,
+            "name": "Request Coverage page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.request_Coverage_page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2227510166,
+              "status": "passed"
+            },
+            "line": 548,
+            "name": "Selects Benefit Amount for Self as \"$510,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$510,000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_TenYTL(String)"
+            },
+            "matchedColumns": [
+              69
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2242135571,
+              "status": "passed"
+            },
+            "line": 549,
+            "name": "Selects Benefit Amount for Spouse as \"$510,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$510,000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_benefit_amount_for_Ten_Year_Product_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              70
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6417834134,
+              "status": "passed"
+            },
+            "line": 550,
+            "name": "Selects Benefit Amount for Self as \"$100,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$100,000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              71
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4124697435,
+              "status": "passed"
+            },
+            "line": 551,
+            "name": "Selects Benefit Amount for Spouse as \"$100,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$100,000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Spouse_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              72
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6082288222,
+              "status": "passed"
+            },
+            "line": 552,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6088835513,
+              "status": "passed"
+            },
+            "line": 553,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6144855354,
+              "status": "passed"
+            },
+            "line": 554,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6082498940,
+              "status": "passed"
+            },
+            "line": 555,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2114707798,
+              "status": "passed"
+            },
+            "line": 556,
+            "name": "Payment Information Page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.payment_Information_Page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1108648972,
+              "status": "passed"
+            },
+            "line": 557,
+            "name": "Validates Estimated Premium for Self as \"$850.85\" for Benefit Amount \"$510,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$850.85",
+                  "offset": 41
+                },
+                {
+                  "val": "$510,000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_TenYTL(String,String)"
+            },
+            "matchedColumns": [
+              69,
+              73
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1100412100,
+              "status": "passed"
+            },
+            "line": 558,
+            "name": "Validates Estimated Premium for Spouse as \"$850.85\" for Benefit Amount \"$510,000\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$850.85",
+                  "offset": 43
+                },
+                {
+                  "val": "$510,000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_TenYTL(String,String)"
+            },
+            "matchedColumns": [
+              70,
+              74
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1093176533,
+              "status": "passed"
+            },
+            "line": 559,
+            "name": "Validates Total Premium as \"$1,701.70\" under TenYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$1,701.70",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_TenYTL(String)"
+            },
+            "matchedColumns": [
+              75
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1090815351,
+              "status": "passed"
+            },
+            "line": 560,
+            "name": "Validates Estimated Premium for Self as \"$206.75\" for Benefit Amount \"$100,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$206.75",
+                  "offset": 41
+                },
+                {
+                  "val": "$100,000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_FiftyYTL(String,String)"
+            },
+            "matchedColumns": [
+              71,
+              76
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1088539804,
+              "status": "passed"
+            },
+            "line": 561,
+            "name": "Validates Estimated Premium for Spouse as \"$206.75\" for Benefit Amount \"$100,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$206.75",
+                  "offset": 43
+                },
+                {
+                  "val": "$100,000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_FiftyYTL(String,String)"
+            },
+            "matchedColumns": [
+              72,
+              77
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1079379563,
+              "status": "passed"
+            },
+            "line": 562,
+            "name": "Validates Total Premium as \"$413.50\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$413.50",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              78
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1158374897,
+              "status": "passed"
+            },
+            "line": 563,
+            "name": "Navigate back to Eligibility page",
+            "match": {
+              "location": "NYL_StepDef.navigate_back_to_Eligibility_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6165951716,
+              "status": "passed"
+            },
+            "line": 564,
+            "name": "Enters DOB for Self as \"SYSDATE-75Y/0M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-75Y/0M/0D",
+                  "offset": 24
+                }
+              ],
+              "location": "NYL_StepDef.enters_DOB_for_Self_as(String)"
+            },
+            "matchedColumns": [
+              79
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9026545808,
+              "status": "passed"
+            },
+            "line": 565,
+            "name": "Enters DOB for Spouse as \"SYSDATE-75Y/0M/0D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SYSDATE-75Y/0M/0D",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.enters_DOB_for_Spouse_as(String)"
+            },
+            "matchedColumns": [
+              80
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6087096860,
+              "status": "passed"
+            },
+            "line": 566,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6108965208,
+              "status": "passed"
+            },
+            "line": 567,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6094870284,
+              "status": "passed"
+            },
+            "line": 568,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 56990356,
+              "status": "passed"
+            },
+            "line": 569,
+            "name": "Request Coverage page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.request_Coverage_page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1231584663,
+              "status": "passed"
+            },
+            "line": 570,
+            "name": "Selects Benefit Amount for Self as \"$99,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$99,000",
+                  "offset": 36
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Self_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              81
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1192510033,
+              "status": "passed"
+            },
+            "line": 571,
+            "name": "Selects Benefit Amount for Spouse as \"$99,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$99,000",
+                  "offset": 38
+                }
+              ],
+              "location": "NYL_StepDef.selects_Benefit_Amount_for_Spouse_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              82
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6066838875,
+              "status": "passed"
+            },
+            "line": 572,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6090085701,
+              "status": "passed"
+            },
+            "line": 573,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6142265817,
+              "status": "passed"
+            },
+            "line": 574,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6083138466,
+              "status": "passed"
+            },
+            "line": 575,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2088143066,
+              "status": "passed"
+            },
+            "line": 576,
+            "name": "Payment Information Page is displayed to user",
+            "match": {
+              "location": "NYL_StepDef.payment_Information_Page_is_displayed_to_user()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1081585834,
+              "status": "passed"
+            },
+            "line": 577,
+            "name": "Validates Estimated Premium for Self as \"$888.11\" for Benefit Amount \"$99,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$888.11",
+                  "offset": 41
+                },
+                {
+                  "val": "$99,000",
+                  "offset": 70
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Self_as_for_Benefit_Amount_under_FiftyYTL(String,String)"
+            },
+            "matchedColumns": [
+              81,
+              83
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1094359689,
+              "status": "passed"
+            },
+            "line": 578,
+            "name": "Validates Estimated Premium for Spouse as \"$888.11\" for Benefit Amount \"$99,000\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$888.11",
+                  "offset": 43
+                },
+                {
+                  "val": "$99,000",
+                  "offset": 72
+                }
+              ],
+              "location": "NYL_StepDef.validates_Estimated_Premium_for_Spouse_as_for_Benefit_Amount_under_FiftyYTL(String,String)"
+            },
+            "matchedColumns": [
+              82,
+              84
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1101748563,
+              "status": "passed"
+            },
+            "line": 579,
+            "name": "Validates Total Premium as \"$1,776.22\" under FiftyYTL",
+            "match": {
+              "arguments": [
+                {
+                  "val": "$1,776.22",
+                  "offset": 28
+                }
+              ],
+              "location": "NYL_StepDef.validates_Total_Premium_as_under_FiftyYTL(String)"
+            },
+            "matchedColumns": [
+              85
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2456656995,
+              "status": "passed"
+            },
+            "line": 580,
+            "name": "Close the Browser",
+            "match": {
+              "location": "NYL_StepDef.close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 439,
+            "name": "@AbeRate_03"
+          }
+        ]
+      }
+    ],
+    "name": "Abe Rate Test",
+    "description": "",
+    "id": "abe-rate-test",
+    "keyword": "Feature",
+    "uri": "src/main/resources/Feature/abeRate_NYL.feature"
+  }
+]

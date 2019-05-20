@@ -1,0 +1,492 @@
+18:32:37.286 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Fifty Years Products of Spouse  are validated sucessfully || Pass
+18:32:37.302 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:32:43.413 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:32:43.413 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+18:32:44.621 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+18:32:44.637 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:32:44.745 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:32:44.748 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:32:46.169 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:32:46.171 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:32:47.514 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:32:47.517 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:32:51.593 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:32:51.593 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:32:51.720 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:32:51.723 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:32:53.114 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:32:53.116 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:32:54.456 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:32:54.459 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:32:58.519 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:32:58.519 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:32:58.672 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:32:58.674 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:33:00.052 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:33:00.055 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:33:01.392 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:33:01.394 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:33:05.459 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:33:05.459 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:33:05.596 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:33:05.599 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:33:06.957 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:33:06.960 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:33:08.320 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:33:08.322 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:33:12.376 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:33:12.379 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:33:12.505 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:33:12.507 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:33:16.009 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:33:16.024 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:33:17.398 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:33:17.400 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:33:21.458 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:33:21.458 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:33:21.605 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:33:21.607 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:33:25.155 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:33:25.155 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:33:26.492 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:33:26.493 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:33:30.566 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:33:30.566 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:33:30.707 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:33:30.709 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:33:34.194 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:33:34.194 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:33:35.605 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:33:35.607 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:33:39.664 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:33:39.667 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:33:39.814 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:33:39.816 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:33:43.335 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:33:43.335 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:33:44.712 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:33:44.713 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:33:48.777 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:33:48.777 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:33:54.884 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:33:54.884 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+18:34:01.340 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+18:34:01.342 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+18:34:04.696 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+18:34:04.699 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+18:34:56.521 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+18:34:56.524 [main] DEBUG Page.Nyl_ContactPage - Answer all other questions of Spouse as No for Nicotin and Outside US Twelve
+18:34:56.691 [main] INFO  Page.Nyl_ContactPage - Additional Questions as NO for Spouse for Nicotin and Outside US 12 are selected successfully || Pass
+18:34:56.693 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:35:02.799 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:35:02.799 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+18:35:48.220 [main] ERROR Page.Nyl_PreviewPage - Not able to display the elements of Application summary page || FailTimed out after 10 seconds. Unable to locate the element
+18:35:48.266 [main] INFO  StepDef.ServiceHooks - <ABESC07> Spouse only 50+ TL (add max of primary & contingent individual benes) is Failed
+18:38:01.977 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:38:01.980 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:38:21.134 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:38:51.135 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:38:51.142 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:38:51.235 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:38:51.238 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+18:38:54.358 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+18:38:54.361 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+18:38:56.451 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+18:38:56.454 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+18:38:58.626 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+18:38:58.628 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+18:38:58.729 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+18:38:58.732 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio Button For Spouse is Member
+18:39:02.839 [main] INFO  Page.Nyl_EligibilityPage -  Select NO Radio Button For Spouse is Member successfully || Pass
+18:39:02.843 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Eligibility details
+18:39:03.796 [main] INFO  Page.Nyl_EligibilityPage - Spouse Eligibility details are entered sucessfully
+18:39:03.798 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:39:09.884 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:39:09.887 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:39:11.042 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:39:11.046 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+18:39:11.064 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:39:11.064 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:39:11.094 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:39:11.095 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+18:39:11.126 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed
+18:39:11.126 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Accidental Death and Dismemberment Insurance
+18:39:11.156 [main] INFO  Page.Nyl_ProductPage -  Accidental Death and Dismemberment Insurance Product Product is displayed
+18:39:11.156 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Plus Insurance
+18:39:11.185 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Plus Insurance Product Product is displayed
+18:39:11.185 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Insurance
+18:39:11.214 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Insurance Product Product is displayed
+18:39:11.215 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Mid-Term Disability Insurance
+18:39:11.244 [main] INFO  Page.Nyl_ProductPage - Mid-Term Disability Insurance Product  is displayed
+18:39:11.244 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Hospital Money Insurance
+18:39:11.276 [main] INFO  Page.Nyl_ProductPage - Hospital Money Insurance Product Product is displayed
+18:39:11.279 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+18:39:12.369 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+18:39:12.371 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Spouse
+18:39:13.861 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Spouse is entered sucessfully|| Pass
+18:39:13.863 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:39:19.933 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:39:19.937 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:39:21.088 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:39:21.092 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+18:39:21.113 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:39:21.114 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:39:21.143 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:39:21.144 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Fifty Plus Multi Benefit Insurance  
+18:39:21.174 [main] INFO  Page.Nyl_ProductPage - Fifty Plus Multi Benefit Insurance Product is displayed
+18:39:21.174 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Accidental Death and Dismemberment Insurance
+18:39:21.204 [main] INFO  Page.Nyl_ProductPage -  Accidental Death and Dismemberment Insurance Product Product is displayed
+18:39:21.204 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Plus Insurance
+18:39:21.232 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Plus Insurance Product Product is displayed
+18:39:21.233 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Insurance
+18:39:21.262 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Insurance Product Product is displayed
+18:39:21.262 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Mid-Term Disability Insurance
+18:39:21.292 [main] INFO  Page.Nyl_ProductPage - Mid-Term Disability Insurance Product  is displayed
+18:39:21.292 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Critical Illness
+18:39:21.321 [main] INFO  Page.Nyl_ProductPage - Critical Illness Product  is displayed
+18:39:21.321 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Hospital Money Insurance
+18:39:21.350 [main] INFO  Page.Nyl_ProductPage - Hospital Money Insurance Product Product is displayed
+18:39:21.352 [main] DEBUG Page.Nyl_ProductPage - Select the Fifty Plus Year Level Term Life Insurance product for Spouse
+18:39:22.487 [main] INFO  Page.Nyl_ProductPage - 50+ year Product selected successfully || Pass
+18:39:22.489 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:39:28.536 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:39:28.540 [main] DEBUG Page.Nyl_ProductPage - click_on_Yes_on_Dependent_CoverageWindow
+18:39:28.721 [main] INFO  Page.Nyl_ProductPage - Yes Button is clicked sucessfully  || Pass
+18:39:28.724 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+18:39:29.992 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+18:39:29.994 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:39:36.066 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:39:36.070 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:39:36.115 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:39:36.118 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Fifty Years Products
+18:39:36.153 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:39:37.230 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=25000
+Benefit Amount is 100000
+18:39:40.159 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:39:40.159 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Fifty Years Product sucessfully || Pass
+18:39:40.161 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Spouse for Fifty Years Products
+18:39:40.219 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Fifty Years Products of Spouse  are validated sucessfully || Pass
+18:39:40.221 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:39:46.272 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:39:46.276 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+18:39:47.446 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+18:39:47.448 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:39:47.554 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:39:47.557 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:39:48.970 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:39:48.972 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:39:50.302 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:39:50.304 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:39:54.369 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:39:54.371 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:39:54.482 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:39:54.484 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:39:55.883 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:39:55.886 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:39:57.216 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:39:57.218 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:01.274 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:01.277 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:40:01.425 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:40:01.427 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:40:02.797 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:40:02.813 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:40:04.104 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:40:04.106 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:08.161 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:08.164 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:40:08.298 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:40:08.300 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:40:09.686 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:40:09.688 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:40:11.013 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:40:11.015 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:15.069 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:15.072 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:40:15.220 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:40:15.222 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:40:18.671 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:40:18.673 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:40:19.992 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:40:19.994 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:24.042 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:24.044 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:40:24.157 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:40:24.159 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:40:27.619 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:40:27.623 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:40:28.959 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:40:28.961 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:33.013 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:33.016 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:40:33.130 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:40:33.132 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:40:36.611 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:40:36.613 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:40:37.949 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:40:37.951 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:41.999 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:42.002 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse
+18:40:42.144 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse is clicked successfully || Pass
+18:40:42.146 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:40:45.606 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:40:45.609 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:40:46.920 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:40:46.922 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:40:50.970 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:40:50.973 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:40:57.051 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:40:57.054 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+18:41:03.381 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+18:41:03.383 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+18:41:06.618 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+18:41:06.621 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+18:41:58.335 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+18:41:58.337 [main] DEBUG Page.Nyl_ContactPage - Answer all other questions of Spouse as No for Nicotin and Outside US Twelve
+18:41:58.508 [main] INFO  Page.Nyl_ContactPage - Additional Questions as NO for Spouse for Nicotin and Outside US 12 are selected successfully || Pass
+18:41:58.510 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+18:41:58.619 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+18:41:58.620 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:42:04.713 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:42:04.716 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+18:42:04.762 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+18:42:04.764 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:42:10.820 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:42:10.823 [main] DEBUG Page.Nyl_PaymentPage - Select Payment Method for Fifty Year Product 
+18:42:12.978 [main] INFO  Page.Nyl_PaymentPage - Payment Method for Fifty Year Product is selected Successfully  || Pass
+18:42:12.981 [main] DEBUG Page.Nyl_PaymentPage - Select Payment option as a Bill Me
+18:42:15.097 [main] INFO  Page.Nyl_PaymentPage - Payment option as Bill Me is selected Successfully  || Pass
+18:42:15.100 [main] DEBUG Page.Nyl_PaymentPage - Save the Bank Information
+18:42:17.221 [main] INFO  Page.Nyl_PaymentPage - Bank Information is saved Successfully  || Pass
+18:42:17.224 [main] DEBUG Page.Nyl_PaymentPage - Select Payment Frequency for Fifty Year Product
+18:42:20.398 [main] INFO  Page.Nyl_PaymentPage - Payment Frequency for Fifty Year is selected Successfully  || Pass
+18:42:20.401 [main] DEBUG Page.Nyl_PaymentPage - Verify Premium Rates
+18:42:20.479 [main] INFO  Page.Nyl_PaymentPage - Premium Rates are Verified Successfully  || Pass
+18:42:20.481 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:42:26.553 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:42:26.556 [main] DEBUG Page.Nyl_AuthorizePage - Confirm the term and conditions for Self
+18:42:31.739 [main] INFO  Page.Nyl_AuthorizePage - Term and Conditions for Self selected successfully || Pass
+18:42:31.742 [main] DEBUG Page.Nyl_AuthorizePage - Confirm the term and conditions for Spouse
+18:42:36.906 [main] INFO  Page.Nyl_AuthorizePage - Term and Conditions for Spouse selected successfully || Pass
+18:42:36.908 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:42:42.981 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:42:42.982 [main] DEBUG Page.Nyl_SignaturePage - Continue and attached the sign
+18:43:08.358 [main] INFO  Page.Nyl_SignaturePage - Signature Added successfully || Pass
+18:43:08.360 [main] DEBUG Page.Nyl_SignaturePage - Click on next button to finish
+18:43:23.489 [main] INFO  Page.Nyl_SignaturePage - Click on next to finish button successfully || Pass
+18:43:23.492 [main] DEBUG Page.Nyl_SignaturePage - Continue and attached the sign
+18:43:48.944 [main] INFO  Page.Nyl_SignaturePage - Signature Added successfully || Pass
+18:43:48.947 [main] DEBUG Page.Nyl_SignaturePage - Click on next button to finish
+18:44:04.068 [main] INFO  Page.Nyl_SignaturePage - Click on next to finish button successfully || Pass
+18:44:04.071 [main] DEBUG Page.Nyl_BasicInfo - Thank You Page is displayed to user with Receipt number
+18:44:05.503 [main] INFO  Page.Nyl_BasicInfo - Thank You Page is displayed to user with Receipt number successfully || Pass
+18:44:05.505 [main] DEBUG Page.Nyl_BasicInfo - Confirmation number is generated
+18:44:08.136 [main] INFO  Page.Nyl_BasicInfo - Confirmation number is generated and written in excel sheet || Pass
+19:08:25.119 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+19:08:25.119 [main] DEBUG Selenium.SetUp - Navigating to URL
+19:08:43.783 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:09:13.790 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:09:13.790 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:09:13.899 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:09:13.902 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+19:09:17.055 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+19:09:17.058 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:09:19.061 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:09:19.065 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+19:09:23.217 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+19:09:23.221 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+19:09:23.358 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+19:09:23.360 [main] DEBUG Page.Nyl_EligibilityPage - Select Yes Radio Button For Spouse is Member
+19:09:27.442 [main] INFO  Page.Nyl_EligibilityPage -  Select Yes Radio Button For Spouse is Member successfully || Pass
+19:09:27.447 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Eligibility details
+19:09:28.525 [main] INFO  Page.Nyl_EligibilityPage - Spouse Eligibility details are entered sucessfully
+19:09:28.527 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:09:34.617 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:09:34.621 [main] DEBUG Page.Nyl_EligibilityPage - Validate the error message for Address
+19:09:35.009 [main] INFO  StepDef.ServiceHooks - <ABESC08> Complete work flow of application Spouse only 5,10,20 YTL, AD&D, LTD Plus, LTD, MidTerm, Critical Illness, Hospital money insurance is Failed
+19:11:36.564 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+19:11:36.564 [main] DEBUG Selenium.SetUp - Navigating to URL
+19:11:54.518 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:12:24.521 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:12:24.529 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:12:24.634 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:12:24.636 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+19:12:27.806 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+19:12:27.809 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:12:29.849 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:12:29.853 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+19:12:33.944 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+19:12:33.947 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+19:12:34.071 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+19:12:34.073 [main] DEBUG Page.Nyl_EligibilityPage - Select Yes Radio Button For Spouse is Member
+19:12:38.160 [main] INFO  Page.Nyl_EligibilityPage -  Select Yes Radio Button For Spouse is Member successfully || Pass
+19:12:38.165 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Eligibility details
+19:12:39.190 [main] INFO  Page.Nyl_EligibilityPage - Spouse Eligibility details are entered sucessfully
+19:12:39.192 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:12:45.289 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:12:45.293 [main] DEBUG Page.Nyl_EligibilityPage - Validate the error message for Address
+19:12:45.373 [main] INFO  Page.Nyl_EligibilityPage - Validated the error message for Address successfully || Pass
+19:12:45.375 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:12:46.298 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:12:46.300 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:12:52.413 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:12:52.417 [main] DEBUG Page.Nyl_EligibilityPage - Validate Age Restriction
+19:13:37.787 [main] ERROR Page.Nyl_EligibilityPage - Not able to Validate Age validation || FailTimed out after 7 seconds. Unable to locate the element
+19:13:38.038 [main] INFO  StepDef.ServiceHooks - <ABESC08> Complete work flow of application Spouse only 5,10,20 YTL, AD&D, LTD Plus, LTD, MidTerm, Critical Illness, Hospital money insurance is Failed
+19:18:24.314 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+19:18:24.330 [main] DEBUG Selenium.SetUp - Navigating to URL
+19:18:42.311 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:19:12.325 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:19:12.325 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:19:12.438 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:19:12.441 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+19:19:15.605 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+19:19:15.607 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:19:17.617 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:19:17.620 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+19:19:21.767 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+19:19:21.769 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+19:19:21.909 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+19:19:21.911 [main] DEBUG Page.Nyl_EligibilityPage - Select Yes Radio Button For Spouse is Member
+19:19:25.992 [main] INFO  Page.Nyl_EligibilityPage -  Select Yes Radio Button For Spouse is Member successfully || Pass
+19:19:25.997 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Eligibility details
+19:19:27.022 [main] INFO  Page.Nyl_EligibilityPage - Spouse Eligibility details are entered sucessfully
+19:19:27.025 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:19:33.120 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:19:33.124 [main] DEBUG Page.Nyl_EligibilityPage - Validate the error message for Address
+19:19:33.204 [main] INFO  Page.Nyl_EligibilityPage - Validated the error message for Address successfully || Pass
+19:19:33.207 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:19:34.170 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:19:34.173 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:19:40.278 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:19:40.282 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:19:40.332 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:19:40.335 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+19:19:41.424 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+19:19:41.429 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Spouse
+19:19:43.000 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Spouse is entered sucessfully|| Pass
+19:19:43.002 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:19:49.083 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:19:49.083 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Plus Insurance
+19:20:34.461 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Plus Insurance Product is not displayed
+19:20:34.469 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Long-Term Disability Plus Insurance Product || Fail
+19:20:34.469 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Insurance
+19:21:19.840 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Insurance Product is not displayed
+19:21:19.855 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Long-Term Disability Product || Fail
+19:21:19.855 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Mid-Term Disability Insurance
+19:22:05.237 [main] INFO  Page.Nyl_ProductPage - Mid-Term Disability Insurance Product is not displayed
+19:22:05.252 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Mid-Term Disability Insurance Product || Fail
+19:22:05.252 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Critical Illness
+19:22:50.638 [main] INFO  Page.Nyl_ProductPage - Critical Illness Product is not displayed
+19:22:50.652 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Critical Illness Product || Fail
+19:22:50.654 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+19:22:51.784 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+19:22:51.788 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:22:53.326 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:22:53.329 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:22:59.410 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:22:59.410 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:23:00.558 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:23:00.558 [main] DEBUG Page.Nyl_ProductPage - Select the Five Year Level Term Life Insurance product for Spouse
+19:23:01.690 [main] INFO  Page.Nyl_ProductPage - 5 year Product selected successfully || Pass
+19:23:01.693 [main] DEBUG Page.Nyl_ProductPage - Select the Ten Year Level Term Life Insurance product for Spouse
+19:23:02.826 [main] INFO  Page.Nyl_ProductPage - 10 year Product selected successfully || Pass
+19:23:02.829 [main] DEBUG Page.Nyl_ProductPage - Select the Twenty Year Level Term Life Insurance product for Spouse
+19:23:04.446 [main] INFO  Page.Nyl_ProductPage - 20 year Product selected successfully || Pass
+19:23:04.446 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Accidental Death Product
+19:23:05.566 [main] INFO  Page.Nyl_ProductPage - Accidental Death product for Spouse is selected sucessfully|| Pass
+19:23:05.566 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Long Term disability Plus Product
+19:23:06.720 [main] INFO  Page.Nyl_ProductPage -  Long Term disability Plus Product for Spouse is selected sucessfully|| Pass
+19:23:06.720 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Long Term disability Product
+19:23:07.840 [main] INFO  Page.Nyl_ProductPage - Long Term disability product for Spouse is selected sucessfully|| Pass
+19:23:07.844 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Mid Term disability Product
+19:23:08.977 [main] INFO  Page.Nyl_ProductPage - Mid Term disability product for Spouse is selected sucessfully|| Pass
+19:23:08.981 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Critical Illness Product
+19:23:54.368 [main] ERROR Page.Nyl_ProductPage - Not able to select Spouse for Critical Illness Product || FailTimed out after 10 seconds. Unable to locate the element
+19:23:54.627 [main] INFO  StepDef.ServiceHooks - <ABESC08> Complete work flow of application Spouse only 5,10,20 YTL, AD&D, LTD Plus, LTD, MidTerm, Critical Illness, Hospital money insurance is Failed
+19:26:40.477 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+19:26:40.477 [main] DEBUG Selenium.SetUp - Navigating to URL
+19:26:59.412 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:27:29.413 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:27:29.421 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:27:29.524 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:27:29.527 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+19:27:32.699 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+19:27:32.702 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:27:34.907 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:27:34.910 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+19:27:38.952 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+19:27:38.955 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+19:27:39.065 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+19:27:39.068 [main] DEBUG Page.Nyl_EligibilityPage - Select Yes Radio Button For Spouse is Member
+19:27:43.170 [main] INFO  Page.Nyl_EligibilityPage -  Select Yes Radio Button For Spouse is Member successfully || Pass
+19:27:43.175 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Eligibility details
+19:27:44.230 [main] INFO  Page.Nyl_EligibilityPage - Spouse Eligibility details are entered sucessfully
+19:27:44.232 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:27:50.335 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:27:50.339 [main] DEBUG Page.Nyl_EligibilityPage - Validate the error message for Address
+19:27:50.411 [main] INFO  Page.Nyl_EligibilityPage - Validated the error message for Address successfully || Pass
+19:27:50.413 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:27:51.357 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:27:51.359 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:27:57.450 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:27:57.454 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:27:57.493 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:27:57.493 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+19:27:58.582 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+19:27:58.585 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Spouse
+19:27:59.927 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Spouse is entered sucessfully|| Pass
+19:27:59.930 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:28:06.020 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:28:06.020 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Plus Insurance
+19:28:51.408 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Plus Insurance Product is not displayed
+19:28:51.423 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Long-Term Disability Plus Insurance Product || Fail
+19:28:51.423 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Long-Term Disability Insurance
+19:29:36.749 [main] INFO  Page.Nyl_ProductPage - Long-Term Disability Insurance Product is not displayed
+19:29:36.749 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Long-Term Disability Product || Fail
+19:29:36.764 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Mid-Term Disability Insurance
+19:30:22.148 [main] INFO  Page.Nyl_ProductPage - Mid-Term Disability Insurance Product is not displayed
+19:30:22.148 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Mid-Term Disability Insurance Product || Fail
+19:30:22.159 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Critical Illness
+19:31:07.529 [main] INFO  Page.Nyl_ProductPage - Critical Illness Product is not displayed
+19:31:07.529 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Critical Illness Product || Fail
+19:31:07.532 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+19:31:08.661 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+19:31:08.664 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:31:11.035 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:31:11.037 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:31:17.123 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:31:17.127 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:31:18.273 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:31:18.277 [main] DEBUG Page.Nyl_ProductPage - Select the Five Year Level Term Life Insurance product for Spouse
+19:31:19.408 [main] INFO  Page.Nyl_ProductPage - 5 year Product selected successfully || Pass
+19:31:19.411 [main] DEBUG Page.Nyl_ProductPage - Select the Ten Year Level Term Life Insurance product for Spouse
+19:31:20.555 [main] INFO  Page.Nyl_ProductPage - 10 year Product selected successfully || Pass
+19:31:20.558 [main] DEBUG Page.Nyl_ProductPage - Select the Twenty Year Level Term Life Insurance product for Spouse
+19:31:22.196 [main] INFO  Page.Nyl_ProductPage - 20 year Product selected successfully || Pass
+19:31:22.196 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Accidental Death Product
+19:31:23.306 [main] INFO  Page.Nyl_ProductPage - Accidental Death product for Spouse is selected sucessfully|| Pass
+19:31:23.310 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Long Term disability Plus Product
+19:31:24.437 [main] INFO  Page.Nyl_ProductPage -  Long Term disability Plus Product for Spouse is selected sucessfully|| Pass
+19:31:24.440 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Long Term disability Product
+19:31:25.555 [main] INFO  Page.Nyl_ProductPage - Long Term disability product for Spouse is selected sucessfully|| Pass
+19:31:25.559 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Mid Term disability Product
+19:31:26.692 [main] INFO  Page.Nyl_ProductPage - Mid Term disability product for Spouse is selected sucessfully|| Pass
+19:31:26.692 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Critical Illness Product
+19:31:27.847 [main] INFO  Page.Nyl_ProductPage - Critical Illness product for Spouse is selected sucessfully|| Pass
+19:31:27.847 [main] DEBUG Page.Nyl_ProductPage - Select Spouse for Hospital Money Insurance Product
+19:31:29.000 [main] INFO  Page.Nyl_ProductPage - Hospital Money Insurance product for Spouse is selected sucessfully|| Pass
+19:31:29.000 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:31:35.086 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:31:35.086 [main] DEBUG Page.Nyl_ProductPage - click_on_Yes_on_Dependent_CoverageWindow
+19:31:35.284 [main] INFO  Page.Nyl_ProductPage - Yes Button is clicked sucessfully  || Pass
+19:31:35.287 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+19:31:36.984 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+19:31:36.987 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage Spouse
+19:31:38.097 [main] INFO  Page.Nyl_ProductPage - Monthly Income for Spouse is Entered Sucessfully|| Pass
+19:31:38.099 [main] DEBUG Page.Nyl_ProductPage - Select No Options for Spouse addtional Questions Group Disability Insurance
+19:31:38.181 [main] INFO  Page.Nyl_ProductPage -  No Options for Spouse addtional Questions Group Disability Insurance is selected Sucessfully|| Pass
+19:31:38.183 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:31:44.266 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:31:44.270 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Five Years Products
+19:31:44.270 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount

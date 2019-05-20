@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="browser">CHROME</entry>
+	<!-- <entry key="appURL">https://acs.nylinsure2.com/</entry> -->
+	<entry key="appURLfirstPart">https://</entry>
+    <entry key="appURLEndPart">preview2.nylinsure2.com/</entry>
+	 <!-- <entry key="appURLEndPart">.nylinsure2.com/</entry> -->
+	<entry key="isApp">false</entry>
+	<entry key="testDataFilePath">D:\\MavenProject\\nylTestAutomation\\TestData.xlsx</entry>
+	<entry key="sheetName"></entry>
+	<entry key="appPackage">com.expedia.bookings</entry>
+	<entry key="appActivity">com.expedia.bookings.activity.SearchActivity</entry>
+	<entry key="extentConfigPath">D:\\MavenProject\\nylTestAutomation\\src\\main\\resources\\extent-config.xml</entry>
+	<!-- <entry key="appPackage">in.amazon.mShop.android.shopping</entry> <entry 
+		key="appActivity">com.amazon.mShop.home.HomeActivity</entry> -->
+</properties>
+
+<!-- https://acs.nylinsure2.com/ -->
+<!--Abe= https://abe.nylinsure2.com/ -->

@@ -1,0 +1,78 @@
+package Runner;
+
+import java.io.*;
+import java.util.InvalidPropertiesFormatException;
+import com.cucumber.listener.Reporter;
+
+import org.junit.runner.RunWith;
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
+import cucumber.api.CucumberOptions;
+import cucumber.api.cli.Main;
+import cucumber.api.junit.Cucumber;
+
+	@RunWith(Cucumber.class)
+	@CucumberOptions(
+		   //features = "src/main/resources/Feature/abe_NYL.feature",
+		  //features = "src/main/resources/Feature//asce_NYL.feature",
+			features = "src/main/resources/Feature//acog_NYL.feature",
+		    		
+		    glue = { "StepDef" },//the path of the step definition files
+		    format= {"pretty","html:test-outout", "json:json_output/cucumber.json", "junit:junit_xml/cucumber.xml"},
+		    monochrome = true,//display the console output in a proper readable format
+		    strict = true, //it will check if any step is not defined in step definition file
+		    plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
+		    dryRun = false,//to check the mapping is proper between feature file and step def file
+		   // tags   = {"@AbeRegression_1"} 
+		   // tags   = {"@AsceRegression_1"} 
+		   tags   = {"@AcogRegression_5"} 
+		   
+		)
+	
+	public class TestRunner {
+		public WebDriver driver;
+		
+		@AfterClass
+		public static void writeExtentReport() throws InvalidPropertiesFormatException, IOException {
+			
+			Reporter.loadXMLConfig(new File(System.getProperty("user.dir")+"\\src\\main\\resources\\extent-config.xml"));
+			//Reporter.loadXMLConfig(new File(FileReaderManager.getInstance().getConfigReader().getReportConfigPath()));
+			Reporter.setSystemInfo("User Name", System.getProperty("user.name"));
+		    Reporter.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
+		    Reporter.setSystemInfo("Machine", 	"Windows 10" + "64 Bit");
+		    Reporter.setSystemInfo("Selenium", "3.7.0");
+		    Reporter.setSystemInfo("Maven", "3.5.2");
+		    Reporter.setSystemInfo("Java Version", "1.8.0_151");
+	
+			}
+		
+		public static void main(String[] args) throws Exception, IOException {
+
+			  try {
+				  
+				  //String filePath = TestRunner.getReportConfigPath();
+				 ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();
+				 String featurePath=System.getProperty("user.dir") + "\\src\\main\\resources\\Feature\\abe_NYL.feature";
+				 //String [] argv = new String[]{ "-g","StepDef",featurePath,"--plugin","html:C:\\ITAF_Repository\\cucumber-html-report"};
+				  String [] argv = new String[]{ "-g","StepDef",featurePath,"--plugin","com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"};
+				  byte exitstatus = Main.run(argv, contextClassLoader);
+				  writeExtentReport();
+				//setScenarioIndex(1);
+				//setScenarioName("Scenario 1");
+				//SetTestDataCollection();
+			} catch (Throwable e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			// System.out.println(GetDataFromExcel("FeatureName", 0));
+			// System.out.println(GetDataFromExcel("FeatureName", 1));
+			// System.out.println(GetDataFromExcel("FeatureName", 2));
+		}
+	}
+	 
+	
+	
+	//ORed : tags = {"@SmokeTest , @RegressionTest"} -- execute all tests tagged as @SmokeTest OR @RegressionTest
+	//ANDed : tags = tags = {"@SmokeTest" , "@RegressionTest"} -- execute all tests tagged as @SmokeTest AND @RegressionTest
+	
+

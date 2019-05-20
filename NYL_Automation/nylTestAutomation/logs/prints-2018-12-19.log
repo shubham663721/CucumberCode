@@ -1,0 +1,483 @@
+18:15:33.005 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:15:33.019 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+18:15:33.042 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:15:33.042 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:15:33.076 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:15:33.076 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+18:15:33.104 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed
+18:15:33.104 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:15:33.126 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product is displayed
+18:15:33.128 [main] DEBUG Page.Nyl_ProductPage - Verify that DII is already selected for Self
+18:15:33.153 [main] INFO  Page.Nyl_ProductPage - DII self product is selected
+18:15:33.155 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:15:39.216 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:15:39.220 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Unable to work because of Disability as Yes 
+18:15:39.358 [main] INFO  Page.Nyl_ProductPage -  work because of Disability Question answered as YES for Self successfully || Pass
+18:15:39.361 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:15:41.016 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:15:41.020 [main] DEBUG Page.Nyl_ProductPage - Click on Add Company Button
+18:15:41.152 [main] INFO  Page.Nyl_ProductPage - Add Company Button is clicked successfully || Pass
+18:15:41.155 [main] DEBUG Page.Nyl_ProductPage - Enter Company Details
+18:15:43.535 [main] INFO  Page.Nyl_ProductPage - Company details are entered successfully || Pass
+18:15:43.539 [main] DEBUG Page.Nyl_ProductPage - Answer the Replacement Coverage Disability as Yes 
+18:15:44.657 [main] INFO  Page.Nyl_ProductPage -  Replacement Coverage Disability Question answered as YES for Self successfully || Pass
+18:15:44.659 [main] DEBUG Page.Nyl_ProductPage - Enter amount will be Replaced
+18:15:45.773 [main] INFO  Page.Nyl_ProductPage - Amount to be replaced is entered successfully || Pass
+18:15:45.776 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:15:51.853 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:15:51.858 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:15:51.905 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:15:51.908 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Insurance Products
+18:15:51.941 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:15:53.015 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 3000
+18:15:53.839 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:15:53.840 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Insurance Product sucessfully || Pass
+18:15:53.842 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:15:53.901 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:15:53.904 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:16:11.015 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:16:11.020 [main] DEBUG Page.Nyl_CoveragePage - Validate Maximum Monthly Benefit Amount for DII
+18:16:13.072 [main] INFO  Page.Nyl_CoveragePage - Maximum Monthly Benefit Amount for DII is validated successfully ||Pass
+18:16:13.077 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:16:29.168 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:16:29.173 [main] DEBUG Page.Nyl_CoveragePage - Selects Catastrophic Disability Benefit Rider for Disability Income Insurance Product
+18:16:31.877 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is selected  sucessfully || Pass
+18:16:31.879 [main] DEBUG Page.Nyl_CoveragePage - Selects Cost of Living Adjustment  Rider for Disability Income Insurance Product
+18:16:34.533 [main] INFO  Page.Nyl_CoveragePage - Cost of Living Adjustment Rider for Disability Income Insurance is selected  sucessfully || Pass
+18:16:34.537 [main] DEBUG Page.Nyl_EligibilityPage - Click on save for later button
+18:16:38.608 [main] INFO  Page.Nyl_EligibilityPage - Click on save for later button successfully || Pass
+18:16:38.626 [main] DEBUG Page.Nyl_PreviewPage - Enter user login details on save Information Page
+18:17:24.041 [main] ERROR Page.Nyl_PreviewPage - Not able to enter the Login details on Save InformationPage || FailTimed out after 10 seconds. Unable to locate the element
+18:17:24.123 [main] INFO  StepDef.ServiceHooks - <ACOG_SC05> Application submission for Self as Resident with DI product and Cost Of Living Adjustement rider is Failed
+18:19:04.668 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:19:04.671 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:19:27.628 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:19:57.628 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:19:57.636 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:19:57.747 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:19:57.751 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+18:20:00.050 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+18:20:00.054 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+18:20:02.148 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+18:20:02.150 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+18:20:04.248 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+18:20:04.251 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+18:20:04.346 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+18:20:04.348 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:20:04.430 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:20:04.432 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:20:10.530 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:20:10.533 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:20:11.677 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:20:11.680 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+18:20:14.314 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+18:20:14.319 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:20:20.420 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:20:20.424 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:20:22.091 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:20:22.095 [main] DEBUG Page.Nyl_ProductPage - Selects Answer as No for Applying any Other Insurance
+18:20:22.199 [main] INFO  Page.Nyl_ProductPage -  No Options for Applying any Other Insurance is selected Sucessfully|| Pass
+18:20:22.202 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:20:28.279 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:20:28.284 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:20:28.350 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:20:28.352 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:20:31.439 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:20:31.442 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:20:33.085 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:20:33.089 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:20:39.180 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:20:39.185 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:20:39.264 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:20:39.267 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+18:20:40.381 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+18:20:40.384 [main] DEBUG Page.Nyl_EligibilityPage - Enter DOB after error message for Self
+18:20:42.057 [main] INFO  Page.Nyl_EligibilityPage - Enter DOB after error message for Self successfully || Pass
+18:20:42.060 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+18:20:42.151 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+18:20:42.153 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+18:20:42.247 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+18:20:42.250 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as NO
+18:20:42.331 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as NO|| Pass
+18:20:42.333 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:20:48.423 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:20:48.425 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:20:49.556 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:20:49.559 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:21:34.976 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Disability Income Insurance|| Fail
+18:21:34.981 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:21:38.070 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:21:38.075 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:21:38.199 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:21:38.202 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:21:44.299 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:21:44.303 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:21:45.447 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:21:45.451 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+18:21:45.480 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:21:45.480 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:21:45.512 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:21:45.513 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+18:21:45.539 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed
+18:21:45.539 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:21:45.560 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product is displayed
+18:21:45.563 [main] DEBUG Page.Nyl_ProductPage - Verify that DII is already selected for Self
+18:21:45.589 [main] INFO  Page.Nyl_ProductPage - DII self product is selected
+18:21:45.591 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:21:51.658 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:21:51.662 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Unable to work because of Disability as Yes 
+18:21:51.779 [main] INFO  Page.Nyl_ProductPage -  work because of Disability Question answered as YES for Self successfully || Pass
+18:21:51.782 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:21:53.433 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:21:53.437 [main] DEBUG Page.Nyl_ProductPage - Click on Add Company Button
+18:21:53.583 [main] INFO  Page.Nyl_ProductPage - Add Company Button is clicked successfully || Pass
+18:21:53.585 [main] DEBUG Page.Nyl_ProductPage - Enter Company Details
+18:21:55.990 [main] INFO  Page.Nyl_ProductPage - Company details are entered successfully || Pass
+18:21:55.994 [main] DEBUG Page.Nyl_ProductPage - Answer the Replacement Coverage Disability as Yes 
+18:21:57.124 [main] INFO  Page.Nyl_ProductPage -  Replacement Coverage Disability Question answered as YES for Self successfully || Pass
+18:21:57.127 [main] DEBUG Page.Nyl_ProductPage - Enter amount will be Replaced
+18:21:58.228 [main] INFO  Page.Nyl_ProductPage - Amount to be replaced is entered successfully || Pass
+18:21:58.230 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:22:04.307 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:22:04.309 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:22:04.340 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:22:04.343 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Insurance Products
+18:22:04.369 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:22:05.436 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 3000
+18:22:06.282 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:22:06.282 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Insurance Product sucessfully || Pass
+18:22:06.284 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:22:06.359 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:22:06.361 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:22:23.506 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:22:23.511 [main] DEBUG Page.Nyl_CoveragePage - Validate Maximum Monthly Benefit Amount for DII
+18:22:25.575 [main] INFO  Page.Nyl_CoveragePage - Maximum Monthly Benefit Amount for DII is validated successfully ||Pass
+18:22:25.579 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:22:41.660 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:22:41.665 [main] DEBUG Page.Nyl_CoveragePage - Selects Catastrophic Disability Benefit Rider for Disability Income Insurance Product
+18:22:44.325 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is selected  sucessfully || Pass
+18:22:44.328 [main] DEBUG Page.Nyl_CoveragePage - Selects Cost of Living Adjustment  Rider for Disability Income Insurance Product
+18:22:46.975 [main] INFO  Page.Nyl_CoveragePage - Cost of Living Adjustment Rider for Disability Income Insurance is selected  sucessfully || Pass
+18:22:46.979 [main] DEBUG Page.Nyl_EligibilityPage - Click on save for later button
+18:22:51.051 [main] INFO  Page.Nyl_EligibilityPage - Click on save for later button successfully || Pass
+18:22:51.065 [main] DEBUG Page.Nyl_PreviewPage - Enter user login details on save Information Page
+18:23:36.376 [main] ERROR Page.Nyl_PreviewPage - Not able to enter the Login details on Save InformationPage || FailTimed out after 10 seconds. Unable to locate the element
+18:23:36.461 [main] INFO  StepDef.ServiceHooks - <ACOG_SC05> Application submission for Self as Resident with DI product and Cost Of Living Adjustement rider is Failed
+18:45:57.765 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:45:57.770 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:46:12.976 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:46:42.976 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:46:42.984 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:46:43.129 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:46:43.132 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+18:46:44.750 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+18:46:44.753 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+18:46:46.797 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+18:46:46.801 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+18:46:48.912 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+18:46:48.914 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+18:46:49.002 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+18:46:49.004 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:46:49.082 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:46:49.084 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:46:55.180 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:46:55.184 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:46:56.324 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:46:56.327 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+18:46:58.949 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+18:46:58.953 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:47:05.051 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:47:05.055 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:47:06.703 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:47:06.707 [main] DEBUG Page.Nyl_ProductPage - Selects Answer as No for Applying any Other Insurance
+18:47:06.822 [main] INFO  Page.Nyl_ProductPage -  No Options for Applying any Other Insurance is selected Sucessfully|| Pass
+18:47:06.824 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:47:12.898 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:47:12.903 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:47:12.988 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:47:12.990 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:47:16.062 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:47:16.066 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:47:17.720 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:47:17.724 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:47:23.802 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:47:23.806 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:47:23.889 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:47:23.891 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+18:47:25.012 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+18:47:25.015 [main] DEBUG Page.Nyl_EligibilityPage - Enter DOB after error message for Self
+18:47:26.543 [main] INFO  Page.Nyl_EligibilityPage - Enter DOB after error message for Self successfully || Pass
+18:47:26.546 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+18:47:26.640 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+18:47:26.643 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+18:47:26.734 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+18:47:26.736 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as NO
+18:47:26.817 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as NO|| Pass
+18:47:26.819 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:47:32.899 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:47:32.903 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:47:34.046 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:47:34.050 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:48:19.386 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Disability Income Insurance|| Fail
+18:48:19.391 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:48:22.478 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:48:22.482 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:48:22.576 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:48:22.579 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:48:28.654 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:48:28.658 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:48:29.797 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:48:29.802 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+18:48:29.830 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:48:29.830 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:48:29.860 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:48:29.860 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+18:48:29.886 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed
+18:48:29.886 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:48:29.908 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product is displayed
+18:48:29.910 [main] DEBUG Page.Nyl_ProductPage - Verify that DII is already selected for Self
+18:48:29.935 [main] INFO  Page.Nyl_ProductPage - DII self product is selected
+18:48:29.937 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:48:35.988 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:48:35.990 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Unable to work because of Disability as Yes 
+18:48:36.082 [main] INFO  Page.Nyl_ProductPage -  work because of Disability Question answered as YES for Self successfully || Pass
+18:48:36.085 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:48:37.695 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:48:37.697 [main] DEBUG Page.Nyl_ProductPage - Click on Add Company Button
+18:48:37.805 [main] INFO  Page.Nyl_ProductPage - Add Company Button is clicked successfully || Pass
+18:48:37.808 [main] DEBUG Page.Nyl_ProductPage - Enter Company Details
+18:48:40.174 [main] INFO  Page.Nyl_ProductPage - Company details are entered successfully || Pass
+18:48:40.176 [main] DEBUG Page.Nyl_ProductPage - Answer the Replacement Coverage Disability as Yes 
+18:48:41.298 [main] INFO  Page.Nyl_ProductPage -  Replacement Coverage Disability Question answered as YES for Self successfully || Pass
+18:48:41.300 [main] DEBUG Page.Nyl_ProductPage - Enter amount will be Replaced
+18:48:42.436 [main] INFO  Page.Nyl_ProductPage - Amount to be replaced is entered successfully || Pass
+18:48:42.439 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:48:48.500 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:48:48.504 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:48:48.556 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:48:48.559 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Insurance Products
+18:48:48.588 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:48:49.658 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 3000
+18:48:50.451 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:48:50.451 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Insurance Product sucessfully || Pass
+18:48:50.454 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:48:50.515 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:48:50.518 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:48:52.699 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:48:52.702 [main] DEBUG Page.Nyl_CoveragePage - Validate Maximum Monthly Benefit Amount for DII
+18:48:54.741 [main] INFO  Page.Nyl_CoveragePage - Maximum Monthly Benefit Amount for DII is validated successfully ||Pass
+18:48:54.745 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:49:10.839 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:49:10.844 [main] DEBUG Page.Nyl_CoveragePage - Selects Catastrophic Disability Benefit Rider for Disability Income Insurance Product
+18:49:13.500 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is selected  sucessfully || Pass
+18:49:13.505 [main] DEBUG Page.Nyl_CoveragePage - Selects Cost of Living Adjustment  Rider for Disability Income Insurance Product
+18:49:16.158 [main] INFO  Page.Nyl_CoveragePage - Cost of Living Adjustment Rider for Disability Income Insurance is selected  sucessfully || Pass
+18:49:16.162 [main] DEBUG Page.Nyl_EligibilityPage - Click on save for later button
+18:49:20.232 [main] INFO  Page.Nyl_EligibilityPage - Click on save for later button successfully || Pass
+18:49:20.257 [main] DEBUG Page.Nyl_PreviewPage - Enter user login details on save Information Page
+18:50:05.590 [main] ERROR Page.Nyl_PreviewPage - Not able to enter the Login details on Save InformationPage || FailTimed out after 10 seconds. Unable to locate the element
+18:50:05.673 [main] INFO  StepDef.ServiceHooks - <ACOG_SC05> Application submission for Self as Resident with DI product and Cost Of Living Adjustement rider is Failed
+18:52:30.569 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:52:30.573 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:52:45.592 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:53:15.594 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:53:15.598 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:53:15.696 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:53:15.699 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+18:53:17.334 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+18:53:17.337 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+18:53:19.707 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+18:53:19.709 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+18:53:21.816 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+18:53:21.818 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+18:53:21.898 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+18:53:21.901 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:53:21.976 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:53:21.978 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:53:28.085 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:53:28.088 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:53:29.192 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:53:29.194 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+18:53:31.819 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+18:53:31.821 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:53:37.871 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:53:37.873 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:53:39.495 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:53:39.497 [main] DEBUG Page.Nyl_ProductPage - Selects Answer as No for Applying any Other Insurance
+18:53:39.579 [main] INFO  Page.Nyl_ProductPage -  No Options for Applying any Other Insurance is selected Sucessfully|| Pass
+18:53:39.581 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:53:45.628 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:53:45.630 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:53:45.694 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:53:45.696 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:53:48.751 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:53:48.753 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:53:50.357 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:53:50.359 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:53:56.403 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:53:56.405 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:53:56.456 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:53:56.459 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+18:53:57.548 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+18:53:57.551 [main] DEBUG Page.Nyl_EligibilityPage - Enter DOB after error message for Self
+18:53:58.973 [main] INFO  Page.Nyl_EligibilityPage - Enter DOB after error message for Self successfully || Pass
+18:53:58.976 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+18:53:59.063 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+18:53:59.065 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+18:53:59.141 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+18:53:59.144 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as NO
+18:53:59.226 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as NO|| Pass
+18:53:59.228 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:54:05.292 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:54:05.295 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:54:06.400 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:54:06.403 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:54:51.788 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Disability Income Insurance|| Fail
+18:54:51.792 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:54:54.869 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:54:54.872 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:54:54.952 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:54:54.955 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:55:01.022 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:55:01.026 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:55:02.169 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:55:02.171 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+18:55:02.190 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:55:02.190 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:55:02.217 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:55:02.217 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+18:55:02.243 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed
+18:55:02.243 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+18:55:02.264 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product is displayed
+18:55:02.266 [main] DEBUG Page.Nyl_ProductPage - Verify that DII is already selected for Self
+18:55:02.291 [main] INFO  Page.Nyl_ProductPage - DII self product is selected
+18:55:02.293 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:55:08.357 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:55:08.361 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Unable to work because of Disability as Yes 
+18:55:08.479 [main] INFO  Page.Nyl_ProductPage -  work because of Disability Question answered as YES for Self successfully || Pass
+18:55:08.482 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:55:10.119 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:55:10.123 [main] DEBUG Page.Nyl_ProductPage - Click on Add Company Button
+18:55:10.250 [main] INFO  Page.Nyl_ProductPage - Add Company Button is clicked successfully || Pass
+18:55:10.253 [main] DEBUG Page.Nyl_ProductPage - Enter Company Details
+18:55:12.652 [main] INFO  Page.Nyl_ProductPage - Company details are entered successfully || Pass
+18:55:12.656 [main] DEBUG Page.Nyl_ProductPage - Answer the Replacement Coverage Disability as Yes 
+18:55:13.791 [main] INFO  Page.Nyl_ProductPage -  Replacement Coverage Disability Question answered as YES for Self successfully || Pass
+18:55:13.793 [main] DEBUG Page.Nyl_ProductPage - Enter amount will be Replaced
+18:55:14.909 [main] INFO  Page.Nyl_ProductPage - Amount to be replaced is entered successfully || Pass
+18:55:14.911 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:55:20.979 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:55:20.983 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:55:21.040 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:55:21.043 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Insurance Products
+18:55:21.073 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:55:22.145 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 3000
+18:55:22.940 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:55:22.940 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Insurance Product sucessfully || Pass
+18:55:22.943 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+18:55:23.006 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+18:55:23.008 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:55:25.224 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:55:25.226 [main] DEBUG Page.Nyl_CoveragePage - Validate Maximum Monthly Benefit Amount for DII
+18:55:27.266 [main] INFO  Page.Nyl_CoveragePage - Maximum Monthly Benefit Amount for DII is validated successfully ||Pass
+18:55:27.270 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:55:28.439 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:55:28.441 [main] DEBUG Page.Nyl_CoveragePage - Selects Catastrophic Disability Benefit Rider for Disability Income Insurance Product
+18:55:31.071 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is selected  sucessfully || Pass
+18:55:31.075 [main] DEBUG Page.Nyl_CoveragePage - Selects Cost of Living Adjustment  Rider for Disability Income Insurance Product
+18:55:33.710 [main] INFO  Page.Nyl_CoveragePage - Cost of Living Adjustment Rider for Disability Income Insurance is selected  sucessfully || Pass
+18:55:33.714 [main] DEBUG Page.Nyl_EligibilityPage - Click on save for later button
+18:55:37.785 [main] INFO  Page.Nyl_EligibilityPage - Click on save for later button successfully || Pass
+18:55:37.810 [main] DEBUG Page.Nyl_PreviewPage - Enter user login details on save Information Page
+18:56:23.157 [main] ERROR Page.Nyl_PreviewPage - Not able to enter the Login details on Save InformationPage || FailTimed out after 10 seconds. Unable to locate the element
+18:56:23.247 [main] INFO  StepDef.ServiceHooks - <ACOG_SC05> Application submission for Self as Resident with DI product and Cost Of Living Adjustement rider is Failed
+18:59:41.120 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:59:41.123 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:59:56.147 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:00:26.149 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:00:26.153 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:00:26.256 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:00:26.259 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+19:00:27.894 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+19:00:27.898 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+19:00:29.987 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+19:00:29.991 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+19:00:32.078 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+19:00:32.081 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:00:32.169 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:00:32.172 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+19:00:32.255 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+19:00:32.257 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:00:38.352 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:00:38.357 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:00:39.494 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:00:39.497 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+19:00:42.138 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+19:00:42.142 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:00:48.243 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:00:48.247 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+19:00:49.907 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+19:00:49.911 [main] DEBUG Page.Nyl_ProductPage - Selects Answer as No for Applying any Other Insurance
+19:00:50.018 [main] INFO  Page.Nyl_ProductPage -  No Options for Applying any Other Insurance is selected Sucessfully|| Pass
+19:00:50.020 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:00:56.085 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:00:56.090 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+19:00:56.183 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+19:00:56.186 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+19:00:59.273 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+19:00:59.277 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+19:01:00.912 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+19:01:00.916 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:01:07.000 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:01:07.004 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Self for DII Products
+19:01:07.072 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Self of DII Products are validated sucessfully || Pass
+19:01:07.075 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+19:01:08.187 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+19:01:08.189 [main] DEBUG Page.Nyl_EligibilityPage - Enter DOB after error message for Self
+19:01:09.634 [main] INFO  Page.Nyl_EligibilityPage - Enter DOB after error message for Self successfully || Pass
+19:01:09.637 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+19:01:09.721 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+19:01:09.723 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+19:01:09.822 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+19:01:09.825 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as NO
+19:01:09.917 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as NO|| Pass
+19:01:09.920 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:01:16.005 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:01:16.009 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:01:17.152 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:01:17.154 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+19:02:02.557 [main] ERROR Page.Nyl_ProductPage - Not able to validate Products for Disability Income Insurance|| Fail
+19:02:02.561 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+19:02:05.652 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+19:02:05.656 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+19:02:05.762 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+19:02:05.764 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:02:11.848 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:02:11.852 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+19:02:12.994 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+19:02:12.998 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+19:02:13.017 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+19:02:13.017 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+19:02:13.044 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+19:02:13.044 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+19:02:13.075 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed
+19:02:13.075 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Disability Income Insurance is displayed
+19:02:13.104 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product is displayed
+19:02:13.106 [main] DEBUG Page.Nyl_ProductPage - Verify that DII is already selected for Self
+19:02:13.130 [main] INFO  Page.Nyl_ProductPage - DII self product is selected
+19:02:13.133 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:02:19.208 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:02:19.212 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Unable to work because of Disability as Yes 
+19:02:19.331 [main] INFO  Page.Nyl_ProductPage -  work because of Disability Question answered as YES for Self successfully || Pass
+19:02:19.334 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+19:02:20.954 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+19:02:20.958 [main] DEBUG Page.Nyl_ProductPage - Click on Add Company Button
+19:02:21.081 [main] INFO  Page.Nyl_ProductPage - Add Company Button is clicked successfully || Pass
+19:02:21.084 [main] DEBUG Page.Nyl_ProductPage - Enter Company Details
+19:02:23.492 [main] INFO  Page.Nyl_ProductPage - Company details are entered successfully || Pass
+19:02:23.496 [main] DEBUG Page.Nyl_ProductPage - Answer the Replacement Coverage Disability as Yes 
+19:02:24.611 [main] INFO  Page.Nyl_ProductPage -  Replacement Coverage Disability Question answered as YES for Self successfully || Pass

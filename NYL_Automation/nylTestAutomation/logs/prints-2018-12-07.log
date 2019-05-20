@@ -1,0 +1,555 @@
+12:12:46.780 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+12:12:46.793 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+12:12:48.905 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+12:12:48.907 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+12:12:56.280 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+12:12:56.282 [main] DEBUG Page.Nyl_ContactPage - Select No Radio Button for Tobacco Question for Self
+12:12:57.365 [main] INFO  Page.Nyl_ContactPage - No Radio Button for Tobacco Question Self is selected Sucessfully|| Pass
+12:12:57.368 [main] DEBUG Page.Nyl_ContactPage - Select No Radio Button for Addition Question
+12:13:42.902 [main] INFO  Page.Nyl_ContactPage - No Radio Button for additional Question is selected Sucessfully|| Pass
+12:13:42.904 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+12:13:42.974 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+12:13:42.977 [main] DEBUG Page.Nyl_ContactPage - Select Business Address Radio Button
+12:13:43.065 [main] INFO  Page.Nyl_ContactPage -  Business Address  Radio Button is selected Sucessfully|| Pass
+12:13:43.067 [main] DEBUG Page.Nyl_ContactPage - Enter Business Address Details
+12:13:44.307 [main] INFO  Page.Nyl_ContactPage -  Business Address details are entered Sucessfully|| Pass
+12:13:44.310 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:13:50.431 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:13:50.435 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+12:13:50.478 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+12:13:50.480 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:13:56.549 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:13:56.553 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:14:03.654 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:14:03.658 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+12:14:04.724 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+12:14:04.727 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+12:14:05.845 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+12:14:05.849 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+12:14:07.435 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+12:14:07.439 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+12:14:08.566 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+12:14:08.569 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:14:09.662 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:14:09.664 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:14:11.259 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:14:11.261 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:17.340 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:17.344 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:23.436 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:23.440 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:29.536 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:29.539 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:35.642 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:35.646 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:41.731 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:41.735 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:47.844 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:47.848 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:14:53.937 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:14:53.941 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:15:01.029 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:15:01.033 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CA in Read and Sign Box
+12:15:02.624 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CA in Read and Sign Box successfully || Pass
+12:15:02.627 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:15:03.732 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:15:03.734 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:15:05.308 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:15:05.310 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:11.374 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:11.377 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:17.461 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:17.466 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:23.554 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:23.557 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:29.635 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:29.638 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:35.725 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:35.728 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:41.826 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:41.829 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:15:47.916 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:15:47.919 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:15:55.039 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:15:55.042 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice AL in Read and Sign Box
+12:15:56.626 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice AL in Read and Sign Box successfully || Pass
+12:15:56.628 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:15:57.709 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:15:57.711 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:15:59.313 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:15:59.315 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:05.389 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:05.392 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:11.474 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:11.478 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:17.564 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:17.567 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:23.658 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:23.661 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:29.738 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:29.742 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:35.821 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:35.825 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:41.894 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:41.897 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:16:49.009 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:16:49.013 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice AR in Read and Sign Box
+12:16:50.620 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice AR in Read and Sign Box successfully || Pass
+12:16:50.622 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:16:51.729 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:16:51.732 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:16:53.896 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:16:53.898 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:16:59.975 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:16:59.979 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:06.065 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:06.068 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:12.155 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:12.158 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:18.250 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:18.253 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:24.334 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:24.338 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:30.429 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:30.432 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:36.498 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:36.501 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:17:43.605 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:17:43.609 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice LA in Read and Sign Box
+12:17:45.198 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice LA in Read and Sign Box successfully || Pass
+12:17:45.200 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:17:46.284 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:17:46.286 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:17:48.734 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:17:48.737 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:17:54.826 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:17:54.828 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:00.909 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:00.912 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:06.991 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:06.995 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:13.090 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:13.093 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:19.161 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:19.164 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:25.269 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:25.273 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:31.359 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:31.363 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:18:38.470 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:18:38.474 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice PA in Read and Sign Box
+12:18:40.064 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice PA in Read and Sign Box successfully || Pass
+12:18:40.067 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:18:41.172 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:18:41.174 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:18:43.844 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:18:43.846 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:49.926 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:49.929 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:18:56.024 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:18:56.027 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:02.251 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:02.254 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:08.350 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:08.353 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:14.440 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:14.443 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:20.552 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:20.555 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:26.639 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:26.642 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:19:33.751 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:19:33.757 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice RI in Read and Sign Box
+12:19:35.346 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice RI in Read and Sign Box successfully || Pass
+12:19:35.348 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:19:36.437 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:19:36.439 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:19:38.703 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:19:38.705 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:44.783 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:44.786 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:50.863 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:50.865 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:19:56.933 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:19:56.936 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:03.040 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:03.043 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:09.129 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:09.132 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:15.297 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:15.300 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:21.392 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:21.395 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:20:28.506 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:20:28.509 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice MD in Read and Sign Box
+12:20:30.090 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice MD in Read and Sign Box successfully || Pass
+12:20:30.092 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:20:31.203 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:20:31.205 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:20:33.129 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:20:33.131 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:39.203 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:39.206 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:45.306 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:45.309 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:51.400 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:51.403 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:20:57.497 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:20:57.500 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:03.582 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:03.585 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:09.676 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:09.679 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:15.760 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:15.763 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:21:22.853 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:21:22.856 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice DC in Read and Sign Box
+12:21:24.459 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice DC in Read and Sign Box successfully || Pass
+12:21:24.461 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:21:25.567 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:21:25.569 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:21:27.479 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:21:27.480 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:33.544 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:33.547 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:39.636 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:39.639 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:45.732 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:45.735 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:51.827 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:51.830 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:21:57.914 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:21:57.917 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:04.025 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:04.028 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:10.114 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:10.117 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:16.221 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:16.224 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:22:23.330 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:22:23.331 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice FL in Read and Sign Box
+12:22:24.904 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice FL in Read and Sign Box successfully || Pass
+12:22:24.906 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:22:25.993 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:22:25.994 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:22:28.194 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:22:28.196 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:34.280 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:34.282 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:40.368 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:40.371 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:46.454 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:46.456 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:52.546 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:52.549 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:22:58.631 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:22:58.634 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:04.749 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:04.752 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:10.840 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:10.843 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:23:17.940 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:23:17.943 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice KS in Read and Sign Box
+12:23:19.531 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice KS in Read and Sign Box successfully || Pass
+12:23:19.533 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:23:20.613 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:23:20.615 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:23:22.848 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:23:22.851 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:28.931 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:28.934 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:35.022 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:35.025 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:41.126 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:41.129 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:47.218 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:47.221 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:53.298 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:53.301 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:23:59.384 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:23:59.387 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:05.472 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:05.475 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:24:12.597 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:24:12.600 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice ME in Read and Sign Box
+12:24:14.194 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice ME in Read and Sign Box successfully || Pass
+12:24:14.196 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:24:15.279 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:24:15.280 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:24:18.101 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:24:18.103 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:24.163 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:24.164 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:30.216 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:30.217 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:36.279 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:36.280 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:42.337 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:42.338 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:48.408 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:48.411 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:24:54.507 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:24:54.510 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:00.593 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:00.596 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:25:07.689 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:25:07.692 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice NJ in Read and Sign Box
+12:25:09.317 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice NJ in Read and Sign Box successfully || Pass
+12:25:09.319 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:25:10.423 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:25:10.425 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:25:13.140 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:25:13.142 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:19.227 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:19.230 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:25.315 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:25.318 [main] DEBUG Page.Nyl_ProductPage - Select the checkbox of Imp Replacement Info
+12:25:25.386 [main] INFO  Page.Nyl_ProductPage - Checkbox is not selected
+12:25:25.462 [main] INFO  Page.Nyl_ProductPage - Checkbox of Imp Replacement Info is selected Successfully|| Pass
+12:25:25.464 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:31.531 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:31.534 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:37.632 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:37.635 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:43.719 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:43.722 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:49.831 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:49.834 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:25:55.914 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:25:55.917 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:26:03.027 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:26:03.030 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice NY in Read and Sign Box
+12:26:04.652 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice NY in Read and Sign Box successfully || Pass
+12:26:04.655 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:26:05.771 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:26:05.773 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:26:08.639 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:26:08.641 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:14.721 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:14.724 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:20.810 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:20.813 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:26.918 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:26.921 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:33.020 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:33.023 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:39.108 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:39.111 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:45.222 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:45.225 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:26:51.314 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:26:51.317 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:26:58.421 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:26:58.424 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice OK in Read and Sign Box
+12:27:00.032 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice OK in Read and Sign Box successfully || Pass
+12:27:00.034 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:27:01.113 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:27:01.115 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:27:04.585 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:27:04.587 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:10.658 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:10.661 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:16.756 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:16.759 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:22.847 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:22.850 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:28.946 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:28.949 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:35.030 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:35.033 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:41.125 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:41.128 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:27:47.200 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:27:47.203 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:27:54.317 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:27:54.320 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice PR in Read and Sign Box
+12:27:55.939 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice PR in Read and Sign Box successfully || Pass
+12:27:55.941 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:27:57.035 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:27:57.037 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:28:00.063 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:28:00.064 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:06.126 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:06.129 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:12.214 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:12.217 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:18.312 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:18.315 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:24.413 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:24.416 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:30.498 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:30.501 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:36.612 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:36.615 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:28:42.799 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:28:42.801 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:28:49.886 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:28:49.889 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice TN in Read and Sign Box
+12:28:51.504 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice TN in Read and Sign Box successfully || Pass
+12:28:51.506 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:28:52.582 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:28:52.584 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:28:55.729 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:28:55.731 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:01.816 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:01.819 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:07.913 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:07.916 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:13.999 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:14.002 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:20.096 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:20.099 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:26.182 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:26.185 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:32.279 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:32.282 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:38.367 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:38.370 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:29:45.521 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:29:45.524 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice WA in Read and Sign Box
+12:29:47.131 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice WA in Read and Sign Box successfully || Pass
+12:29:47.133 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:29:48.212 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:29:48.214 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:29:51.312 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:29:51.314 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:29:57.405 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:29:57.412 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:03.506 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:03.509 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:09.591 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:09.594 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:15.685 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:15.688 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:21.773 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:21.776 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:27.884 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:27.887 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:33.960 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:33.963 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:30:41.071 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:30:41.074 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice VA in Read and Sign Box
+12:30:42.695 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice VA in Read and Sign Box successfully || Pass
+12:30:42.697 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:30:43.801 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:30:43.803 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:30:47.230 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:30:47.232 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:53.314 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:53.317 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:30:59.406 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:30:59.409 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:31:05.502 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:31:05.505 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:31:11.608 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:31:11.611 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:31:17.697 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:31:17.700 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:31:23.808 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:31:23.811 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:31:29.904 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:31:29.907 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:31:42.334 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:31:42.337 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice WM in Read and Sign Box
+12:31:43.945 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice WM in Read and Sign Box successfully || Pass
+12:31:43.947 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+12:31:50.061 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+12:31:50.063 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+12:31:53.701 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+12:31:53.703 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:31:59.772 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:31:59.775 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:32:05.845 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:32:05.847 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:32:11.907 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:32:11.910 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:32:17.991 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:32:17.994 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:32:24.057 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:32:24.060 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:32:30.153 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:32:30.156 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:32:36.226 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:32:36.229 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+12:32:48.369 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+12:32:48.372 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice New Mexico in Read and Sign Box
+12:32:49.995 [main] INFO  StepDef.ServiceHooks - <ASCESC13> Validation Read & Sign Page with 20 different States one by one in loop is Failed
+12:36:45.855 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+12:36:45.858 [main] DEBUG Selenium.SetUp - Navigating to URL
+12:37:06.533 [main] INFO  Selenium.SetUp - Navigate URL successfully
+12:37:36.533 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+12:37:36.540 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+12:37:36.635 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+12:37:36.638 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+12:37:38.767 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+12:37:38.771 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+12:37:41.082 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+12:37:41.084 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+12:37:41.173 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+12:37:41.175 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:37:47.276 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:37:47.278 [main] DEBUG Page.Nyl_ProductPage - Select Self for Term Life Insurance Product
+12:37:49.917 [main] INFO  Page.Nyl_ProductPage - Term Life Insurance Product for Self is selected sucessfully|| Pass
+12:37:49.920 [main] DEBUG Page.Nyl_ProductPage - Select Self for Ten Year Life term Insurance Product
+12:37:53.082 [main] INFO  Page.Nyl_ProductPage - Ten Year Life term Insurance Product for self is selected sucessfully|| Pass
+12:37:53.084 [main] DEBUG Page.Nyl_ProductPage - Select Self for Twenty Year Life term Insurance Product
+12:37:56.222 [main] INFO  Page.Nyl_ProductPage - Twenty Year Life term Insurance Product for self is selected sucessfully|| Pass
+12:37:56.224 [main] DEBUG Page.Nyl_ProductPage - Select Self for Accidental Death Product
+12:37:58.355 [main] INFO  Page.Nyl_ProductPage - Accidental Death product for self is selected sucessfully|| Pass
+12:37:58.357 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+12:38:00.987 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+12:38:00.990 [main] DEBUG Page.Nyl_ProductPage - Select Self for Hospital Idemnity Insurance Product
+12:38:03.654 [main] INFO  Page.Nyl_ProductPage - Hospital Idemnity Insurance Product for Self is selected sucessfully|| Pass
+12:38:03.657 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:38:09.745 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:38:09.748 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+12:38:09.933 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+12:38:09.935 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+12:38:11.065 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+12:38:11.067 [main] DEBUG Page.Nyl_ProductPage - Select No Options for additional Questions Group Disability Insurance for Self
+12:38:11.240 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance for Self is selected Sucessfully|| Pass
+12:38:11.242 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:38:17.309 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:38:17.313 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Term Life Insurance Products
+12:38:17.365 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+12:38:18.439 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=20000
+Benefit Amount is 300000
+12:38:19.688 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+12:38:19.688 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Term Life Insurance Product sucessfully || Pass
+12:38:19.690 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Ten Years Products
+12:38:21.779 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+12:38:22.856 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 760000
+12:38:25.393 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+12:38:25.393 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Ten Years Product sucessfully || Pass
+12:38:25.395 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Twenty Years Products
+12:38:27.484 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+12:38:28.574 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 710000
+12:38:30.859 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+12:38:30.859 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Twenty Years Product sucessfully || Pass
+12:38:30.861 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Accidental Death Products
+12:38:30.944 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+12:38:32.005 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=50000
+Benefit Amount is 150000
+12:38:32.090 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+12:38:32.090 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Accidental Death Product sucessfully || Pass
+12:38:32.092 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Term Life Insurance Products
+12:38:32.179 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+12:38:33.242 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=150
+Benefit Amount is 1200
+12:38:33.517 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+12:38:33.517 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Term Life Insurance Product sucessfully || Pass
+12:38:33.519 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+12:38:36.669 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+12:38:36.673 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+12:38:38.802 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+12:38:38.805 [main] DEBUG Page.Nyl_CoveragePage - Select Maximum Benefit amount for self Hospital Money Insurance Products
+12:38:42.099 [main] INFO  Page.Nyl_CoveragePage -  Maximum Benefit amount for self Hospital Money Insurance Products is selected sucessfully || Pass
+12:38:42.102 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+12:38:48.208 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+12:38:48.211 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+12:38:49.387 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+12:38:49.390 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self under Term Life
+12:38:51.579 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Self under Term Life is clicked successfully || Pass
+12:38:51.581 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button

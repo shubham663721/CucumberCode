@@ -1,0 +1,223 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 33,
+        "name": "Complete workflow of application",
+        "description": "",
+        "id": "acs-test;complete-workflow-of-application;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3840048635,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Test set up  for \"NYL\" feature and \"NYL_ABE\" scenario",
+            "match": {
+              "arguments": [
+                {
+                  "val": "NYL",
+                  "offset": 18
+                },
+                {
+                  "val": "NYL_ABE",
+                  "offset": 36
+                }
+              ],
+              "location": "CommonPageStepDef.test_set_up_for_feature_and_scenario(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 44330762182,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "customer navigate to NYL \"acs\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "acs",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.customer_navigate_to_NYL(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 89670419,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Clicks on Apply now button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Apply_now_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4380179600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Eligibility page details are displayed to user and validate details and enters Eligibility details as \"Mrs.\", \"Velma\", \"Peter\" , \"South Carolina\", \"07 17 1992\", \"45\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mrs.",
+                  "offset": 103
+                },
+                {
+                  "val": "Velma",
+                  "offset": 111
+                },
+                {
+                  "val": "Peter",
+                  "offset": 120
+                },
+                {
+                  "val": "South Carolina",
+                  "offset": 130
+                },
+                {
+                  "val": "07 17 1992",
+                  "offset": 148
+                },
+                {
+                  "val": "45",
+                  "offset": 162
+                }
+              ],
+              "location": "NYL_StepDef.eligibility_page_details_are_displayed_to_user_and_validate_details_and_enters_Eligibility_details_as(String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4114331661,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 98377481,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 11,
+                "value": "#Then  Product page details are displayed to user and selects the product"
+              },
+              {
+                "line": 12,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 13,
+                "value": "#Then  Product additional page details are displayed to user and answer the questions"
+              },
+              {
+                "line": 14,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 15,
+                "value": "#Then  Coverage page is displayed to user and select Benefit Amount on coverage page"
+              },
+              {
+                "line": 16,
+                "value": "#And   Select Type of coverage"
+              },
+              {
+                "line": 17,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 18,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 19,
+                "value": "#Then  Enters Contact details of ACS Site as \"\u003cSocialSecurityNo\u003e\", \"\u003cMaritalStatus\u003e\", \"\u003cHeight\u003e\" , \"\u003cWeight\u003e\", \"\u003cMemberId\u003e\", \"\u003cPaymentFrequency\u003e\",\"\u003cAddress\u003e\" , \"\u003cCity\u003e\", \"\u003cZip\u003e\", \"\u003cPrimaryPhType\u003e\", \"\u003cPrimaryPhNo\u003e\""
+              },
+              {
+                "line": 20,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 21,
+                "value": "#Then  User scroll to next in preview page"
+              },
+              {
+                "line": 22,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 23,
+                "value": "#Then  Authorize page details are displayed to user and confirm the term and conditions"
+              },
+              {
+                "line": 24,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 25,
+                "value": "#Then  Review and sign page details are displayed to user and Click on continue and attached the sign"
+              },
+              {
+                "line": 26,
+                "value": "#And   Clicks on next button to finish"
+              },
+              {
+                "line": 27,
+                "value": "#And   User get the receipt number and vlaidate Application has  been recieved"
+              }
+            ],
+            "line": 28,
+            "name": "Close the Browser",
+            "match": {
+              "location": "NYL_StepDef.close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Tag15"
+          }
+        ]
+      }
+    ],
+    "name": "Acs Test",
+    "description": "",
+    "id": "acs-test",
+    "keyword": "Feature",
+    "uri": "D:/MavenProject/nylTestAutomation/src/main/resources/Feature/acs_NYL.feature"
+  }
+]

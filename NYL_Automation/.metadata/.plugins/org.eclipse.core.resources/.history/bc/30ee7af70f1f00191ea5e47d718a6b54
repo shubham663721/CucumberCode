@@ -1,0 +1,141 @@
+package Runner;
+
+import java.io.IOException;
+
+import org.junit.runner.RunWith;
+import org.openqa.selenium.WebDriver;
+
+import com.github.mkolisnyk.cucumber.runner.ExtendedCucumber;
+
+import Utility.ExcelUtility;
+import Utility.RESTExecutor;
+import cucumber.api.CucumberOptions;
+
+	//@RunWith(Cucumber.class)
+    @RunWith(ExtendedCucumber.class)
+
+// @ExtendedCucumberOptions(retryCount = 3)
+
+	
+	@CucumberOptions(
+
+		// features = "src/main/resources/Feature/abeRate_NYL.feature",
+		// features = "src/main/resources/Feature/asceRate_NYL.feature",
+		// features = "src/main/resources/Feature/abe_NYL.feature",
+		// features = "src/main/resources/Feature/asce_NYL.feature",
+		// features = "src/main/resources/Feature/acog_NYL.feature",
+		// features = "src/main/resources/Feature/ibm_NYL.feature",
+		// features = "src/main/resources/Feature/aoa_NYL.feature",
+		features = "src/main/resources/Feature/crbg_NYL.feature",
+
+
+		    glue = { "StepDef" },//the path of the step definition files
+		    //format= {"pretty","html:test-outout", "json:json_output/cucumber.json", "junit:junit_xml/cucumber.xml"},
+		    //format= {"pretty","html:target/cucumber-html-report", "json:target/cucumber.json", "junit:junit_xml/cucumber.xml"},
+		    monochrome = true,//display the console output in a proper readable format
+		    strict = true, //it will check if any step is not defined in step definition file	
+		    
+		  // plugin = {"com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"},
+		   plugin = {"pretty","html:target/cucumber-html-report","json:target/cucumber-parallel/json/1.json"},
+
+		dryRun = false, // to check the mapping is proper between feature file and step def file
+		// tags = { "@AbeRate_01" }
+		// tags = { "@AsceRate_01" }
+		// tags = { "@AbeRegression_1" }
+		// tags = { "@AsceRegression_14" }
+		// tags = { "@AcogRegression_3" }
+		// tags = { "@IbmRegression_5" }
+		// tags = { "@AoaRegression_3" }
+		tags = { "@CrbgRegression_6" }
+
+
+		    	
+		    					 
+
+			//@AbeRegression_1_6,@AbeRegression_8,@AbeRegression_1_9,@AbeRegression_1_10,@AbeRegression_1_11,@AbeRegression_13,@AbeRegression_15,@AbeRegression_16,@AbeRegression_17,@AbeRegression_18,@AbeRegression_19,@AbeRegression_20,@AbeRegression_21,@AbeRegression_22,@AbeRegression_23,@AbeRegression_24"}
+
+			//mvn -Dcucumber.options="--tags @AptaRegression_1" clean install
+		    //mvn clean test -Dtest=TestRunner
+		    //mvn -Dtest=TestRunner -Dcucumber.options="--tags @AptaRegression_3" clean install
+		   // mvn clean install -Dtest=TestRunner -Dcucumber.options="--tags @AptaRegression_3"
+
+
+		)
+	
+	
+	
+	
+	
+	public class TestRunner {
+		public WebDriver driver;
+
+	static ExcelUtility util = new ExcelUtility();
+
+		 static RESTExecutor restExe= new RESTExecutor(); 
+		/*@AfterClass
+		public static void writeExtentReport() throws InvalidPropertiesFormatException, IOException {
+			
+			Reporter.loadXMLConfig(new File(System.getProperty("user.dir")+"\\src\\main\\resources\\extent-config.xml"));
+			//Reporter.loadXMLConfig(new File(FileReaderManager.getInstance().getConfigReader().getReportConfigPath()));
+			Reporter.setSystemInfo("User Name", System.getProperty("user.name"));
+		    Reporter.setSystemInfo("Time Zone", System.getProperty("user.timezone"));
+		    Reporter.setSystemInfo("Machine", 	"Windows 10" + "64 Bit");
+		    Reporter.setSystemInfo("Selenium", "3.7.0");
+		    Reporter.setSystemInfo("Maven", "3.5.2");
+		    Reporter.setSystemInfo("Java Version", "1.8.0_151");
+	
+			}*/
+		
+		/*public static void main(String[] args) throws Exception, IOException {
+
+			  try {
+				  
+				  //String filePath = TestRunner.getReportConfigPath();
+				 ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();
+				 String featurePath=System.getProperty("user.dir") + "\\src\\main\\resources\\Feature\\abe_NYL.feature";
+				 //String [] argv = new String[]{ "-g","StepDef",featurePath,"--plugin","html:C:\\ITAF_Repository\\cucumber-html-report"};
+				  String [] argv = new String[]{ "-g","StepDef",featurePath,"--plugin","com.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/report.html"};
+				  byte exitstatus = Main.run(argv, contextClassLoader);
+				  writeExtentReport();
+				//setScenarioIndex(1);
+				//setScenarioName("Scenario 1");
+				//SetTestDataCollection();
+			} catch (Throwable e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			// System.out.println(GetDataFromExcel("FeatureName", 0));
+			// System.out.println(GetDataFromExcel("FeatureName", 1));
+			// System.out.println(GetDataFromExcel("FeatureName", 2));
+		}*/
+		
+
+		//@BeforeSuite
+
+		public static void clearExcel() throws IOException  {
+			
+			System.out.println("This is me");
+
+		util.deleteExcelData();
+
+			
+		}
+	
+
+		//@AfterSuite
+		public static void pdfAndxmlCom() throws InterruptedException {
+
+			System.out.println("This is End");
+			System.out.println("***********************************");
+			restExe.xmlAndpdfComparison();
+			System.out.println("***********************************");
+		}
+	
+	}
+	 
+	
+	
+	//ORed : tags = {"@SmokeTest , @RegressionTest"} -- execute all tests tagged as @SmokeTest OR @RegressionTest
+	//ANDed : tags = tags = {"@SmokeTest" , "@RegressionTest"} -- execute all tests tagged as @SmokeTest AND @RegressionTest
+	
+

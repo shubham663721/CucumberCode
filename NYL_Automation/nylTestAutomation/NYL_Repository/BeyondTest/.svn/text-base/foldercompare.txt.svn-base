@@ -1,0 +1,5 @@
+criteria rules-based
+load "D:\MavenProject\nylTestAutomation\NYL_Repository\BeyondTest\Actual" "D:\MavenProject\nylTestAutomation\NYL_Repository\BeyondTest\Expected"
+expand all
+folder-report layout:side-by-side options:include-file-links title:NYL_File_Comparison output-to:"D:\MavenProject\nylTestAutomation\NYL_Repository\BeyondTest\Output\NYLFolderCompareReport.html" output-options:html-color
+beep

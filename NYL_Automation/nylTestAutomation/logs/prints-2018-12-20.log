@@ -1,0 +1,514 @@
+14:11:34.700 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:11:34.700 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+14:11:35.922 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+14:11:35.922 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Group Term Life
+14:11:38.081 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Group Term Life is clicked successfully || Pass
+14:11:38.083 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+14:11:39.469 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+14:11:39.472 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+14:11:40.833 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+14:11:40.836 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+14:11:44.905 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+14:11:44.905 [main] DEBUG Page.Nyl_BeneficiaryPage - Click On Skip Beneficiary Link
+14:11:48.098 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+14:11:48.098 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+14:11:50.234 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+14:11:50.238 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+14:11:54.987 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+14:11:54.989 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+14:11:57.377 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+14:11:57.377 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+14:11:59.565 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+14:11:59.568 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+14:12:50.440 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+14:12:50.442 [main] DEBUG Page.Nyl_ContactPage - Answer all other questions of Spouse as No for Nicotin and Outside US Twelve
+14:12:50.602 [main] INFO  Page.Nyl_ContactPage - Additional Questions as NO for Spouse for Nicotin and Outside US 12 are selected successfully || Pass
+14:12:50.604 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:12:56.724 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:12:56.724 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+14:12:56.770 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+14:12:56.770 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:02.877 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:02.877 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+14:13:03.971 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+14:13:03.971 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+14:13:05.103 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+14:13:05.103 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+14:13:06.710 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+14:13:06.719 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+14:13:07.863 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+14:13:07.863 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+14:13:09.010 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+14:13:09.013 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+14:13:11.792 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+14:13:11.794 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:17.887 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:17.887 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:23.990 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:23.992 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:30.047 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:30.047 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:36.159 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:36.159 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:42.248 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:42.248 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:48.340 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:48.340 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:13:54.449 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:13:54.449 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice WM in Read and Sign Box
+14:15:25.706 [main] ERROR Page.Nyl_AuthorizePage - Not able to validate Fraud Notice WM in Read and Sign Box || FailTimed out after 10 seconds. Unable to locate the element
+14:15:25.800 [main] INFO  StepDef.ServiceHooks - <ACOG_SC03> Validation Read & Sign Page with 20 different States one by one in loop  (spouse only where self as Resident) is Failed
+14:17:21.599 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+14:17:21.602 [main] DEBUG Selenium.SetUp - Navigating to URL
+14:17:37.436 [main] INFO  Selenium.SetUp - Navigate URL successfully
+14:18:07.437 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+14:18:07.444 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+14:18:07.562 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+14:18:07.566 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+14:18:09.733 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+14:18:09.736 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+14:18:11.442 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+14:18:11.446 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+14:18:11.559 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+14:18:11.562 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+14:18:11.655 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+14:18:11.657 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+14:18:11.750 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+14:18:11.752 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+14:18:11.845 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+14:18:11.848 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Contacts details
+14:18:12.737 [main] INFO  Page.Nyl_EligibilityPage - Spouse Contacts details are entered sucessfully
+14:18:12.740 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio Button For Spouse is Member
+14:18:16.813 [main] INFO  Page.Nyl_EligibilityPage -  Select NO Radio Button For Spouse is Member successfully || Pass
+14:18:16.817 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:18:22.927 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:18:22.931 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+14:18:24.071 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+14:18:24.074 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+14:18:24.094 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+14:18:24.094 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+14:18:24.123 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+14:18:24.126 [main] DEBUG Page.Nyl_ProductPage - Select the Spouse product
+14:18:24.219 [main] INFO  Page.Nyl_ProductPage - Group Term Life Insurance Product selected successfully || Pass
+14:18:24.221 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:18:30.295 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:18:30.299 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+14:18:31.544 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+14:18:31.547 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:18:37.616 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:18:37.620 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+14:18:37.665 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+14:18:37.668 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Five Years Products
+14:18:37.697 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+14:18:38.751 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 2000000
+14:18:45.721 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+14:18:45.721 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Five Years Product sucessfully || Pass
+14:18:45.723 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:18:51.785 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:18:51.789 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+14:18:52.958 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+14:18:52.960 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Group Term Life
+14:18:55.125 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Group Term Life is clicked successfully || Pass
+14:18:55.127 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+14:18:56.522 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+14:18:56.525 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+14:18:57.883 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+14:18:57.886 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+14:19:01.949 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+14:19:01.952 [main] DEBUG Page.Nyl_BeneficiaryPage - Click On Skip Beneficiary Link
+14:19:05.099 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+14:19:05.102 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+14:19:07.210 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+14:19:07.214 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+14:19:12.309 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+14:19:12.311 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+14:19:14.634 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+14:19:14.638 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+14:19:16.783 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+14:19:16.785 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+14:20:07.496 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+14:20:07.498 [main] DEBUG Page.Nyl_ContactPage - Answer all other questions of Spouse as No for Nicotin and Outside US Twelve
+14:20:07.664 [main] INFO  Page.Nyl_ContactPage - Additional Questions as NO for Spouse for Nicotin and Outside US 12 are selected successfully || Pass
+14:20:07.666 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:13.772 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:13.776 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+14:20:13.816 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+14:20:13.819 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:19.883 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:19.886 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+14:20:20.952 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+14:20:20.954 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+14:20:22.070 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+14:20:22.073 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+14:20:23.649 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+14:20:23.651 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+14:20:24.753 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+14:20:24.756 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+14:20:25.877 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+14:20:25.880 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+14:20:28.760 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+14:20:28.762 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:34.846 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:34.848 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:40.919 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:40.922 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:46.993 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:46.996 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:53.076 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:53.079 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:20:59.160 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:20:59.163 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:21:05.263 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:21:05.266 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+14:21:11.357 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+14:21:11.360 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice WM in Read and Sign Box
+14:21:12.955 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice WM in Read and Sign Box successfully || Pass
+14:21:12.959 [main] DEBUG Page.Nyl_FinalPage - Click on application and validate the PDF
+14:21:38.290 [main] ERROR Page.Nyl_FinalPage - Not able to validate PDF || FailC:\Users\Mayuri663401\Downloads\params.pdf
+14:21:38.386 [main] INFO  StepDef.ServiceHooks - <ACOG_SC03> Validation Read & Sign Page with 20 different States one by one in loop  (spouse only where self as Resident) is Failed
+15:33:19.910 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+15:33:19.910 [main] DEBUG Selenium.SetUp - Navigating to URL
+15:33:35.289 [main] INFO  Selenium.SetUp - Navigate URL successfully
+15:34:05.309 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+15:34:05.316 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+15:34:05.449 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+15:34:05.452 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+15:34:07.164 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+15:34:07.168 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+15:34:08.967 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+15:34:08.967 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+15:34:09.099 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+15:34:09.101 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+15:34:09.193 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+15:34:09.195 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+15:34:09.290 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+15:34:09.292 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+15:34:09.390 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+15:34:09.393 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Contacts details
+15:34:10.298 [main] INFO  Page.Nyl_EligibilityPage - Spouse Contacts details are entered sucessfully
+15:34:10.301 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio Button For Spouse is Member
+15:34:14.390 [main] INFO  Page.Nyl_EligibilityPage -  Select NO Radio Button For Spouse is Member successfully || Pass
+15:34:14.390 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:20.576 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:20.576 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:34:21.757 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:34:21.757 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+15:34:21.788 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+15:34:21.788 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+15:34:21.811 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+15:34:21.811 [main] DEBUG Page.Nyl_ProductPage - Select the Spouse product
+15:34:21.916 [main] INFO  Page.Nyl_ProductPage - Group Term Life Insurance Product selected successfully || Pass
+15:34:21.919 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:28.027 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:28.027 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+15:34:29.326 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+15:34:29.329 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:35.424 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:35.424 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+15:34:35.471 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+15:34:35.486 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Five Years Products
+15:34:35.518 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+15:34:36.604 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 2000000
+15:34:44.552 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+15:34:44.552 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Five Years Product sucessfully || Pass
+15:34:44.554 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:34:50.655 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:34:50.655 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+15:34:51.880 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+15:34:51.880 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Group Term Life
+15:34:54.065 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Group Term Life is clicked successfully || Pass
+15:34:54.068 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+15:34:55.430 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+15:34:55.432 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+15:34:56.829 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+15:34:56.831 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+15:35:00.897 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+15:35:00.897 [main] DEBUG Page.Nyl_BeneficiaryPage - Click On Skip Beneficiary Link
+15:35:04.040 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+15:35:04.040 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+15:35:06.185 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+15:35:06.185 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+15:35:11.602 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+15:35:11.604 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+15:35:14.017 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+15:35:14.021 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+15:35:16.204 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+15:35:16.206 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+15:36:07.133 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+15:36:07.135 [main] DEBUG Page.Nyl_ContactPage - Answer all other questions of Spouse as No for Nicotin and Outside US Twelve
+15:36:07.294 [main] INFO  Page.Nyl_ContactPage - Additional Questions as NO for Spouse for Nicotin and Outside US 12 are selected successfully || Pass
+15:36:07.296 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:13.400 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:13.400 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+15:36:13.447 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+15:36:13.447 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:19.560 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:19.560 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+15:36:20.639 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+15:36:20.654 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+15:36:21.787 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+15:36:21.787 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+15:36:23.410 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+15:36:23.411 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+15:36:24.582 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+15:36:24.582 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:36:25.730 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:36:25.733 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+15:36:28.428 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+15:36:28.431 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:34.553 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:34.553 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:40.665 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:40.665 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:46.762 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:46.762 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:52.855 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:52.855 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:36:58.940 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:36:58.940 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:37:05.077 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:37:05.077 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:37:11.164 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:37:11.164 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice WM in Read and Sign Box
+15:37:12.762 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice WM in Read and Sign Box successfully || Pass
+15:37:12.765 [main] DEBUG Page.Nyl_FinalPage - Click on application and validate the PDF
+15:37:35.336 [main] ERROR Page.Nyl_FinalPage - Not able to validate PDF || FailC:\Users\Mayuri663401\Downloads\Important Notice All except NM 2 08.12.pdf
+15:37:35.427 [main] INFO  StepDef.ServiceHooks - <ACOG_SC03> Validation Read & Sign Page with 20 different States one by one in loop  (spouse only where self as Resident) is Failed
+15:43:10.510 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+15:43:10.513 [main] DEBUG Selenium.SetUp - Navigating to URL
+15:43:25.773 [main] INFO  Selenium.SetUp - Navigate URL successfully
+15:43:55.786 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+15:43:55.791 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+15:43:55.897 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+15:43:55.900 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+15:43:57.649 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+15:43:57.652 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+15:43:59.377 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+15:43:59.381 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+15:43:59.494 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+15:43:59.496 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as Yes
+15:43:59.588 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as Yes|| Pass
+15:43:59.591 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+15:43:59.669 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+15:43:59.671 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+15:43:59.762 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+15:43:59.765 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Contacts details
+15:44:00.643 [main] INFO  Page.Nyl_EligibilityPage - Spouse Contacts details are entered sucessfully
+15:44:00.645 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio Button For Spouse is Member
+15:44:04.728 [main] INFO  Page.Nyl_EligibilityPage -  Select NO Radio Button For Spouse is Member successfully || Pass
+15:44:04.732 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:44:10.855 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:44:10.860 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+15:44:12.009 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+15:44:12.011 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance
+15:44:12.031 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+15:44:12.032 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+15:44:12.064 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+15:44:12.067 [main] DEBUG Page.Nyl_ProductPage - Select the Spouse product
+15:44:12.161 [main] INFO  Page.Nyl_ProductPage - Group Term Life Insurance Product selected successfully || Pass
+15:44:12.164 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:44:18.234 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:44:18.238 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+15:44:19.468 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+15:44:19.471 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:44:25.552 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:44:25.556 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+15:44:25.615 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+15:44:25.619 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Five Years Products
+15:44:25.675 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+15:44:26.760 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 2000000
+15:44:33.879 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+15:44:33.879 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Five Years Product sucessfully || Pass
+15:44:33.881 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:44:39.953 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:44:39.957 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+15:44:41.136 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+15:44:41.138 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Group Term Life
+15:44:43.308 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Group Term Life is clicked successfully || Pass
+15:44:43.310 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+15:44:44.704 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+15:44:44.706 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+15:44:46.058 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+15:44:46.061 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+15:44:50.129 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+15:44:50.133 [main] DEBUG Page.Nyl_BeneficiaryPage - Click On Skip Beneficiary Link
+15:44:53.290 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+15:44:53.294 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+15:44:55.422 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+15:44:55.426 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+15:45:00.669 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+15:45:00.672 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+15:45:03.022 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+15:45:03.026 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+15:45:05.186 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+15:45:05.188 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+15:45:55.943 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+15:45:55.946 [main] DEBUG Page.Nyl_ContactPage - Answer all other questions of Spouse as No for Nicotin and Outside US Twelve
+15:45:56.112 [main] INFO  Page.Nyl_ContactPage - Additional Questions as NO for Spouse for Nicotin and Outside US 12 are selected successfully || Pass
+15:45:56.114 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:02.227 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:02.229 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+15:46:02.276 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+15:46:02.278 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:08.340 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:08.343 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+15:46:09.426 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+15:46:09.428 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+15:46:10.553 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+15:46:10.557 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+15:46:12.144 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+15:46:12.148 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+15:46:13.258 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+15:46:13.261 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+15:46:14.386 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+15:46:14.389 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+15:46:17.142 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+15:46:17.145 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:23.241 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:23.244 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:29.312 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:29.315 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:35.415 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:35.418 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:41.503 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:41.506 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:47.589 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:47.592 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:53.681 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:53.684 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+15:46:59.771 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+15:46:59.774 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice WM in Read and Sign Box
+15:47:01.368 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice WM in Read and Sign Box successfully || Pass
+15:47:01.370 [main] DEBUG Page.Nyl_FinalPage - Click on application and validate the PDF
+15:47:25.006 [main] ERROR Page.Nyl_FinalPage - Not able to validate PDF || FailC:\Users\Mayuri663401\Downloads\Important Notice All except NM 2 08.12.pdf
+15:47:25.102 [main] INFO  StepDef.ServiceHooks - <ACOG_SC03> Validation Read & Sign Page with 20 different States one by one in loop  (spouse only where self as Resident) is Failed
+17:45:17.624 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+17:45:17.624 [main] DEBUG Selenium.SetUp - Navigating to URL
+17:45:38.947 [main] INFO  Selenium.SetUp - Navigate URL successfully
+17:46:08.946 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+17:46:08.954 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+17:46:09.071 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+17:46:09.074 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+17:46:12.254 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+17:46:12.257 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+17:46:14.450 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+17:46:14.452 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+17:46:16.576 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+17:46:16.579 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+17:46:19.815 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+17:46:19.818 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+17:46:25.912 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+17:46:25.912 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+17:46:27.078 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+17:46:27.081 [main] DEBUG Page.Nyl_ProductPage - Select the product for Five Year Term Insurance for Self
+17:46:29.230 [main] INFO  Page.Nyl_ProductPage - Product for Five Year Term Insurance for Self selected successfully || Pass
+17:46:29.233 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+17:46:35.326 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+17:46:35.326 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+17:46:35.505 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+17:46:35.508 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+17:46:41.597 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+17:46:41.597 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Five Years Products
+17:46:41.644 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+17:46:42.753 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=20000
+Benefit Amount is 100000
+17:46:43.233 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+17:46:43.234 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Five Years Product sucessfully || Pass
+17:46:43.237 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+17:46:49.340 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+17:46:49.340 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+17:46:50.593 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+17:46:50.593 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+17:46:56.680 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+17:46:56.680 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+17:47:03.502 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+17:47:03.505 [main] DEBUG Page.Nyl_ContactPage - Verify that WeightTwelveMonths ago value enters successfully
+17:47:03.605 [main] INFO  Page.Nyl_ContactPage - WeightTwelveMonths ago entered sucessfully|| Pass
+17:47:03.608 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+17:47:06.026 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+18:14:25.154 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:14:25.157 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:14:44.759 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:15:14.760 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:15:14.764 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:15:14.863 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:15:14.866 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+18:15:18.004 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+18:15:18.007 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+18:15:20.283 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+18:15:20.285 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+18:15:22.388 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+18:15:22.391 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+18:15:25.471 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+18:15:25.474 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:15:31.558 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:15:31.560 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:15:32.698 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:15:32.702 [main] DEBUG Page.Nyl_ProductPage - Select the product for Five Year Term Insurance for Self
+18:15:34.816 [main] INFO  Page.Nyl_ProductPage - Product for Five Year Term Insurance for Self selected successfully || Pass
+18:15:34.819 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:15:40.900 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:15:40.903 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+18:15:41.060 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+18:15:41.062 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:15:47.124 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:15:47.128 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Five Years Products
+18:15:47.175 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:15:48.236 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=20000
+Benefit Amount is 100000
+18:15:48.651 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:15:48.651 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Five Years Product sucessfully || Pass
+18:15:48.653 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:15:54.726 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:15:54.729 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+18:15:55.884 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+18:15:55.887 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:16:01.959 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:16:01.962 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+18:16:08.637 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+18:16:08.639 [main] DEBUG Page.Nyl_ContactPage - Verify that WeightTwelveMonths ago value enters successfully
+18:16:08.753 [main] INFO  Page.Nyl_ContactPage - WeightTwelveMonths ago entered sucessfully|| Pass
+18:16:08.756 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+18:16:11.123 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+18:16:11.127 [main] DEBUG Page.Nyl_ContactPage - Validate following values are not present in Marital status Dropdown 
+18:16:11.298 [main] INFO  Page.Nyl_ContactPage - Marital status dropdown options are validated sucessfully..|| Pass
+18:16:11.301 [main] DEBUG Page.Nyl_ContactPage - Validate following values are not present in Marital status Dropdown 
+18:16:11.398 [main] INFO  Page.Nyl_ContactPage - Marital status dropdown options are validated sucessfully..|| Pass
+18:16:11.400 [main] DEBUG Page.Nyl_ContactPage - Validate Tobacco Question
+18:16:11.477 [main] INFO  Page.Nyl_ContactPage - Tobacco Question for Self  is validated sucessfully|| Pass
+18:16:11.479 [main] DEBUG Page.Nyl_ContactPage - Select No Radio Button for Tobacco Question for Self
+18:16:12.569 [main] INFO  Page.Nyl_ContactPage - No Radio Button for Tobacco Question Self is selected Sucessfully|| Pass
+18:16:12.571 [main] DEBUG Page.Nyl_ContactPage - Select Driving License Question as No for Self
+18:16:12.647 [main] INFO  Page.Nyl_ContactPage - DrivingLicense Question as No for Self selected Sucessfully|| Pass
+18:16:12.649 [main] DEBUG Page.Nyl_ContactPage - Select Yes radio Button for OutsideUSCountry SixMonth Question for Self
+18:16:12.723 [main] INFO  Page.Nyl_ContactPage - OutsideUSCountry SixMonth Question for Self Radio Button is selected Sucessfully|| Pass
+18:16:12.726 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+18:16:14.860 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+18:16:14.862 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:16:20.968 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:16:20.971 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+18:16:21.002 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+18:16:21.005 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:16:27.055 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:16:27.058 [main] DEBUG Page.Nyl_PreviewPage - Enter user login details on save Information Page
+18:16:27.397 [main] INFO  Page.Nyl_PreviewPage - Login details entered on Save Informtion page successfully || Pass
+18:16:27.399 [main] DEBUG Page.Nyl_PreviewPage - Click on Ok Button 
+18:16:29.479 [main] INFO  Page.Nyl_PreviewPage - Ok button is clicked sucessfully || Pass
+18:16:29.482 [main] DEBUG Page.Nyl_AuthorizePage - Confirm the term and conditions for Self
+18:16:35.862 [main] INFO  Page.Nyl_AuthorizePage - Term and Conditions for Self selected successfully || Pass
+18:16:35.864 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:16:41.931 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:16:41.935 [main] DEBUG Page.Nyl_StatementOfHealthPage - Answer the questions of 1st page of statement_of_health
+18:16:53.974 [main] ERROR Page.Nyl_StatementOfHealthPage - Not able to answer the questions of 1st page of statement_of_health || Failnull
+18:16:54.031 [main] INFO  StepDef.ServiceHooks - <ABESC15_6> Complete work flow of application Self only  with Term Life Insurance is Failed
+18:22:19.753 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:22:19.756 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:22:39.909 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:23:09.910 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:23:09.915 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:23:10.010 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:23:10.014 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+18:23:13.147 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass

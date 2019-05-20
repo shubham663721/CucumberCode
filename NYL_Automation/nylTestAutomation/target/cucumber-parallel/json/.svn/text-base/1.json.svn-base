@@ -1,0 +1,539 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 44,
+        "name": "Complete workflow of application",
+        "description": "",
+        "id": "abe-test;complete-workflow-of-application;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3939013685,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Test set up  for \"NYL\" feature and \"NYL_ABE\" scenario",
+            "match": {
+              "arguments": [
+                {
+                  "val": "NYL",
+                  "offset": 18
+                },
+                {
+                  "val": "NYL_ABE",
+                  "offset": 36
+                }
+              ],
+              "location": "CommonPageStepDef.test_set_up_for_feature_and_scenario(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 26470855173,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "customer navigate to NYL \"abe\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abe",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.customer_navigate_to_NYL(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 120568492,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Clicks on Apply now button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Apply_now_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3149900784,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Scroll down and click on I ATtest To Having Read the Above Information button",
+            "match": {
+              "location": "NYL_StepDef.scroll_down_and_click_on_I_ATtest_To_Having_Read_the_Above_Information_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3767674633,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Eligibility page details are displayed to user and validate details and enters Eligibility details as \"Mrs.\", \"Velma\", \"Peter\" , \"South Carolina\", \"07 17 1992\", \"45\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mrs.",
+                  "offset": 103
+                },
+                {
+                  "val": "Velma",
+                  "offset": 111
+                },
+                {
+                  "val": "Peter",
+                  "offset": 120
+                },
+                {
+                  "val": "South Carolina",
+                  "offset": 130
+                },
+                {
+                  "val": "07 17 1992",
+                  "offset": 148
+                },
+                {
+                  "val": "45",
+                  "offset": 162
+                }
+              ],
+              "location": "NYL_StepDef.eligibility_page_details_are_displayed_to_user_and_validate_details_and_enters_Eligibility_details_as(String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4126269713,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Clicks on next button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_next_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2402609553,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 12,
+                "value": "#Then  Product page details are displayed to user and selects the product"
+              },
+              {
+                "line": 13,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 14,
+                "value": "#Then  Product additional page details are displayed to user and answer the questions"
+              },
+              {
+                "line": 15,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 16,
+                "value": "#Then  Coverage page is displayed to user and select Benefit Amount on coverage page"
+              },
+              {
+                "line": 17,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 18,
+                "value": "#Then  Beneficiary page details are displayed to user and add beneficiary as \"\u003ctrustName\u003e\" , \"\u003ctrustDate\u003e\""
+              },
+              {
+                "line": 19,
+                "value": "#Then  Users updates the beneficiary details as \"\u003cUpdateTrustName\u003e\""
+              },
+              {
+                "line": 20,
+                "value": "#Then  Users delete the beneficiary details"
+              },
+              {
+                "line": 21,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 22,
+                "value": "#Then  Contact page details are displayed to user and validate details"
+              },
+              {
+                "line": 23,
+                "value": "#Then  Enters Contact details as \"\u003cSocialSecurityNo\u003e\", \"\u003cMaritalStatus\u003e\", \"\u003cHeight\u003e\" , \"\u003cWeight\u003e\", \"\u003cWt12MonthAgo\u003e\", \"\u003cMemberId\u003e\",\"\u003cAddress\u003e\" , \"\u003cCity\u003e\", \"\u003cZip\u003e\", \"\u003cPrimaryPhType\u003e\", \"\u003cPrimaryPhNo\u003e\""
+              },
+              {
+                "line": 24,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 25,
+                "value": "#Then  User scroll to next in preview page"
+              },
+              {
+                "line": 26,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 27,
+                "value": "#Then  User enters \"\u003cPassword\u003e\" and \"\u003cVerifyPass\u003e\" and submit to save the information"
+              },
+              {
+                "line": 28,
+                "value": "#Then  Authorize page details are displayed to user and confirm the term and conditions"
+              },
+              {
+                "line": 29,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 30,
+                "value": "#Then  Statement of Health page one details are displayed to user and user answers the all the questions"
+              },
+              {
+                "line": 31,
+                "value": "#Then  Statement of Health page two details are displayed to user and user answers the all the questions"
+              },
+              {
+                "line": 32,
+                "value": "#Then  Almost Done are displayed to user"
+              },
+              {
+                "line": 33,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 34,
+                "value": "#Then  Review and sign page details are displayed to user and Click on continue and attached the sign"
+              },
+              {
+                "line": 35,
+                "value": "#And   Clicks on next button to finish"
+              },
+              {
+                "line": 36,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 37,
+                "value": "#Then  Payment page details are displayed to user and skip payment"
+              },
+              {
+                "line": 38,
+                "value": "#And   User get the receipt number and vlaidate Application has  been recieved"
+              }
+            ],
+            "line": 39,
+            "name": "Close the Browser",
+            "match": {
+              "location": "NYL_StepDef.close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@abeTag1"
+          }
+        ]
+      },
+      {
+        "line": 87,
+        "name": "Check the Functionality of Save for later button,login again and complete the workflow",
+        "description": "",
+        "id": "abe-test;check-the-functionality-of-save-for-later-button,login-again-and-complete-the-workflow;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2289189394,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "Test set up  for \"NYL\" feature and \"NYL_ABE\" scenario",
+            "match": {
+              "arguments": [
+                {
+                  "val": "NYL",
+                  "offset": 18
+                },
+                {
+                  "val": "NYL_ABE",
+                  "offset": 36
+                }
+              ],
+              "location": "CommonPageStepDef.test_set_up_for_feature_and_scenario(String,String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 24925131394,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "customer navigate to NYL \"abe\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abe",
+                  "offset": 26
+                }
+              ],
+              "location": "NYL_StepDef.customer_navigate_to_NYL(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 121753253,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "Clicks on Apply now button",
+            "match": {
+              "location": "NYL_StepDef.clicks_on_Apply_now_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3197243747,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "Scroll down and click on I ATtest To Having Read the Above Information button",
+            "match": {
+              "location": "NYL_StepDef.scroll_down_and_click_on_I_ATtest_To_Having_Read_the_Above_Information_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3869331855,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "Eligibility page details are displayed to user and validate details and enters Eligibility details and specific emailid as \"Mrs.\", \"Velma\", \"Peter\" , \"South Carolina\", \"07 17 1992\", \"velmoa18@gmail.com\", \"45\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mrs.",
+                  "offset": 124
+                },
+                {
+                  "val": "Velma",
+                  "offset": 132
+                },
+                {
+                  "val": "Peter",
+                  "offset": 141
+                },
+                {
+                  "val": "South Carolina",
+                  "offset": 151
+                },
+                {
+                  "val": "07 17 1992",
+                  "offset": 169
+                },
+                {
+                  "val": "velmoa18@gmail.com",
+                  "offset": 183
+                },
+                {
+                  "val": "45",
+                  "offset": 205
+                }
+              ],
+              "location": "NYL_StepDef.eligibility_page_details_are_displayed_to_user_and_validate_details_and_enters_Eligibility_details_and_specific_emailid_as(String,String,String,String,String,String,String)"
+            },
+            "matchedColumns": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2367398680,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 53,
+                "value": "#And   Clicks on Save for later button"
+              },
+              {
+                "line": 54,
+                "value": "#Then  User enters \"\u003cPassword\u003e\" and \"\u003cVerifyPass\u003e\" and submit"
+              },
+              {
+                "line": 55,
+                "value": "#Then  Refresh the browser"
+              },
+              {
+                "line": 56,
+                "value": "#When  Clicks on Login in saved application and Enter \"\u003cEmailid\u003e\" and \"\u003cPassword\u003e\""
+              },
+              {
+                "line": 57,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 58,
+                "value": "#Then  Product page details are displayed to user and selects the product"
+              },
+              {
+                "line": 59,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 60,
+                "value": "#Then  Product additional page details are displayed to user and answer the questions"
+              },
+              {
+                "line": 61,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 62,
+                "value": "#Then  Coverage page is displayed to user and select Benefit Amount on coverage page"
+              },
+              {
+                "line": 63,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 64,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 65,
+                "value": "#Then  Contact page details are displayed to user and validate details"
+              },
+              {
+                "line": 66,
+                "value": "#Then  Enters Contact details as \"\u003cSocialSecurityNo\u003e\", \"\u003cMaritalStatus\u003e\", \"\u003cHeight\u003e\" , \"\u003cWeight\u003e\", \"\u003cWt12MonthAgo\u003e\", \"\u003cMemberId\u003e\",\"\u003cAddress\u003e\" , \"\u003cCity\u003e\", \"\u003cZip\u003e\", \"\u003cPrimaryPhType\u003e\", \"\u003cPrimaryPhNo\u003e\""
+              },
+              {
+                "line": 67,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 68,
+                "value": "#Then  User scroll to next in preview page"
+              },
+              {
+                "line": 69,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 70,
+                "value": "#Then  User enters \"\u003cPassword\u003e\" and \"\u003cVerifyPass\u003e\" and submit to save the information"
+              },
+              {
+                "line": 71,
+                "value": "#Then  Authorize page details are displayed to user and confirm the term and conditions"
+              },
+              {
+                "line": 72,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 73,
+                "value": "#Then  Statement of Health page one details are displayed to user and user answers the all the questions"
+              },
+              {
+                "line": 74,
+                "value": "#Then  Statement of Health page two details are displayed to user and user answers the all the questions"
+              },
+              {
+                "line": 75,
+                "value": "#Then  Almost Done are displayed to user"
+              },
+              {
+                "line": 76,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 77,
+                "value": "#Then  Review and sign page details are displayed to user and Click on continue and attached the sign"
+              },
+              {
+                "line": 78,
+                "value": "#And   Clicks on next button to finish"
+              },
+              {
+                "line": 79,
+                "value": "#And   Clicks on next button"
+              },
+              {
+                "line": 80,
+                "value": "#Then  Payment page details are displayed to user and skip payment"
+              },
+              {
+                "line": 81,
+                "value": "#And   User get the receipt number and vlaidate Application has  been recieved"
+              }
+            ],
+            "line": 82,
+            "name": "Close the Browser",
+            "match": {
+              "location": "NYL_StepDef.close_the_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 46,
+            "name": "@abeTag1"
+          }
+        ]
+      }
+    ],
+    "name": "Abe Test",
+    "description": "",
+    "id": "abe-test",
+    "keyword": "Feature",
+    "uri": "D:/MavenProject/nylTestAutomation/src/main/resources/Feature/abe_NYL.feature"
+  }
+]

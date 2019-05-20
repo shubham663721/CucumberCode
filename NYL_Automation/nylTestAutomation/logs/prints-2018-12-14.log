@@ -1,0 +1,501 @@
+19:33:15.052 [main] DEBUG Page.Nyl_AuthorizePage - Validate Ten Year Term Messege in Divident Box
+19:33:17.221 [main] INFO  Page.Nyl_AuthorizePage - Validated Ten Year message in Divident Box successfully || Pass
+19:33:17.221 [main] DEBUG Page.Nyl_AuthorizePage - Validate Twenty Year Term Messege in Divident Box
+19:33:19.450 [main] INFO  Page.Nyl_AuthorizePage - Validated Twenty Year message in Divident Box successfully || Pass
+19:33:19.450 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fifty Year Term Messege in Divident Box
+19:33:21.625 [main] INFO  Page.Nyl_AuthorizePage - Validated Fifty Year message in Divident Box successfully || Pass
+19:33:21.628 [main] DEBUG Page.Nyl_AuthorizePage - Validate AccidentDeath  Messege in Divident Box
+19:33:23.824 [main] INFO  Page.Nyl_AuthorizePage - Validated AccidentDeath message in Divident Box successfully || Pass
+19:33:23.824 [main] DEBUG Page.Nyl_AuthorizePage - Validate LTDP  Messege in Divident Box
+19:33:26.038 [main] INFO  Page.Nyl_AuthorizePage - Validated LTDPlus message in Divident Box successfully || Pass
+19:33:26.038 [main] DEBUG Page.Nyl_AuthorizePage - Validate LTD  Messege in Divident Box
+19:33:28.217 [main] INFO  Page.Nyl_AuthorizePage - Validated LTD message in Divident Box successfully || Pass
+19:33:28.220 [main] DEBUG Page.Nyl_AuthorizePage - Validate MID Year  Messege in Divident Box
+19:33:30.416 [main] INFO  Page.Nyl_AuthorizePage - Validated Mid Term message in Divident Box successfully || Pass
+19:33:30.416 [main] DEBUG Page.Nyl_AuthorizePage - Validate Retirement Disability Insurance Messege in Divident Box
+19:33:32.622 [main] INFO  Page.Nyl_AuthorizePage - Validated Retirement Disability Insurance Messege in Divident Box successfully || Pass
+19:33:32.622 [main] DEBUG Page.Nyl_AuthorizePage - Validate Professional Disability Insurance Messege in Divident Box
+19:33:34.802 [main] INFO  Page.Nyl_AuthorizePage - Validated Professional Disability Insurance Messege in Divident Box successfully || Pass
+19:33:34.805 [main] DEBUG Page.Nyl_AuthorizePage - Validate Critical Illness Product Messege in Divident Box
+19:33:36.992 [main] INFO  Page.Nyl_AuthorizePage - Validated Critical Illness Product Messege in Divident Box successfully || Pass
+19:33:36.992 [main] DEBUG Page.Nyl_AuthorizePage - Validate Hospital Money Insurance Product Messege in Divident Box
+19:33:39.161 [main] INFO  Page.Nyl_AuthorizePage - Validated Hospital Money Insurance Product Messege in Divident Box successfully || Pass
+19:33:39.161 [main] DEBUG Page.Nyl_AuthorizePage - Validate Election Messege in Divident Box
+19:33:39.256 [main] INFO  Page.Nyl_AuthorizePage - Validated Election Messege in Divident Box successfully || Pass
+19:33:39.257 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+19:33:40.365 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+19:33:40.367 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:33:42.060 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:33:42.062 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:33:48.155 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:33:48.155 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:33:54.244 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:33:54.247 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:00.341 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:00.345 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:06.446 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:06.449 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:12.524 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:12.527 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:18.621 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:18.621 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:24.701 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:24.701 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+19:34:31.795 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+19:34:31.795 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice of Connecticut in Read and Sign Box
+19:34:33.381 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice of Connecticut in Read and Sign Box successfully || Pass
+19:34:33.383 [main] DEBUG Page.Nyl_AuthorizePage - Validate Connecticut Note in Read and Sign Box
+19:34:34.975 [main] INFO  Page.Nyl_AuthorizePage - Validated Connecticut Note in Read and Sign Box successfully || Pass
+19:34:34.980 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+19:34:36.070 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+19:34:36.072 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:34:38.153 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:34:38.155 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:44.230 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:44.230 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:50.324 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:50.324 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:34:56.459 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:34:56.459 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:35:02.593 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:35:02.593 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:35:08.695 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:35:08.695 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:35:14.805 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:35:14.805 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:35:20.886 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:35:20.886 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+19:35:28.062 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+19:35:28.062 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice of Minnesota in Read and Sign Box
+19:35:29.671 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice of Minnesota in Read and Sign Box successfully || Pass
+19:35:29.687 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box for MN
+19:35:30.849 [main] INFO  StepDef.ServiceHooks - <ABESC14> Complete flow till Read & Sign Page with 20 different States one by one in loop Application Submission for Self is Failed
+19:39:27.239 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+19:39:27.239 [main] DEBUG Selenium.SetUp - Navigating to URL
+19:39:47.941 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:40:17.939 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:40:17.945 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:40:18.027 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:40:18.030 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+19:40:21.182 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+19:40:21.185 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+19:40:23.281 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+19:40:23.283 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:40:23.379 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:40:23.382 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+19:40:25.733 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+19:40:25.736 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:40:31.819 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:40:31.821 [main] DEBUG Page.Nyl_ProductPage - Select the product for Five Year Term Insurance for Self
+19:40:33.958 [main] INFO  Page.Nyl_ProductPage - Product for Five Year Term Insurance for Self selected successfully || Pass
+19:40:33.960 [main] DEBUG Page.Nyl_ProductPage - Select Self for Ten Year Life term Insurance Product
+19:40:37.105 [main] INFO  Page.Nyl_ProductPage - Ten Year Life term Insurance Product for self is selected sucessfully|| Pass
+19:40:37.108 [main] DEBUG Page.Nyl_ProductPage - Select Self for Twenty Year Life term Insurance Product
+19:40:40.282 [main] INFO  Page.Nyl_ProductPage - Twenty Year Life term Insurance Product for self is selected sucessfully|| Pass
+19:40:40.284 [main] DEBUG Page.Nyl_ProductPage - Select the product for Fifty Year Term Insurance for Self
+19:40:43.466 [main] INFO  Page.Nyl_ProductPage - Product for Fifty Year Term Insurance for Self selected successfully || Pass
+19:40:43.468 [main] DEBUG Page.Nyl_ProductPage - Select Self for Accidental Death Product
+19:40:45.596 [main] INFO  Page.Nyl_ProductPage - Accidental Death product for self is selected sucessfully|| Pass
+19:40:45.598 [main] DEBUG Page.Nyl_ProductPage - Select Self for Long Term disability Plus Insurance Product
+19:40:48.785 [main] INFO  Page.Nyl_ProductPage - Long Term disability Plus Insurance Product for self is selected sucessfully|| Pass
+19:40:48.789 [main] DEBUG Page.Nyl_ProductPage - Select Self for Long Term disability Insurance Product
+19:40:51.935 [main] INFO  Page.Nyl_ProductPage - Long Term disability  Insurance Product for self is selected sucessfully|| Pass
+19:40:51.939 [main] DEBUG Page.Nyl_ProductPage - Select Self for Mid Term disability Insurance Product
+19:40:55.119 [main] INFO  Page.Nyl_ProductPage - Mid Term disability  Insurance Product for self is selected sucessfully|| Pass
+19:40:55.122 [main] DEBUG Page.Nyl_ProductPage - Select Self for Retirement Disability Product
+19:40:58.257 [main] INFO  Page.Nyl_ProductPage - Retirement Disability Product for self is selected sucessfully|| Pass
+19:40:58.260 [main] DEBUG Page.Nyl_ProductPage - Select Self for Professional Expense Disability Product
+19:41:01.441 [main] INFO  Page.Nyl_ProductPage - Professional Expense Disability Product for self is selected sucessfully|| Pass
+19:41:01.444 [main] DEBUG Page.Nyl_ProductPage - Select Self for Critical Illness Product
+19:41:04.591 [main] INFO  Page.Nyl_ProductPage - Critical Illness Product for self is selected sucessfully|| Pass
+19:41:04.595 [main] DEBUG Page.Nyl_ProductPage - Select Self for Hospital Money Insurance Product
+19:41:07.751 [main] INFO  Page.Nyl_ProductPage - Hospital Money Insurance Product for self is selected sucessfully|| Pass
+19:41:07.756 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:41:13.876 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:41:13.876 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+19:41:14.056 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+19:41:14.059 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+19:41:15.719 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+19:41:15.719 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly Expense and Percentage for Disability Coverage
+19:41:15.883 [main] INFO  Page.Nyl_ProductPage -  Average Monthly Expense and Percentage for Disability Coverage is Entered Sucessfully|| Pass
+19:41:15.886 [main] DEBUG Page.Nyl_ProductPage - Select No Options for additional Questions Group Disability Insurance
+19:41:16.052 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance is selected Sucessfully|| Pass
+19:41:16.055 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:41:22.143 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:41:22.143 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Five Years Products
+19:41:22.189 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:23.293 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=20000
+Benefit Amount is 600000
+19:41:26.030 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:26.030 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Five Years Product sucessfully || Pass
+19:41:26.032 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Ten Years Products
+19:41:28.158 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:29.242 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 600000
+19:41:31.436 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:31.437 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Ten Years Product sucessfully || Pass
+19:41:31.439 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Twenty Years Products
+19:41:33.532 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:34.640 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 100000
+19:41:34.640 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:41:34.640 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:34.640 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Twenty Years Product sucessfully || Pass
+19:41:34.640 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Fifty Years Products
+19:41:36.748 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:37.818 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=25000
+Benefit Amount is 25000
+19:41:37.818 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:41:37.818 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:37.818 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Fifty Years Product sucessfully || Pass
+19:41:37.820 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Accidental Death Products
+19:41:39.923 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:41.018 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 100000
+19:41:41.018 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:41:41.018 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:41.018 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Accidental Death Product sucessfully || Pass
+19:41:41.034 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Long term Disability Plus Products
+19:41:43.143 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:44.235 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 2000
+19:41:45.075 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:45.075 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Long term Disability Plus Product sucessfully || Pass
+19:41:45.077 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Long term Disability Plus Products
+19:41:48.315 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Long term Disability Plus Product sucessfully || Pass
+19:41:48.315 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Long term Disability  Products
+19:41:50.464 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:51.562 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 2000
+19:41:52.409 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:52.409 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Long term Disability Product sucessfully || Pass
+19:41:52.411 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Long term Disability Products
+19:41:53.555 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Long term Disability Product sucessfully || Pass
+19:41:53.555 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Mid term Disability  Products
+19:41:55.706 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:41:56.810 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 1000
+19:41:57.182 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:41:57.182 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Mid term Disability Product sucessfully || Pass
+19:41:57.184 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Mid term Disability Products
+19:41:58.306 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Mid term Disability Product sucessfully || Pass
+19:41:58.306 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Retirement Disability  Products
+19:42:00.436 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:42:01.531 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 1500
+19:42:01.756 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:42:01.756 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Retirement  Disability Product sucessfully || Pass
+19:42:01.758 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Retirement Disability Products
+19:42:02.866 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Retirement Disability Product sucessfully || Pass
+19:42:02.870 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Professional/Office Overhead Disability Products
+19:42:04.979 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:42:06.086 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=500
+Benefit Amount is 1000
+19:42:06.329 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:42:06.329 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self Professional/Office Overhead Disability Product sucessfully || Pass
+19:42:06.331 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Critical Illness Products
+19:42:08.437 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:42:09.522 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=5000
+Benefit Amount is 5000
+19:42:09.522 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:42:09.522 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:42:09.522 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self Critical Illness  Product sucessfully || Pass
+19:42:09.525 [main] DEBUG Page.Nyl_CoveragePage - Select Maximum Benefit amount for self Hospital Money Insurance Products
+19:42:12.802 [main] INFO  Page.Nyl_CoveragePage -  Maximum Benefit amount for self Hospital Money Insurance Products is selected sucessfully || Pass
+19:42:12.803 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:42:18.947 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:42:18.947 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+19:42:20.154 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+19:42:20.170 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self
+19:42:22.316 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Selfis clicked successfully || Pass
+19:42:22.318 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+19:42:23.716 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+19:42:23.718 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+19:42:25.100 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+19:42:25.102 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+19:42:29.188 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+19:42:29.191 [main] DEBUG Page.Nyl_BeneficiaryPage - Click On Skip Beneficiary Link
+19:42:32.343 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+19:42:32.347 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+19:42:34.478 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+19:42:34.481 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+19:42:40.364 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+19:42:40.366 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+19:42:43.648 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+19:42:43.651 [main] DEBUG Page.Nyl_ContactPage - Select No radio Button for NON QD Travel Question for Self
+19:42:43.773 [main] INFO  Page.Nyl_ContactPage - NON QD Travel Question for Self NO Radio Button is selected Sucessfully|| Pass
+19:42:43.775 [main] DEBUG Page.Nyl_ContactPage - Select No Radio Button for Tobacco Question for Self
+19:42:44.871 [main] INFO  Page.Nyl_ContactPage - No Radio Button for Tobacco Question Self is selected Sucessfully|| Pass
+19:42:44.871 [main] DEBUG Page.Nyl_ContactPage - Select Business Address Radio Button
+19:42:44.991 [main] INFO  Page.Nyl_ContactPage -  Business Address  Radio Button is selected Sucessfully|| Pass
+19:42:44.993 [main] DEBUG Page.Nyl_ContactPage - Enter Business Address Details
+19:42:46.216 [main] INFO  Page.Nyl_ContactPage -  Business Address details are entered Sucessfully|| Pass
+19:42:46.216 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+19:42:46.360 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+19:42:46.362 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:42:52.465 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:42:52.465 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+19:42:52.512 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+19:42:52.512 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:42:58.613 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:42:58.613 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+19:43:05.738 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+19:43:05.738 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+19:43:06.810 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+19:43:06.812 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+19:43:07.937 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+19:43:07.940 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+19:43:09.516 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+19:43:09.528 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+19:43:10.662 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+19:43:10.662 [main] DEBUG Page.Nyl_AuthorizePage - Validate DIVIDEND Notice in Divident Box
+19:43:12.936 [main] INFO  Page.Nyl_AuthorizePage - Validated DIVIDEND Notice message in Divident Box successfully || Pass
+19:43:12.939 [main] DEBUG Page.Nyl_AuthorizePage - Validate TermLife  Messege in Divident Box
+19:43:15.069 [main] INFO  Page.Nyl_AuthorizePage - Validated Term Life message in Divident Box successfully || Pass
+19:43:15.072 [main] DEBUG Page.Nyl_AuthorizePage - Validate Ten Year Term Messege in Divident Box
+19:43:17.264 [main] INFO  Page.Nyl_AuthorizePage - Validated Ten Year message in Divident Box successfully || Pass
+19:43:17.264 [main] DEBUG Page.Nyl_AuthorizePage - Validate Twenty Year Term Messege in Divident Box
+19:43:19.485 [main] INFO  Page.Nyl_AuthorizePage - Validated Twenty Year message in Divident Box successfully || Pass
+19:43:19.485 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fifty Year Term Messege in Divident Box
+19:43:21.641 [main] INFO  Page.Nyl_AuthorizePage - Validated Fifty Year message in Divident Box successfully || Pass
+19:43:21.644 [main] DEBUG Page.Nyl_AuthorizePage - Validate AccidentDeath  Messege in Divident Box
+19:43:23.882 [main] INFO  Page.Nyl_AuthorizePage - Validated AccidentDeath message in Divident Box successfully || Pass
+19:43:23.882 [main] DEBUG Page.Nyl_AuthorizePage - Validate LTDP  Messege in Divident Box
+19:43:26.105 [main] INFO  Page.Nyl_AuthorizePage - Validated LTDPlus message in Divident Box successfully || Pass
+19:43:26.105 [main] DEBUG Page.Nyl_AuthorizePage - Validate LTD  Messege in Divident Box
+19:43:28.283 [main] INFO  Page.Nyl_AuthorizePage - Validated LTD message in Divident Box successfully || Pass
+19:43:28.286 [main] DEBUG Page.Nyl_AuthorizePage - Validate MID Year  Messege in Divident Box
+19:43:30.448 [main] INFO  Page.Nyl_AuthorizePage - Validated Mid Term message in Divident Box successfully || Pass
+19:43:30.448 [main] DEBUG Page.Nyl_AuthorizePage - Validate Retirement Disability Insurance Messege in Divident Box
+19:43:32.693 [main] INFO  Page.Nyl_AuthorizePage - Validated Retirement Disability Insurance Messege in Divident Box successfully || Pass
+19:43:32.693 [main] DEBUG Page.Nyl_AuthorizePage - Validate Professional Disability Insurance Messege in Divident Box
+19:43:34.851 [main] INFO  Page.Nyl_AuthorizePage - Validated Professional Disability Insurance Messege in Divident Box successfully || Pass
+19:43:34.854 [main] DEBUG Page.Nyl_AuthorizePage - Validate Critical Illness Product Messege in Divident Box
+19:43:37.074 [main] INFO  Page.Nyl_AuthorizePage - Validated Critical Illness Product Messege in Divident Box successfully || Pass
+19:43:37.074 [main] DEBUG Page.Nyl_AuthorizePage - Validate Hospital Money Insurance Product Messege in Divident Box
+19:43:39.290 [main] INFO  Page.Nyl_AuthorizePage - Validated Hospital Money Insurance Product Messege in Divident Box successfully || Pass
+19:43:39.290 [main] DEBUG Page.Nyl_AuthorizePage - Validate Election Messege in Divident Box
+19:43:39.396 [main] INFO  Page.Nyl_AuthorizePage - Validated Election Messege in Divident Box successfully || Pass
+19:43:39.398 [main] DEBUG Page.Nyl_EligibilityPage - Click On Eligibility Button
+19:43:40.498 [main] INFO  Page.Nyl_EligibilityPage - Eligibilty Button is Clicked sucessfully || Pass
+19:43:40.501 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+19:43:42.580 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+19:43:42.581 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:43:48.681 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:43:48.681 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:43:54.781 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:43:54.784 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:44:00.900 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:44:00.903 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:44:07.024 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:44:07.027 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:44:13.115 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:44:13.117 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:44:19.240 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:44:19.243 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:44:25.322 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:44:25.325 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+19:44:32.440 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+19:44:32.443 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice of Minnesota in Read and Sign Box
+19:44:34.039 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice of Minnesota in Read and Sign Box successfully || Pass
+19:44:34.046 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box for MN
+19:44:34.124 [main] ERROR Page.Nyl_AuthorizePage - Not able to validate Authorization message for MN in Read and Sign Box || Failelement not interactable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'IND-MHP3DW10928', ip: '172.17.220.235', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\MAYURI~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:64639}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 71.0.3578.98, webStorageEnabled: true}
+Session ID: b16486e3c602dde92838b8984f53090f
+19:44:34.140 [main] INFO  StepDef.ServiceHooks - <ABESC14> Complete flow till Read & Sign Page with 20 different States one by one in loop Application Submission for Self is Failed
+19:47:12.253 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+19:47:12.253 [main] DEBUG Selenium.SetUp - Navigating to URL
+19:47:30.054 [main] INFO  Selenium.SetUp - Navigate URL successfully
+19:48:00.066 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+19:48:00.066 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+19:48:00.192 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+19:48:00.195 [main] DEBUG Page.Nyl_BasicInfo - Scroll down and click on information button
+19:48:03.359 [main] INFO  Page.Nyl_BasicInfo - Navigation || Scroll the page and click on information button|| Pass
+19:48:03.363 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+19:48:05.493 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+19:48:05.495 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+19:48:05.601 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+19:48:05.604 [main] DEBUG Page.Nyl_EligibilityPage - Enter Eligibility details
+19:48:08.036 [main] INFO  Page.Nyl_EligibilityPage - Eligibility Details enter successfully || Pass
+19:48:08.038 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:48:14.124 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:48:14.128 [main] DEBUG Page.Nyl_ProductPage - Select the product for Five Year Term Insurance for Self
+19:48:16.260 [main] INFO  Page.Nyl_ProductPage - Product for Five Year Term Insurance for Self selected successfully || Pass
+19:48:16.263 [main] DEBUG Page.Nyl_ProductPage - Select Self for Ten Year Life term Insurance Product
+19:48:19.448 [main] INFO  Page.Nyl_ProductPage - Ten Year Life term Insurance Product for self is selected sucessfully|| Pass
+19:48:19.451 [main] DEBUG Page.Nyl_ProductPage - Select Self for Twenty Year Life term Insurance Product
+19:48:22.607 [main] INFO  Page.Nyl_ProductPage - Twenty Year Life term Insurance Product for self is selected sucessfully|| Pass
+19:48:22.610 [main] DEBUG Page.Nyl_ProductPage - Select the product for Fifty Year Term Insurance for Self
+19:48:25.759 [main] INFO  Page.Nyl_ProductPage - Product for Fifty Year Term Insurance for Self selected successfully || Pass
+19:48:25.761 [main] DEBUG Page.Nyl_ProductPage - Select Self for Accidental Death Product
+19:48:27.888 [main] INFO  Page.Nyl_ProductPage - Accidental Death product for self is selected sucessfully|| Pass
+19:48:27.891 [main] DEBUG Page.Nyl_ProductPage - Select Self for Long Term disability Plus Insurance Product
+19:48:31.085 [main] INFO  Page.Nyl_ProductPage - Long Term disability Plus Insurance Product for self is selected sucessfully|| Pass
+19:48:31.088 [main] DEBUG Page.Nyl_ProductPage - Select Self for Long Term disability Insurance Product
+19:48:34.234 [main] INFO  Page.Nyl_ProductPage - Long Term disability  Insurance Product for self is selected sucessfully|| Pass
+19:48:34.237 [main] DEBUG Page.Nyl_ProductPage - Select Self for Mid Term disability Insurance Product
+19:48:37.425 [main] INFO  Page.Nyl_ProductPage - Mid Term disability  Insurance Product for self is selected sucessfully|| Pass
+19:48:37.428 [main] DEBUG Page.Nyl_ProductPage - Select Self for Retirement Disability Product
+19:48:40.567 [main] INFO  Page.Nyl_ProductPage - Retirement Disability Product for self is selected sucessfully|| Pass
+19:48:40.570 [main] DEBUG Page.Nyl_ProductPage - Select Self for Professional Expense Disability Product
+19:48:43.745 [main] INFO  Page.Nyl_ProductPage - Professional Expense Disability Product for self is selected sucessfully|| Pass
+19:48:43.748 [main] DEBUG Page.Nyl_ProductPage - Select Self for Critical Illness Product
+19:48:46.921 [main] INFO  Page.Nyl_ProductPage - Critical Illness Product for self is selected sucessfully|| Pass
+19:48:46.925 [main] DEBUG Page.Nyl_ProductPage - Select Self for Hospital Money Insurance Product
+19:48:50.093 [main] INFO  Page.Nyl_ProductPage - Hospital Money Insurance Product for self is selected sucessfully|| Pass
+19:48:50.096 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:48:56.203 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:48:56.203 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+19:48:56.389 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+19:48:56.392 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+19:48:58.058 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+19:48:58.058 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly Expense and Percentage for Disability Coverage
+19:48:58.239 [main] INFO  Page.Nyl_ProductPage -  Average Monthly Expense and Percentage for Disability Coverage is Entered Sucessfully|| Pass
+19:48:58.241 [main] DEBUG Page.Nyl_ProductPage - Select No Options for additional Questions Group Disability Insurance
+19:48:58.413 [main] INFO  Page.Nyl_ProductPage -  No Options for additional Questions Group Disability Insurance is selected Sucessfully|| Pass
+19:48:58.415 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:49:04.512 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:49:04.512 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Five Years Products
+19:49:04.559 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:05.654 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=20000
+Benefit Amount is 600000
+19:49:08.296 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:08.297 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Five Years Product sucessfully || Pass
+19:49:08.299 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Ten Years Products
+19:49:10.398 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:11.506 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 600000
+19:49:13.819 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:13.819 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Ten Years Product sucessfully || Pass
+19:49:13.821 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Twenty Years Products
+19:49:15.915 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:17.017 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 100000
+19:49:17.017 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:49:17.017 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:17.017 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Twenty Years Product sucessfully || Pass
+19:49:17.017 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Fifty Years Products
+19:49:19.145 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:20.225 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=25000
+Benefit Amount is 25000
+19:49:20.225 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:49:20.225 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:20.225 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Fifty Years Product sucessfully || Pass
+19:49:20.227 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Accidental Death Products
+19:49:22.325 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:23.401 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 100000
+19:49:23.401 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:49:23.401 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:23.401 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Accidental Death Product sucessfully || Pass
+19:49:23.401 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Long term Disability Plus Products
+19:49:25.510 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:26.569 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 2000
+19:49:27.367 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:27.367 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Long term Disability Plus Product sucessfully || Pass
+19:49:27.369 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Long term Disability Plus Products
+19:49:30.574 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Long term Disability Plus Product sucessfully || Pass
+19:49:30.574 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Long term Disability  Products
+19:49:32.721 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:33.815 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 2000
+19:49:34.595 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:34.595 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Long term Disability Product sucessfully || Pass
+19:49:34.597 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Long term Disability Products
+19:49:35.747 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Long term Disability Product sucessfully || Pass
+19:49:35.747 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Mid term Disability  Products
+19:49:37.900 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:38.969 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100
+Benefit Amount is 1000
+19:49:39.315 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:39.315 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Mid term Disability Product sucessfully || Pass
+19:49:39.317 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Mid term Disability Products
+19:49:40.425 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Mid term Disability Product sucessfully || Pass
+19:49:40.425 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Retirement Disability  Products
+19:49:42.576 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:43.680 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 1500
+19:49:43.924 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:43.925 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Retirement  Disability Product sucessfully || Pass
+19:49:43.926 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Retirement Disability Products
+19:49:45.050 [main] INFO  Page.Nyl_CoveragePage - Waiting Period is  selected for Self of Retirement Disability Product sucessfully || Pass
+19:49:45.053 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Professional/Office Overhead Disability Products
+19:49:47.166 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:48.247 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=500
+Benefit Amount is 1000
+19:49:48.486 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:48.486 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self Professional/Office Overhead Disability Product sucessfully || Pass
+19:49:48.488 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Critical Illness Products
+19:49:50.590 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+19:49:51.669 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=5000
+Benefit Amount is 5000
+19:49:51.669 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+19:49:51.669 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+19:49:51.670 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self Critical Illness  Product sucessfully || Pass
+19:49:51.672 [main] DEBUG Page.Nyl_CoveragePage - Select Maximum Benefit amount for self Hospital Money Insurance Products
+19:49:54.950 [main] INFO  Page.Nyl_CoveragePage -  Maximum Benefit amount for self Hospital Money Insurance Products is selected sucessfully || Pass
+19:49:54.952 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:50:01.107 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:50:01.107 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+19:50:02.325 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+19:50:02.327 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self
+19:50:04.460 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Selfis clicked successfully || Pass
+19:50:04.462 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+19:50:05.842 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+19:50:05.844 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+19:50:07.215 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+19:50:07.217 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+19:50:11.282 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+19:50:11.285 [main] DEBUG Page.Nyl_BeneficiaryPage - Click On Skip Beneficiary Link
+19:50:14.430 [main] INFO  Page.Nyl_BeneficiaryPage - Skip Beneficiary Link is Clicked Successfully || Pass
+19:50:14.430 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+19:50:16.589 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+19:50:16.589 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+19:50:22.590 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+19:50:22.592 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+19:50:25.865 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+19:50:25.865 [main] DEBUG Page.Nyl_ContactPage - Select No radio Button for NON QD Travel Question for Self
+19:50:26.031 [main] INFO  Page.Nyl_ContactPage - NON QD Travel Question for Self NO Radio Button is selected Sucessfully|| Pass
+19:50:26.033 [main] DEBUG Page.Nyl_ContactPage - Select No Radio Button for Tobacco Question for Self
+19:50:27.118 [main] INFO  Page.Nyl_ContactPage - No Radio Button for Tobacco Question Self is selected Sucessfully|| Pass
+19:50:27.118 [main] DEBUG Page.Nyl_ContactPage - Select Business Address Radio Button
+19:50:27.234 [main] INFO  Page.Nyl_ContactPage -  Business Address  Radio Button is selected Sucessfully|| Pass
+19:50:27.236 [main] DEBUG Page.Nyl_ContactPage - Enter Business Address Details
+19:50:28.448 [main] INFO  Page.Nyl_ContactPage -  Business Address details are entered Sucessfully|| Pass
+19:50:28.448 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+19:50:28.561 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+19:50:28.563 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:50:34.682 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:50:34.682 [main] DEBUG Page.Nyl_PreviewPage - Application Summary page is displayed to user
+19:50:34.729 [main] INFO  Page.Nyl_PreviewPage - Application Summary page is displayed to user successfully || Pass
+19:50:34.729 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+19:50:40.828 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+19:50:40.828 [main] DEBUG Page.Nyl_PaymentPage - Skip the payment from the payment page
+19:50:47.952 [main] INFO  Page.Nyl_PaymentPage - Payment skipped successfully || Pass
+19:50:47.952 [main] DEBUG Page.Nyl_AuthorizePage - Authorize Page is displayed to user
+19:50:49.047 [main] INFO  Page.Nyl_AuthorizePage - Authorize Page is displayed to user successfully || Pass
+19:50:49.047 [main] DEBUG Page.Nyl_AuthorizePage - Validate Authorization message in Read and Sign Box
+19:50:50.182 [main] INFO  Page.Nyl_AuthorizePage - Validated Authorization message in Read and Sign Box successfully || Pass
+19:50:50.182 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fraud Notice CO in Read and Sign Box
+19:50:51.770 [main] INFO  Page.Nyl_AuthorizePage - Validated Fraud Notice CO in Read and Sign Box successfully || Pass
+19:50:51.772 [main] DEBUG Page.Nyl_AuthorizePage - Validate Consent message in Read and Sign Box
+19:50:52.894 [main] INFO  Page.Nyl_AuthorizePage - Validated Consent message in Read and Sign Box successfully || Pass
+19:50:52.894 [main] DEBUG Page.Nyl_AuthorizePage - Validate DIVIDEND Notice in Divident Box
+19:50:55.180 [main] INFO  Page.Nyl_AuthorizePage - Validated DIVIDEND Notice message in Divident Box successfully || Pass
+19:50:55.183 [main] DEBUG Page.Nyl_AuthorizePage - Validate TermLife  Messege in Divident Box
+19:50:57.378 [main] INFO  Page.Nyl_AuthorizePage - Validated Term Life message in Divident Box successfully || Pass
+19:50:57.381 [main] DEBUG Page.Nyl_AuthorizePage - Validate Ten Year Term Messege in Divident Box
+19:50:59.577 [main] INFO  Page.Nyl_AuthorizePage - Validated Ten Year message in Divident Box successfully || Pass
+19:50:59.577 [main] DEBUG Page.Nyl_AuthorizePage - Validate Twenty Year Term Messege in Divident Box
+19:51:01.789 [main] INFO  Page.Nyl_AuthorizePage - Validated Twenty Year message in Divident Box successfully || Pass
+19:51:01.789 [main] DEBUG Page.Nyl_AuthorizePage - Validate Fifty Year Term Messege in Divident Box
+19:51:03.949 [main] INFO  Page.Nyl_AuthorizePage - Validated Fifty Year message in Divident Box successfully || Pass
+19:51:03.952 [main] DEBUG Page.Nyl_AuthorizePage - Validate AccidentDeath  Messege in Divident Box
+19:51:06.148 [main] INFO  Page.Nyl_AuthorizePage - Validated AccidentDeath message in Divident Box successfully || Pass

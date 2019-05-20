@@ -1,0 +1,479 @@
+18:22:53.277 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:22:53.291 [main] DEBUG Page.Nyl_EligibilityPage - Validate Age Restriction
+18:22:57.373 [main] INFO  Page.Nyl_EligibilityPage - Age Restriction is validated sucessfully|| Pass
+18:22:57.375 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+18:22:57.680 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+18:22:57.682 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:23:03.773 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:23:03.776 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:23:03.821 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:23:03.826 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:23:09.892 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:23:09.895 [main] DEBUG Page.Nyl_ProductPage - Validate Error Message on Product Page
+18:23:09.969 [main] INFO  Page.Nyl_ProductPage - Error Message on Product Page is validated successfully || Pass
+18:23:09.971 [main] DEBUG Page.Nyl_ProductPage - Select the product for Term Life Insurance for Self
+18:23:14.108 [main] INFO  Page.Nyl_ProductPage - Product for Term life Insurance for Self selected successfully || Pass
+18:23:14.111 [main] DEBUG Page.Nyl_ProductPage - Select Term Life Insurance product for Spouse
+18:23:15.218 [main] INFO  Page.Nyl_ProductPage - Term Life Insurance product for Spouse Product selected successfully || Pass
+18:23:15.220 [main] DEBUG Page.Nyl_ProductPage - Select Self for Ten Year Life term Insurance Product
+18:23:18.338 [main] INFO  Page.Nyl_ProductPage - Ten Year Life term Insurance Product for self is selected sucessfully|| Pass
+18:23:18.340 [main] DEBUG Page.Nyl_ProductPage - Select the Ten Year Level Term Life Insurance product for Spouse
+18:23:19.450 [main] INFO  Page.Nyl_ProductPage - 10 year Product selected successfully || Pass
+18:23:19.452 [main] DEBUG Page.Nyl_ProductPage - Select Self for Twenty Year Life term Insurance Product
+18:23:22.572 [main] INFO  Page.Nyl_ProductPage - Twenty Year Life term Insurance Product for self is selected sucessfully|| Pass
+18:23:22.574 [main] DEBUG Page.Nyl_ProductPage - Select the Twenty Year Level Term Life Insurance product for Spouse
+18:23:24.198 [main] INFO  Page.Nyl_ProductPage - 20 year Product selected successfully || Pass
+18:23:24.201 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+18:23:26.863 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+18:23:26.885 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:23:32.963 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:23:32.965 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+18:23:33.117 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+18:23:33.118 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+18:23:34.363 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+18:23:34.364 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:23:36.005 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:23:36.007 [main] DEBUG Page.Nyl_ProductPage - Selects Answer as No for Applying any Other Insurance
+18:23:36.092 [main] INFO  Page.Nyl_ProductPage -  No Options for Applying any Other Insurance is selected Sucessfully|| Pass
+18:23:36.093 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:23:42.164 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:23:42.166 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:23:42.208 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:23:42.210 [main] DEBUG Page.Nyl_CoveragePage - Validate Max aggregrate Message is displayed for Group Term Product
+18:23:43.303 [main] INFO  Page.Nyl_CoveragePage - Max aggregrate Message is validated for Group Term Product
+18:23:43.305 [main] DEBUG Page.Nyl_CoveragePage - Click on Group Ten-Year Level Term Life Insurance on Request Coverage Page
+18:23:46.399 [main] INFO  Page.Nyl_CoveragePage - Group Ten-Year Level Term Life Insurance on Request Coverage Page is Clicked sucessfully || Pass
+18:23:46.401 [main] DEBUG Page.Nyl_CoveragePage - Validate Max aggregrate Message is displayed for 10-Year Level Term Life Insurance product
+18:23:49.491 [main] INFO  Page.Nyl_CoveragePage - Max aggregrate Message is validated for 10-Year Level Term Life Insurance product
+18:23:49.492 [main] DEBUG Page.Nyl_CoveragePage - Click on Twenty-Year Level Term Life Insurance on Request Coverage Page
+18:23:52.600 [main] INFO  Page.Nyl_CoveragePage - Twenty-Year Level Term Life Insurance on Request Coverage Page is Clicked sucessfully || Pass
+18:23:52.602 [main] DEBUG Page.Nyl_CoveragePage - Validate Max aggregrate Message is displayed for 20-Year Level Term Life Insurance product
+18:23:55.720 [main] INFO  Page.Nyl_CoveragePage - Max aggregrate Message is validated for 20-Year Level Term Life Insurance product
+18:23:55.722 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Term Life Insurance Products
+18:23:55.815 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:23:56.879 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 140000
+18:23:57.056 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:23:57.056 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Term Life Insurance Product sucessfully || Pass
+18:23:57.057 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Five Years Products
+18:23:57.122 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Five Years Products are validated sucessfully || Pass
+18:23:57.123 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Five Years Products
+18:23:57.150 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:23:58.216 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 150000
+18:23:58.427 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:23:58.427 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Five Years Product sucessfully || Pass
+18:23:58.428 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Five Years Spouse Products
+18:23:58.487 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Five Years  Spouse Products are validated sucessfully || Pass
+18:23:58.488 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Ten Years Products
+18:24:00.576 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:24:01.660 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 110000
+18:24:01.709 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:24:01.710 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Ten Years Product sucessfully || Pass
+18:24:01.711 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Ten Years Products
+18:24:01.776 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Ten Years Products are validated sucessfully || Pass
+18:24:01.777 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Ten Years Products
+18:24:01.804 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:24:02.866 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 120000
+18:24:02.952 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:24:02.952 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Ten Years Product sucessfully || Pass
+18:24:02.953 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Spouse for Ten Year Term Insurance Products
+18:24:03.011 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Ten Year Term Insurance Products of Spouse  are validated sucessfully || Pass
+18:24:03.012 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Twenty Years Products
+18:24:05.079 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:24:06.162 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 140000
+18:24:06.328 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:24:06.328 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Twenty Years Product sucessfully || Pass
+18:24:06.329 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Twenty Years Products
+18:24:06.385 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Twenty Years Products are validated sucessfully || Pass
+18:24:06.387 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Twenty Years Products
+18:24:06.413 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:24:07.468 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 480000
+18:24:08.942 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:24:08.943 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Twenty Years Product sucessfully || Pass
+18:24:08.944 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Spouse for Twenty Year Term Insurance Products
+18:24:09.000 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Twenty Year Term Insurance Products of Spouse  are validated sucessfully || Pass
+18:24:09.002 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Insurance Products
+18:24:09.093 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:24:10.155 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 5500
+18:24:11.838 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:24:11.839 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Insurance Product sucessfully || Pass
+18:24:11.840 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for DII Products
+18:24:11.894 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for DII Products are validated sucessfully || Pass
+18:24:11.895 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:24:14.051 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:24:14.053 [main] DEBUG Page.Nyl_CoveragePage - Validate Maximum Monthly Benefit Amount for DII
+18:24:16.096 [main] INFO  Page.Nyl_CoveragePage - Maximum Monthly Benefit Amount for DII is validated successfully ||Pass
+18:24:16.098 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:24:17.348 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:24:17.349 [main] DEBUG Page.Nyl_CoveragePage - Validate that the Catastrophic Disability Benefit Rider is not rendered
+18:24:17.383 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is Renderded  sucessfully || Pass
+18:24:17.385 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:24:18.538 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:24:18.540 [main] DEBUG Page.Nyl_CoveragePage - Validate that the Catastrophic Disability Benefit Rider is rendered
+18:24:18.557 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is Renderded  sucessfully || Pass
+18:24:18.559 [main] DEBUG Page.Nyl_CoveragePage - Selects Catastrophic Disability Benefit Rider for Disability Income Insurance Product
+18:24:21.166 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is selected  sucessfully || Pass
+18:24:21.168 [main] DEBUG Page.Nyl_CoveragePage - Validate that the Rider message is displayed
+18:24:22.268 [main] INFO  Page.Nyl_CoveragePage - Rider Meaage is validated sucessfully...||Pass
+18:24:22.269 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Rider Insurance Products
+18:24:22.296 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:24:23.362 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 1000
+18:24:23.362 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+18:24:23.362 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:24:23.362 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Rider Insurance Product sucessfully || Pass
+18:24:23.364 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for DII Rider Products
+18:24:23.430 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for DII Rider Products are validated sucessfully || Pass
+18:24:23.431 [main] DEBUG Page.Nyl_CoveragePage - Selects Cost of Living Adjustment  Rider for Disability Income Insurance Product
+18:24:26.056 [main] INFO  Page.Nyl_CoveragePage - Cost of Living Adjustment Rider for Disability Income Insurance is selected  sucessfully || Pass
+18:24:26.058 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:24:32.154 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:24:32.155 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+18:24:34.229 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+18:24:34.230 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self under Ten Years
+18:24:37.428 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Self under Ten Years is clicked successfully || Pass
+18:24:37.429 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Primary and trust radio button
+18:24:37.896 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Primary and Trust radio button successfully || Pass
+18:24:37.898 [main] DEBUG Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust
+18:24:42.337 [main] INFO  Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust || Pass
+18:24:42.338 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:24:46.392 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:24:46.394 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self under Ten Years
+18:24:49.594 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Self under Ten Years is clicked successfully || Pass
+18:24:49.596 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects contingent and trust radio button
+18:24:50.968 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Contingent and Trust radio button successfully || Pass
+18:24:50.970 [main] DEBUG Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust
+18:24:55.448 [main] INFO  Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust || Pass
+18:24:55.450 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:24:59.508 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:24:59.510 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete the Contingent beneficiary details
+18:25:03.622 [main] INFO  Page.Nyl_BeneficiaryPage - Delete icon for Contingent beneficiary is clicked Successfully successfully || Pass
+18:25:03.624 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+18:25:05.703 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+18:25:05.705 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Twenty Years
+18:25:07.875 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Twenty Years is clicked successfully || Pass
+18:25:07.877 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:25:10.241 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:25:10.242 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:25:10.625 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:25:10.626 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:25:14.683 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:25:14.685 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Twenty Years
+18:25:16.853 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Twenty Years is clicked successfully || Pass
+18:25:16.855 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:25:20.319 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:25:20.321 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details when relationship is taken as other
+18:25:20.838 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary when relationship is taken as other successfully || Pass
+18:25:20.840 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:25:24.900 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:25:24.901 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete the Contingent beneficiary details
+18:25:29.022 [main] INFO  Page.Nyl_BeneficiaryPage - Delete icon for Contingent beneficiary is clicked Successfully successfully || Pass
+18:25:29.024 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+18:25:31.105 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+18:25:31.106 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:25:37.164 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:25:37.167 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+18:25:41.181 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+18:25:41.183 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+18:25:43.514 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+18:25:43.516 [main] DEBUG Page.Nyl_ContactPage - Select Yes radio Button for NON QD Travel Question for Self
+18:25:43.642 [main] INFO  Page.Nyl_ContactPage - NON QD Travel Question for Self Radio Button is selected Sucessfully|| Pass
+18:25:43.644 [main] DEBUG Page.Nyl_ContactPage - Enter Outside U.S Details for Self
+18:25:44.163 [main] INFO  Page.Nyl_ContactPage - Outside U.S Details for Self details enter successfully || Pass
+18:25:44.165 [main] DEBUG Page.Nyl_ContactPage - Select Yes Radio Button for Tobacco Question
+18:25:47.261 [main] INFO  Page.Nyl_ContactPage - Yes Radio Button for Tobacco Question is selected Sucessfully|| Pass
+18:25:47.263 [main] DEBUG Page.Nyl_ContactPage - Last used date and Product Used Textbox are Displayed
+18:25:47.339 [main] INFO  Page.Nyl_ContactPage - Last used date and Product Used Textbox are Displayed Sucessfully|| Pass
+18:25:47.341 [main] DEBUG Page.Nyl_ContactPage - Enter Last used date for Tobacco or Nicotine Product for Self 
+18:25:52.199 [main] INFO  Page.Nyl_ContactPage - Last used date for Nicotine Product for Self is entered Sucessfully|| Pass
+18:25:52.200 [main] DEBUG Page.Nyl_ContactPage - Enter Tobacco or Nicotine Product for Self 
+18:25:54.554 [main] INFO  Page.Nyl_ContactPage -  Nicotine Product for Self is entered Sucessfully|| Pass
+18:25:54.555 [main] DEBUG Page.Nyl_ContactPage - Select Residential Radio Button
+18:25:57.664 [main] INFO  Page.Nyl_ContactPage - Residential Radio Button is selected Sucessfully|| Pass
+18:25:57.665 [main] DEBUG Page.Nyl_ContactPage - Select Business Address Radio Button
+18:25:59.762 [main] INFO  Page.Nyl_ContactPage -  Business Address  Radio Button is selected Sucessfully|| Pass
+18:25:59.763 [main] DEBUG Page.Nyl_ContactPage - Enter Business Address Details
+18:26:00.052 [main] INFO  Page.Nyl_ContactPage -  Business Address details are entered Sucessfully|| Pass
+18:26:00.054 [main] DEBUG Page.Nyl_ContactPage - Enter contact details for Spouse
+18:26:04.451 [main] INFO  Page.Nyl_ContactPage - Contact details for Spouse are added successfully || Pass
+18:26:04.453 [main] DEBUG Page.Nyl_ContactPage - Enters Weight Twelve Months ago_details_for_Spouse
+18:26:49.784 [main] ERROR Page.Nyl_ContactPage - Not able to Enters Weight Twelve Months ago details for Spouse || FailTimed out after 10 seconds. Unable to locate the element
+18:26:49.823 [main] INFO  StepDef.ServiceHooks - <ACOG_SC01> Application submission for Self and Spouse with all the products, Beneficiary and rider(s) is Failed
+18:30:04.562 [main] DEBUG Page.Nyl_BasicInfo - Navigating to URL
+18:30:04.572 [main] DEBUG Selenium.SetUp - Navigating to URL
+18:30:19.455 [main] INFO  Selenium.SetUp - Navigate URL successfully
+18:30:49.457 [main] INFO  Page.Nyl_BasicInfo - Navigation || Navigate URL || Pass
+18:30:49.461 [main] DEBUG Page.Nyl_BasicInfo - Click on apply now button
+18:30:49.586 [main] INFO  Page.Nyl_BasicInfo - Navigation || click on apply now button || Pass
+18:30:49.587 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+18:30:51.192 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+18:30:51.194 [main] DEBUG Page.Nyl_EligibilityPage - Enter self eligibility details
+18:30:54.015 [main] INFO  Page.Nyl_EligibilityPage - Enter self eligibility details successfully || Pass
+18:30:54.019 [main] DEBUG Page.Nyl_EligibilityPage - Click Self
+18:30:56.128 [main] INFO  Page.Nyl_EligibilityPage - Self is clicked || Pass
+18:30:56.130 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as No
+18:30:56.217 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as No|| Pass
+18:30:56.219 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Resident as No
+18:30:56.313 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Resident as No|| Pass
+18:30:56.314 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:30:56.395 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:30:56.397 [main] DEBUG Page.Nyl_EligibilityPage - Validate Next Button Is Disabled
+18:30:56.422 [main] INFO  Page.Nyl_EligibilityPage - Validated Next Button is Disabled successfully|| Pass
+18:30:56.424 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for Member of American Bar association as Yes
+18:30:56.497 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for Member of American Bar association as Yes|| Pass
+18:30:56.499 [main] DEBUG Page.Nyl_EligibilityPage - Validate Next Button Is Enabled
+18:30:56.514 [main] INFO  Page.Nyl_EligibilityPage - Validate Next Button is Enabled successfully|| Pass
+18:30:56.516 [main] DEBUG Page.Nyl_EligibilityPage - Select the Radio Button for all of the duties of your regular occupation as Yes
+18:30:56.572 [main] INFO  Page.Nyl_EligibilityPage - Radio Button is clicked for all of the duties of your regular occupation as Yes|| Pass
+18:30:56.574 [main] DEBUG Page.Nyl_EligibilityPage - Click Spouse
+18:30:56.670 [main] INFO  Page.Nyl_EligibilityPage - Spouse is clicked || Pass
+18:30:56.671 [main] DEBUG Page.Nyl_EligibilityPage - Enter Spouse Contacts details
+18:30:59.551 [main] INFO  Page.Nyl_EligibilityPage - Spouse Contacts details are entered sucessfully
+18:30:59.552 [main] DEBUG Page.Nyl_EligibilityPage - Select NO Radio Button For Spouse is Member
+18:31:03.624 [main] INFO  Page.Nyl_EligibilityPage -  Select NO Radio Button For Spouse is Member successfully || Pass
+18:31:03.626 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:31:09.730 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:31:09.733 [main] DEBUG Page.Nyl_EligibilityPage - Validate Age Restriction
+18:31:13.838 [main] INFO  Page.Nyl_EligibilityPage - Age Restriction is validated sucessfully|| Pass
+18:31:13.840 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+18:31:18.796 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+18:31:18.798 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Spouse
+18:31:27.653 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Spouse is entered sucessfully|| Pass
+18:31:27.655 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:31:33.763 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:31:33.766 [main] DEBUG Page.Nyl_EligibilityPage - Validate Age Restriction
+18:31:37.858 [main] INFO  Page.Nyl_EligibilityPage - Age Restriction is validated sucessfully|| Pass
+18:31:37.860 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+18:31:42.663 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+18:31:42.666 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Spouse
+18:31:51.477 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Spouse is entered sucessfully|| Pass
+18:31:51.479 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:31:57.568 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:31:57.571 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:31:57.628 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:31:57.632 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:32:00.733 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:32:00.737 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Self
+18:32:05.586 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Self is entered sucessfully|| Pass
+18:32:05.590 [main] DEBUG Page.Nyl_EligibilityPage - Enter the Date of Birth for Spouse
+18:32:14.452 [main] INFO  Page.Nyl_EligibilityPage - Date of Birth for Spouse is entered sucessfully|| Pass
+18:32:14.454 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:32:20.531 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:32:20.534 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:32:20.575 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:32:20.577 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:32:23.630 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:32:23.633 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+18:32:23.676 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+18:32:23.678 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+18:32:24.619 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+18:32:24.621 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:32:30.707 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:32:30.709 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:32:30.734 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:32:30.736 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Five Year Term Life Insurance is not displayed
+18:32:30.763 [main] INFO  Page.Nyl_ProductPage - Five Year Term Life Insurance Product is displayed
+18:32:30.763 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Ten Year Term Life Insurance
+18:32:30.790 [main] INFO  Page.Nyl_ProductPage - Ten Year Term Life Insurance Product is displayed
+18:32:30.790 [main] DEBUG Page.Nyl_ProductPage - Verify the Products for Twenty Year Term Life Insurance
+18:32:30.818 [main] INFO  Page.Nyl_ProductPage - Twenty Year Term Life Insurance Product is displayed||Pass
+18:32:30.820 [main] DEBUG Page.Nyl_EligibilityPage - Click on Previous Button
+18:32:33.870 [main] INFO  Page.Nyl_EligibilityPage - Click on Previous button successfully || Pass
+18:32:33.873 [main] DEBUG Page.Nyl_EligibilityPage - Validate the Eligibility page is Displayed
+18:32:33.926 [main] INFO  Page.Nyl_EligibilityPage - Eligibility page is Displayed successfully || Pass
+18:32:33.928 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+18:32:34.367 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+18:32:34.369 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:32:40.488 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:32:40.491 [main] DEBUG Page.Nyl_EligibilityPage - Validate Age Restriction
+18:32:44.617 [main] INFO  Page.Nyl_EligibilityPage - Age Restriction is validated sucessfully|| Pass
+18:32:44.619 [main] DEBUG Page.Nyl_EligibilityPage - Select New state
+18:32:44.930 [main] INFO  Page.Nyl_EligibilityPage -  New state is selected sucessfully|| Pass
+18:32:44.932 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:32:51.028 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:32:51.031 [main] DEBUG Page.Nyl_ProductPage - Product Page Details are displayed to user
+18:32:51.083 [main] INFO  Page.Nyl_ProductPage - Product Page details are validated successfully || PASS
+18:32:51.085 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:32:57.150 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:32:57.153 [main] DEBUG Page.Nyl_ProductPage - Validate Error Message on Product Page
+18:32:57.231 [main] INFO  Page.Nyl_ProductPage - Error Message on Product Page is validated successfully || Pass
+18:32:57.233 [main] DEBUG Page.Nyl_ProductPage - Select the product for Term Life Insurance for Self
+18:33:01.363 [main] INFO  Page.Nyl_ProductPage - Product for Term life Insurance for Self selected successfully || Pass
+18:33:01.365 [main] DEBUG Page.Nyl_ProductPage - Select Term Life Insurance product for Spouse
+18:33:02.464 [main] INFO  Page.Nyl_ProductPage - Term Life Insurance product for Spouse Product selected successfully || Pass
+18:33:02.466 [main] DEBUG Page.Nyl_ProductPage - Select Self for Ten Year Life term Insurance Product
+18:33:05.563 [main] INFO  Page.Nyl_ProductPage - Ten Year Life term Insurance Product for self is selected sucessfully|| Pass
+18:33:05.566 [main] DEBUG Page.Nyl_ProductPage - Select the Ten Year Level Term Life Insurance product for Spouse
+18:33:06.706 [main] INFO  Page.Nyl_ProductPage - 10 year Product selected successfully || Pass
+18:33:06.709 [main] DEBUG Page.Nyl_ProductPage - Select Self for Twenty Year Life term Insurance Product
+18:33:09.832 [main] INFO  Page.Nyl_ProductPage - Twenty Year Life term Insurance Product for self is selected sucessfully|| Pass
+18:33:09.834 [main] DEBUG Page.Nyl_ProductPage - Select the Twenty Year Level Term Life Insurance product for Spouse
+18:33:11.463 [main] INFO  Page.Nyl_ProductPage - 20 year Product selected successfully || Pass
+18:33:11.486 [main] DEBUG Page.Nyl_ProductPage - Select Self for Disability Income Insurance Product
+18:33:14.116 [main] INFO  Page.Nyl_ProductPage - Disability Income Insurance Product for Self is selected sucessfully|| Pass
+18:33:14.118 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:33:20.202 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:33:20.204 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page
+18:33:20.367 [main] INFO  Page.Nyl_ProductPage - Additional Product page answered successfully || Pass
+18:33:20.369 [main] DEBUG Page.Nyl_ProductPage - Answer the questions of Product Additional Page for Spouse
+18:33:21.591 [main] INFO  Page.Nyl_ProductPage - Additional Product page for Spouse answered successfully || Pass
+18:33:21.593 [main] DEBUG Page.Nyl_ProductPage - Enter Average Monthly income for Disability Coverage
+18:33:23.233 [main] INFO  Page.Nyl_ProductPage - Monthly Income is Entered Sucessfully|| Pass
+18:33:23.235 [main] DEBUG Page.Nyl_ProductPage - Selects Answer as No for Applying any Other Insurance
+18:33:23.327 [main] INFO  Page.Nyl_ProductPage -  No Options for Applying any Other Insurance is selected Sucessfully|| Pass
+18:33:23.329 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:33:29.397 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:33:29.399 [main] DEBUG Page.Nyl_CoveragePage - Request Coverage page is displayed to user
+18:33:29.441 [main] INFO  Page.Nyl_CoveragePage - Request Coverage page is displayed to user sucessfully || Pass
+18:33:29.443 [main] DEBUG Page.Nyl_CoveragePage - Validate Max aggregrate Message is displayed for Group Term Product
+18:33:30.533 [main] INFO  Page.Nyl_CoveragePage - Max aggregrate Message is validated for Group Term Product
+18:33:30.535 [main] DEBUG Page.Nyl_CoveragePage - Click on Group Ten-Year Level Term Life Insurance on Request Coverage Page
+18:33:33.653 [main] INFO  Page.Nyl_CoveragePage - Group Ten-Year Level Term Life Insurance on Request Coverage Page is Clicked sucessfully || Pass
+18:33:33.655 [main] DEBUG Page.Nyl_CoveragePage - Validate Max aggregrate Message is displayed for 10-Year Level Term Life Insurance product
+18:33:36.775 [main] INFO  Page.Nyl_CoveragePage - Max aggregrate Message is validated for 10-Year Level Term Life Insurance product
+18:33:36.777 [main] DEBUG Page.Nyl_CoveragePage - Click on Twenty-Year Level Term Life Insurance on Request Coverage Page
+18:33:39.904 [main] INFO  Page.Nyl_CoveragePage - Twenty-Year Level Term Life Insurance on Request Coverage Page is Clicked sucessfully || Pass
+18:33:39.906 [main] DEBUG Page.Nyl_CoveragePage - Validate Max aggregrate Message is displayed for 20-Year Level Term Life Insurance product
+18:33:43.030 [main] INFO  Page.Nyl_CoveragePage - Max aggregrate Message is validated for 20-Year Level Term Life Insurance product
+18:33:43.033 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Term Life Insurance Products
+18:33:43.140 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:44.208 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 140000
+18:33:44.383 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:44.383 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Term Life Insurance Product sucessfully || Pass
+18:33:44.384 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Five Years Products
+18:33:44.441 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Five Years Products are validated sucessfully || Pass
+18:33:44.443 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Five Years Products
+18:33:44.468 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:45.534 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 150000
+18:33:45.748 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:45.748 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Five Years Product sucessfully || Pass
+18:33:45.750 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Five Years Spouse Products
+18:33:45.807 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Five Years  Spouse Products are validated sucessfully || Pass
+18:33:45.808 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Ten Years Products
+18:33:47.894 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:48.979 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 110000
+18:33:49.029 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:49.029 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Ten Years Product sucessfully || Pass
+18:33:49.031 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Ten Years Products
+18:33:49.088 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Ten Years Products are validated sucessfully || Pass
+18:33:49.089 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Ten Years Products
+18:33:49.115 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:50.180 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 120000
+18:33:50.289 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:50.289 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Ten Years Product sucessfully || Pass
+18:33:50.291 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Spouse for Ten Year Term Insurance Products
+18:33:50.349 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Ten Year Term Insurance Products of Spouse  are validated sucessfully || Pass
+18:33:50.350 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of Twenty Years Products
+18:33:52.418 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:53.506 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 140000
+18:33:53.673 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:53.673 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of Twenty Years Product sucessfully || Pass
+18:33:53.674 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for Twenty Years Products
+18:33:53.733 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Twenty Years Products are validated sucessfully || Pass
+18:33:53.734 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Spouse of Twenty Years Products
+18:33:53.760 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:54.828 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=100000
+Benefit Amount is 480000
+18:33:56.302 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:56.303 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Spouse of Twenty Years Product sucessfully || Pass
+18:33:56.304 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges of Spouse for Twenty Year Term Insurance Products
+18:33:56.359 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for Twenty Year Term Insurance Products of Spouse  are validated sucessfully || Pass
+18:33:56.360 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Insurance Products
+18:33:56.449 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:33:57.507 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 5500
+18:33:59.251 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:33:59.252 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Insurance Product sucessfully || Pass
+18:33:59.253 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for DII Products
+18:33:59.312 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for DII Products are validated sucessfully || Pass
+18:33:59.314 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:34:01.469 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:34:01.471 [main] DEBUG Page.Nyl_CoveragePage - Validate Maximum Monthly Benefit Amount for DII
+18:34:03.517 [main] INFO  Page.Nyl_CoveragePage - Maximum Monthly Benefit Amount for DII is validated successfully ||Pass
+18:34:03.519 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:34:04.765 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:34:04.767 [main] DEBUG Page.Nyl_CoveragePage - Validate that the Catastrophic Disability Benefit Rider is not rendered
+18:34:04.806 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is Renderded  sucessfully || Pass
+18:34:04.808 [main] DEBUG Page.Nyl_CoveragePage - Select Waiting Period for Disability Income Insurance Products
+18:34:05.991 [main] INFO  Page.Nyl_CoveragePage - Waiting Period for Disability Income Insurance Products for Self is selected sucessfully  || Pass
+18:34:05.993 [main] DEBUG Page.Nyl_CoveragePage - Validate that the Catastrophic Disability Benefit Rider is rendered
+18:34:06.018 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is Renderded  sucessfully || Pass
+18:34:06.019 [main] DEBUG Page.Nyl_CoveragePage - Selects Catastrophic Disability Benefit Rider for Disability Income Insurance Product
+18:34:08.653 [main] INFO  Page.Nyl_CoveragePage - Catastrophic Disability Benefit Rider for Disability Income Insurance Product is selected  sucessfully || Pass
+18:34:08.655 [main] DEBUG Page.Nyl_CoveragePage - Validate that the Rider message is displayed
+18:34:09.768 [main] INFO  Page.Nyl_CoveragePage - Rider Meaage is validated sucessfully...||Pass
+18:34:09.770 [main] DEBUG Page.Nyl_CoveragePage - Select Benefit Amount for Self of DII Rider Insurance Products
+18:34:09.797 [main] DEBUG Utility.ReuseableMethod - Select Benefit amount
+18:34:10.856 [main] DEBUG Utility.ReuseableMethod - Amount Shown in slider=1000
+Benefit Amount is 1000
+18:34:10.856 [main] INFO  Utility.ReuseableMethod - Amount matched, No need to slide
+18:34:10.856 [main] INFO  Utility.ReuseableMethod - Slider is slided till given amount|| Pass
+18:34:10.856 [main] INFO  Page.Nyl_CoveragePage - Amount selected for Self of DII Rider Insurance Product sucessfully || Pass
+18:34:10.858 [main] DEBUG Page.Nyl_CoveragePage - Validate Benefit Slider Ranges for DII Rider Products
+18:34:10.920 [main] INFO  Page.Nyl_CoveragePage - Benefit Slider Ranges for DII Rider Products are validated sucessfully || Pass
+18:34:10.921 [main] DEBUG Page.Nyl_CoveragePage - Selects Cost of Living Adjustment  Rider for Disability Income Insurance Product
+18:34:13.552 [main] INFO  Page.Nyl_CoveragePage - Cost of Living Adjustment Rider for Disability Income Insurance is selected  sucessfully || Pass
+18:34:13.554 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:34:19.654 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:34:19.656 [main] DEBUG Page.Nyl_BeneficiaryPage - Beneficiary page is displayed to User
+18:34:21.719 [main] INFO  Page.Nyl_BeneficiaryPage - Beneficiary page is displayed  successfully || Pass
+18:34:21.721 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self under Ten Years
+18:34:24.921 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Self under Ten Years is clicked successfully || Pass
+18:34:24.922 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Primary and trust radio button
+18:34:25.353 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Primary and Trust radio button successfully || Pass
+18:34:25.355 [main] DEBUG Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust
+18:34:29.873 [main] INFO  Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust || Pass
+18:34:29.874 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:34:33.930 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:34:33.933 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Self under Ten Years
+18:34:37.102 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Self under Ten Years is clicked successfully || Pass
+18:34:37.104 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects contingent and trust radio button
+18:34:38.490 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Contingent and Trust radio button successfully || Pass
+18:34:38.491 [main] DEBUG Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust
+18:34:42.934 [main] INFO  Page.Nyl_BeneficiaryPage - User Enters Beneficiary details as Trust and Datetrust || Pass
+18:34:42.936 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:34:46.994 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:34:46.996 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete the Contingent beneficiary details
+18:34:51.117 [main] INFO  Page.Nyl_BeneficiaryPage - Delete icon for Contingent beneficiary is clicked Successfully successfully || Pass
+18:34:51.119 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+18:34:53.193 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+18:34:53.195 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Twenty Years
+18:34:55.349 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Twenty Years is clicked successfully || Pass
+18:34:55.351 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button
+18:34:57.713 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and primary radio button successfully || Pass
+18:34:57.714 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details
+18:34:58.082 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary successfully || Pass
+18:34:58.083 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:35:02.144 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:35:02.146 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on Add Beneficiary Button for Spouse under Twenty Years
+18:35:04.278 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Button for Spouse under Twenty Years is clicked successfully || Pass
+18:35:04.280 [main] DEBUG Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button
+18:35:07.765 [main] INFO  Page.Nyl_BeneficiaryPage - Add Beneficiary Page is displayed and  user selects Individual and Contingent radio button successfully || Pass
+18:35:07.768 [main] DEBUG Page.Nyl_BeneficiaryPage - User enter beneficiary details when relationship is taken as other
+18:35:08.240 [main] INFO  Page.Nyl_BeneficiaryPage - User enter beneficiary when relationship is taken as other successfully || Pass
+18:35:08.242 [main] DEBUG Page.Nyl_BeneficiaryPage - Click on OK button
+18:35:12.286 [main] INFO  Page.Nyl_BeneficiaryPage - Click on OK button successfully || Pass
+18:35:12.288 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete the Contingent beneficiary details
+18:35:16.405 [main] INFO  Page.Nyl_BeneficiaryPage - Delete icon for Contingent beneficiary is clicked Successfully successfully || Pass
+18:35:16.407 [main] DEBUG Page.Nyl_BeneficiaryPage - Delete Box is Displyed and Click On Yes Button
+18:35:18.486 [main] INFO  Page.Nyl_BeneficiaryPage - Yes Button is Clicked Successfully || Pass
+18:35:18.489 [main] DEBUG Page.Nyl_EligibilityPage - Click on next button
+18:35:24.579 [main] INFO  Page.Nyl_EligibilityPage - Click on next button successfully || Pass
+18:35:24.582 [main] DEBUG Page.Nyl_ContactPage - Enter contact details
+18:35:28.576 [main] INFO  Page.Nyl_ContactPage - Contact details added successfully || Pass
+18:35:28.578 [main] DEBUG Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self
+18:35:30.892 [main] INFO  Page.Nyl_ContactPage - Select Phone Type and Phone Number for Self successfully || Pass
+18:35:30.894 [main] DEBUG Page.Nyl_ContactPage - Select Yes radio Button for NON QD Travel Question for Self
+18:35:31.003 [main] INFO  Page.Nyl_ContactPage - NON QD Travel Question for Self Radio Button is selected Sucessfully|| Pass
+18:35:31.005 [main] DEBUG Page.Nyl_ContactPage - Enter Outside U.S Details for Self

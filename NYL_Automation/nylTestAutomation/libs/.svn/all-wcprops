@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/NYL-Automation/!svn/ver/218/trunk/Automation/nylTestAutomation/libs
+END
+geckodriver.exe
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NYL-Automation/!svn/ver/218/trunk/Automation/nylTestAutomation/libs/geckodriver.exe
+END
+chromedriver.exe
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/NYL-Automation/!svn/ver/21/trunk/Automation/nylTestAutomation/libs/chromedriver.exe
+END
+IEDriverServer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/NYL-Automation/!svn/ver/185/trunk/Automation/nylTestAutomation/libs/IEDriverServer.exe
+END

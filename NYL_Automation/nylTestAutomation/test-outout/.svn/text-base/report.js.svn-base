@@ -1,0 +1,504 @@
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("abe_NYL.feature");
+formatter.feature({
+  "line": 2,
+  "name": "Abe Test",
+  "description": "",
+  "id": "abe-test",
+  "keyword": "Feature"
+});
+formatter.scenarioOutline({
+  "line": 5,
+  "name": "Complete workflow of application",
+  "description": "",
+  "id": "abe-test;complete-workflow-of-application",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 4,
+      "name": "@Tag1"
+    }
+  ]
+});
+formatter.step({
+  "line": 6,
+  "name": "Test set up  for \"NYL\" feature and \"NYL_ABE\" scenario",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 7,
+  "name": "customer navigate to NYL \"\u003cwebsite\u003e\"",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "Clicks on Apply now button",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 9,
+  "name": "Scroll down and click on I ATtest To Having Read the Above Information button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "Eligibility page details are displayed to user and validate details and enters Eligibility details as \"\u003cTitle\u003e\", \"\u003cFname\u003e\", \"\u003cLname\u003e\" , \"\u003cstate\u003e\", \"\u003cDOB\u003e\", \"\u003cworkhr\u003e\"",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 11,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 12,
+  "name": "Product page details are displayed to user and selects the product",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 14,
+  "name": "Product additional page details are displayed to user and answer the questions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 16,
+  "name": "Coverage page is displayed to user and select Benefit Amount on coverage page",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "Beneficiary page details are displayed to user and add beneficiary as \"\u003ctrustName\u003e\" , \"\u003ctrustDate\u003e\"",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Users updates the beneficiary details as \"\u003cUpdateTrustName\u003e\"",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Users delete the beneficiary details",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 22,
+  "name": "Contact page details are displayed to user and validate details",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Enters Contact details as \"\u003cSocialSecurityNo\u003e\", \"\u003cMaritalStatus\u003e\", \"\u003cHeight\u003e\" , \"\u003cWeight\u003e\", \"\u003cWt12MonthAgo\u003e\", \"\u003cMemberId\u003e\",\"\u003cAddress\u003e\" , \"\u003cCity\u003e\", \"\u003cZip\u003e\", \"\u003cPrimaryPhType\u003e\", \"\u003cPrimaryPhNo\u003e\"",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 25,
+  "name": "User scroll to next in preview page",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 26,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 27,
+  "name": "User enters \"\u003cPassword\u003e\" and \"\u003cVerifyPass\u003e\" and submit to save the information",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 28,
+  "name": "Authorize page details are displayed to user and confirm the term and conditions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 29,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 30,
+  "name": "Statement of Health page one details are displayed to user and user answers the all the questions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 31,
+  "name": "Statement of Health page two details are displayed to user and user answers the all the questions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 32,
+  "name": "Almost Done are displayed to user",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 33,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 34,
+  "name": "Review and sign page details are displayed to user and Click on continue and attached the sign",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 35,
+  "name": "Clicks on next button to finish",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 36,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 37,
+  "name": "Payment page details are displayed to user and skip payment",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 38,
+  "name": "User get the receipt number and vlaidate Application has  been recieved",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 39,
+  "name": "Close the Browser",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 42,
+  "name": "",
+  "description": "",
+  "id": "abe-test;complete-workflow-of-application;",
+  "rows": [
+    {
+      "cells": [
+        "website",
+        "Title",
+        "Fname",
+        "Lname",
+        "state",
+        "DOB",
+        "workhr",
+        "trustName",
+        "trustDate",
+        "UpdateTrustName",
+        "SocialSecurityNo",
+        "MaritalStatus",
+        "Height",
+        "Weight",
+        "Wt12MonthAgo",
+        "MemberId",
+        "Address",
+        "City",
+        "Zip",
+        "PrimaryPhType",
+        "PrimaryPhNo",
+        "Password",
+        "VerifyPass"
+      ],
+      "line": 43,
+      "id": "abe-test;complete-workflow-of-application;;1"
+    },
+    {
+      "cells": [
+        "abe",
+        "Mrs.",
+        "Velma",
+        "Peter",
+        "South Carolina",
+        "07 17 1992",
+        "45",
+        "Jhon",
+        "06 06 1985",
+        "Max",
+        "040000000",
+        "Married",
+        "5.9",
+        "188",
+        "188",
+        "121212",
+        "Ny",
+        "Ct",
+        "11111",
+        "Home",
+        "7894561235",
+        "Abcd1234@",
+        "Abcd1234@"
+      ],
+      "line": 44,
+      "id": "abe-test;complete-workflow-of-application;;2"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.scenario({
+  "line": 44,
+  "name": "Complete workflow of application",
+  "description": "",
+  "id": "abe-test;complete-workflow-of-application;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 4,
+      "name": "@Tag1"
+    }
+  ]
+});
+formatter.step({
+  "line": 6,
+  "name": "Test set up  for \"NYL\" feature and \"NYL_ABE\" scenario",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 7,
+  "name": "customer navigate to NYL \"abe\"",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 8,
+  "name": "Clicks on Apply now button",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 9,
+  "name": "Scroll down and click on I ATtest To Having Read the Above Information button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "Eligibility page details are displayed to user and validate details and enters Eligibility details as \"Mrs.\", \"Velma\", \"Peter\" , \"South Carolina\", \"07 17 1992\", \"45\"",
+  "matchedColumns": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 11,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 12,
+  "name": "Product page details are displayed to user and selects the product",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 14,
+  "name": "Product additional page details are displayed to user and answer the questions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 16,
+  "name": "Coverage page is displayed to user and select Benefit Amount on coverage page",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "Beneficiary page details are displayed to user and add beneficiary as \"Jhon\" , \"06 06 1985\"",
+  "matchedColumns": [
+    7,
+    8
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Users updates the beneficiary details as \"Max\"",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Users delete the beneficiary details",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 22,
+  "name": "Contact page details are displayed to user and validate details",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Enters Contact details as \"040000000\", \"Married\", \"5.9\" , \"188\", \"188\", \"121212\",\"Ny\" , \"Ct\", \"11111\", \"Home\", \"7894561235\"",
+  "matchedColumns": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 25,
+  "name": "User scroll to next in preview page",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 26,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 27,
+  "name": "User enters \"Abcd1234@\" and \"Abcd1234@\" and submit to save the information",
+  "matchedColumns": [
+    21,
+    22
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 28,
+  "name": "Authorize page details are displayed to user and confirm the term and conditions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 29,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 30,
+  "name": "Statement of Health page one details are displayed to user and user answers the all the questions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 31,
+  "name": "Statement of Health page two details are displayed to user and user answers the all the questions",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 32,
+  "name": "Almost Done are displayed to user",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 33,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 34,
+  "name": "Review and sign page details are displayed to user and Click on continue and attached the sign",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 35,
+  "name": "Clicks on next button to finish",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 36,
+  "name": "Clicks on next button",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 37,
+  "name": "Payment page details are displayed to user and skip payment",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 38,
+  "name": "User get the receipt number and vlaidate Application has  been recieved",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 39,
+  "name": "Close the Browser",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "NYL",
+      "offset": 18
+    },
+    {
+      "val": "NYL_ABE",
+      "offset": 36
+    }
+  ],
+  "location": "CommonPageStepDef.test_set_up_for_feature_and_scenario(String,String)"
+});
+formatter.result({
+  "duration": 4452997487,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "abe",
+      "offset": 26
+    }
+  ],
+  "location": "NYL_StepDef.customer_navigate_to_NYL(String)"
+});
